@@ -15,3 +15,5 @@ The owner approves the creative direction. AI agents perform as much of the tech
 DINO-001 explorer artwork is approved. Full 3D candidates were rejected for insufficient likeness. Image-based animation v0.1 is the current working prototype; a palm-forward wave correction is the next task. Binary assets and hosted previews must be imported and verified before claiming full recovery or deployment.
 
 Repository is public. Do not commit personal information, secrets, credentials, or unrelated conversation history.
+
+**Asset recovery:** All eight prior ZIP packages have been backed up in the owner's ChatGPT Library under `DINO Studio Archive`. See [asset registry](docs/ASSET_REGISTRY.md) and [archive hashes](docs/archive_manifest.json). GitHub alone currently holds the written project memory, not those binary packages.

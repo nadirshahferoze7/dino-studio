@@ -17,3 +17,6 @@ User created this GitHub repository as persistent project memory. Wants a browse
 
 ## Recovery
 Read asset registry for original package names and expected hashes. Prior chat artifacts are not yet committed as binaries. If assets are missing, recover the originals from the Project/Library or authorized source, verify hashes, then commit. Never fabricate replacements as approved originals.
+
+## Archive backup update
+All eight previous ZIP packages were successfully saved in the owner's persistent ChatGPT Library under `DINO Studio Archive`. See docs/ASSET_REGISTRY.md and docs/archive_manifest.json. Binary Git import and hosted previews remain pending. Future sessions should retrieve the canonical reference and v0.1 puppet archives there and verify their hashes; no prior chat is required if Library access is available.

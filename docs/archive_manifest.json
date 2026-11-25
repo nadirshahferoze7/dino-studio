@@ -1,0 +1,40 @@
+{
+  "date": "2026-11-25",
+  "storage": "Owner ChatGPT Library / DINO Studio Archive",
+  "status": "All eight archive copies succeeded; not stored as Git binary assets",
+  "hash_type": "SHA-256 of local source ZIP; recheck on recovery",
+  "archives": [
+    {
+      "filename": "DINO_001_Approved_Reference_Pack.zip",
+      "sha256": "951dc69479398c5b25f2d9f511e9a098e100dd44f04d73f1fc07ae78d8a87d7a"
+    },
+    {
+      "filename": "DINO_001_Explorer_Sculpt_Candidate.zip",
+      "sha256": "e3341238e3f76e79f9ff984ccb399db7cf00597e6e4447408531789e95cd1a90"
+    },
+    {
+      "filename": "DINO_Artwork_Puppet_Studio_v0_1.zip",
+      "sha256": "adc8fd83cab88f394849310e3cadfcb522f345c9f72190cfa97717591ad296c8"
+    },
+    {
+      "filename": "DINO_Identity_Lock_v1_Candidate.zip",
+      "sha256": "dcbc6c1d61deae1a65ac123b87125f4ea23e6cfc42a05b875d40dc13a3951ab4"
+    },
+    {
+      "filename": "DINO_Reconstruction_Test_Pack.zip",
+      "sha256": "eac408701bc0d80f4fae099a546fb218ef9c2b66824694baefd84c573d780a5f"
+    },
+    {
+      "filename": "Dino_Artwork_Animation_Source.zip",
+      "sha256": "1f1230357fab0498e02e8afecfbb55fe2d4a6dac2153ed9aa934d7304792a1f6"
+    },
+    {
+      "filename": "Project_DINO_Studio_Pack_v0_1.zip",
+      "sha256": "9fa99f097db704e97f08d737587d518486a088260b5e876dc600b32e08355053"
+    },
+    {
+      "filename": "Project_DINO_Studio_Pack_v0_2.zip",
+      "sha256": "1eda3c2edbc78cb01c5a4bbf430729c3629fff66a5b1142266c5e0d97aa3ad79"
+    }
+  ]
+}

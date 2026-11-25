@@ -1,5 +1,8 @@
 # Production history
 
+## 2026-11-25 — persistent archive backup
+- Copied all eight prior production archives into ChatGPT Library folder `DINO Studio Archive`; recorded local SHA-256 hashes and recovery instructions in Git. No binary Git import or hosting yet.
+
 ## 2026-11-25 — repository initialization
 - Repository designated project memory by owner. Added durable state, character rules, skill instructions, asset register and release policy.
 - Next work: archive image puppet v0.1, correct palm-forward wave, create browser-accessible version history. No new animation or site deployment claimed at initialization.
