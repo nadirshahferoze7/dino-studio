@@ -19,3 +19,6 @@ Archive versions under releases/<version>/ with manifests and relative preview U
 
 ## Persistent archive backup — 2026-11-25
 All eight packages above were successfully copied to the owner's ChatGPT Library folder `DINO Studio Archive`. This is a separate persistent backup, not GitHub binary storage. When resuming from a new chat, locate packages by exact filename in the owner's Library, recover them using authorized file access, and compare SHA-256 against [archive_manifest.json](archive_manifest.json). Start with the approved reference pack and image puppet v0.1. The manifest hashes were calculated from the local source ZIPs before the Library copy; recheck on recovery. If Library is unavailable, report that the original files cannot yet be retrieved from Git alone. Do not use regenerated art as a substitute. The site is still not deployed.
+
+## Git import and v0.2 candidate
+Verified repository tree includes characters/DINO-001/approved/hero.png (2,265,452 bytes), releases/v0.1/index.html and ten v0.1 WebP atlases. v0.2 reuses those atlases by relative path, adds wave.js and its own viewer; v0.1 untouched. Full v0.1 source, turnaround and archived experiments remain in Library, not yet fully in Git. GitHub Pages metadata has_pages=false; configure source main / (root) and verify before declaring published.

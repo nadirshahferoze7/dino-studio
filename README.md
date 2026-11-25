@@ -12,8 +12,8 @@ A persistent, code-controlled creative studio for an original dinosaur character
 The owner approves the creative direction. AI agents perform as much of the technical and creative production as available tools allow. The repository is the durable source of project memory; conversations are not the source of truth.
 
 ## Current status
-DINO-001 explorer artwork is approved. Full 3D candidates were rejected for insufficient likeness. Image-based animation v0.1 is the current working prototype; a palm-forward wave correction is the next task. Binary assets and hosted previews must be imported and verified before claiming full recovery or deployment.
+DINO-001 explorer artwork is approved. Full 3D candidates were rejected for insufficient likeness. Image-based animation v0.1 is archived in Git, and v0.2 palm-forward wave is a review candidate. Git includes the approved hero PNG, ten v0.1 atlas files and both versioned viewers. Full source/turnaround and older binary packages remain in Library. GitHub Pages is not yet enabled.
 
 Repository is public. Do not commit personal information, secrets, credentials, or unrelated conversation history.
 
-**Asset recovery:** All eight prior ZIP packages have been backed up in the owner's ChatGPT Library under `DINO Studio Archive`. See [asset registry](docs/ASSET_REGISTRY.md) and [archive hashes](docs/archive_manifest.json). GitHub alone currently holds the written project memory, not those binary packages.
+**Asset recovery:** All eight prior ZIP packages have been backed up in the owner's ChatGPT Library under `DINO Studio Archive`. See [asset registry](docs/ASSET_REGISTRY.md) and [archive hashes](docs/archive_manifest.json). GitHub holds written project memory, approved hero and preview atlases, not the full archived ZIP packages.

@@ -1,5 +1,10 @@
 # Production history
 
+## 2026-11-25 — v0.2 palm-forward candidate
+- Retained v0.1 atlas/viewer and hero already imported into Git. Added versioned v0.2 browser viewer and wave.js, an open-palm replacement driven by tracked hand coordinates and wrist motion; compare toggle and archive links.
+- Local Chromium canvas test: 72/72 nonempty frames, zero page errors; eight sampled poses inspected during development. Final candidate needs owner review. No external AI/API/GPU dependency.
+- GitHub Pages is not enabled (repository has_pages=false). Publishing requires one-time Pages configuration; no live preview claimed.
+
 ## 2026-11-25 — persistent archive backup
 - Copied all eight prior production archives into ChatGPT Library folder `DINO Studio Archive`; recorded local SHA-256 hashes and recovery instructions in Git. No binary Git import or hosting yet.
 
