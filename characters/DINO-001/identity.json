@@ -1,0 +1,85 @@
+{
+  "character_id": "DINO-001",
+  "version": "1.0-visual",
+  "status": "approved visual identity; master geometry pending",
+  "authority_order": [
+    "approved/hero.png",
+    "approved/turnaround.png"
+  ],
+  "secondary_references": [
+    "reference/design_sheet.png",
+    "reference/expressions.png",
+    "reference/movement.png"
+  ],
+  "identity": {
+    "surface": "smooth green, no scales, hair, spikes or crests",
+    "muzzle_and_belly": "warm cream",
+    "eyes": "large amber irises, dark pupils, white sclera and highlights",
+    "head": "large rounded head, friendly rounded muzzle, two nostrils",
+    "body": "upright bipedal, rounded torso, short arms, sturdy legs",
+    "feet": "three visible rounded brown nails per front-facing foot",
+    "tail": "single tapering upward-curved tail, cream underside",
+    "scarf": "red neckerchief, front knot with two ends, triangular back flap",
+    "satchel": "brown crossbody satchel on character right hip (viewer left in front view); strap over character left shoulder, gold rectangular buckle, round gold flap fastener",
+    "accessories": "separate removable assets; default outfit must match approved images"
+  },
+  "approximate_proportions_from_front_view": {
+    "head_height_fraction_total": [
+      0.35,
+      0.4
+    ],
+    "head_width_fraction_total_height": [
+      0.4,
+      0.46
+    ],
+    "note": "Visual estimation only; do not use generated 4.5-heads label. Refine against source artwork using aligned candidate renders."
+  },
+  "provisional_material_srgb": {
+    "green": "#78C257",
+    "cream": "#FFE6B3",
+    "red": "#E53935",
+    "bag": "#8B5A2B",
+    "gold": "#F4B000",
+    "nails": "#6B4B3A",
+    "note": "Starting swatches only, not verified physical material colors. Rendered pixels vary with lighting."
+  },
+  "rig_requirements": {
+    "body": "skinned body with head, jaw, eyes, eyelids, arms, legs, feet, and tail controls",
+    "face": [
+      "neutral",
+      "happy",
+      "sad",
+      "angry",
+      "curious",
+      "surprised",
+      "scared",
+      "determined",
+      "blink"
+    ],
+    "motion": [
+      "idle",
+      "walk",
+      "run",
+      "jump",
+      "land",
+      "sit",
+      "sleep",
+      "interact",
+      "wave"
+    ],
+    "accessories": "follow body rig; check intersections and strap orientation"
+  },
+  "release_gate": [
+    "Approved references unchanged",
+    "Candidate rendered at matched camera and scale from front, profile, back and 3/4",
+    "Face and silhouette reviewed by user",
+    "Accessory handedness verified",
+    "Animation deformations checked",
+    "GLB validation passes for 3D candidates",
+    "User explicitly approves candidate as master"
+  ],
+  "approved_file_sha256": {
+    "approved/hero.png": "82920f602cbd72bf83887c1b4b2140b880f800df05c8caa8df651f96de175a1a",
+    "approved/turnaround.png": "009085f36955d6c52e7dffaad714ce01c7a9d87265d38a53803cfd5014ab3a12"
+  }
+}

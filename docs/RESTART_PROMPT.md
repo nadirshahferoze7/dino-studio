@@ -1,0 +1,7 @@
+# Continue from any new ChatGPT conversation
+
+Tell the agent:
+
+> Continue Project DINO from https://github.com/nadirshahferoze7/dino-studio. Read README.md, AGENTS.md, PROJECT_STATE.md, CHANGELOG.md, character identity and relevant skills. Inspect the latest commits and assets. Resume the next unfinished milestone, preserve previous versions, and update the repository with actual work and verification. Do not change the approved Dino design or use paid/quota-dependent inference. Give me a browser preview, not a download, wherever publishing is available.
+
+If assets are missing, use the registry and exact hashes to recover them. A repository URL cannot magically restore missing binary assets or unavailable tools; report blockers explicitly.
