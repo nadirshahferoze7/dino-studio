@@ -1,5 +1,5 @@
 {
-  "status": "candidate",
+  "status": "owner accepted concerned expression correction",
   "tests": 432,
   "protectedBandChangedPixels": 0,
   "neutralChangedPixels": 0,
@@ -10,5 +10,10 @@
     "Actual artwork visual review pending",
     "Integrated browser playback pending",
     "Transitions from other presets can temporarily retain their existing deformation"
-  ]
+  ],
+  "owner_review": {
+    "date": "2026-11-26",
+    "feedback": "perfect",
+    "scope": "v0.4.1 concerned expression correction only"
+  }
 }

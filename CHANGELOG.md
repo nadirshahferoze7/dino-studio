@@ -1,5 +1,8 @@
 # Production history
 
+## 2026-11-26 — v0.4.1 accepted
+- Owner accepted concerned expression correction. Preserved all versions; next milestone v0.5 natural walking and running. No animation code changed.
+
 ## 2026-11-26 — v0.4.1 concern repair candidate
 - Owner rejected distorted muzzle. Added dedicated bounded concern deformation and before/after toggle; prior releases preserved. 432 synthetic pixel tests and syntax checks passed; visual review pending.
 

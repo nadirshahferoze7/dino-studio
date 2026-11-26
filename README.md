@@ -30,4 +30,6 @@ Current eye animation candidate: [v0.3](https://nadirshahferoze7.github.io/dino-
 
 Current expression candidate: [v0.4](https://nadirshahferoze7.github.io/dino-studio/releases/v0.4/). v0.3 and v0.4 still await explicit visual approval.
 
-Current concern repair candidate: [v0.4.1](https://nadirshahferoze7.github.io/dino-studio/releases/v0.4.1/).
+Current accepted concern correction: [v0.4.1](https://nadirshahferoze7.github.io/dino-studio/releases/v0.4.1/).
+
+Next milestone: v0.5 natural walking and running.

@@ -39,3 +39,6 @@ Owner said proceed; this authorizes development, not explicit approval of v0.3. 
 
 ## 2026-11-26 — v0.4.1 concerned expression correction
 Owner rejected malformed mouth/nose/muzzle on v0.4 Concerned. Added a dedicated compact-support source-pixel deformation for Concerned only, with no displacement in head-local y91–128, subtle inner brow lift and lower-mouth compression. Other presets unchanged; original v0.4 available via toggle and archive. New viewer defaults to Concerned. Executed JS syntax checks and 432 synthetic pixel-buffer checks (72 frames × 2 clips × 3 intensities): zero changes in protected band or at zero intensity. These are mathematical/component tests, NOT actual artwork rendering or visual inspection; artistic quality and integrated playback remain unverified. Candidate only. Next: visual review concern and refine before gait.
+
+## 2026-11-26 — v0.4.1 accepted
+Owner feedback: “perfect”. The protected-muzzle concerned expression correction is accepted as the baseline for concern. Preserve v0.4.1 and approved wave v0.2.1; other expressions and v0.3 gaze/blink are not separately approved by this feedback. Next milestone: v0.5 natural walking and running, with articulated leg motion, ground contacts, balance, arm swing and tail movement. No animation code changed in this approval commit. Independent hosted playback remains unverified.
