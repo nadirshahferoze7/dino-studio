@@ -17,3 +17,7 @@ DINO-001 explorer artwork is approved. Full 3D candidates were rejected for insu
 Repository is public. Do not commit personal information, secrets, credentials, or unrelated conversation history.
 
 **Asset recovery:** All eight prior ZIP packages have been backed up in the owner's ChatGPT Library under `DINO Studio Archive`. See [asset registry](docs/ASSET_REGISTRY.md) and [archive hashes](docs/archive_manifest.json). GitHub holds written project memory, approved hero and preview atlases, not the full archived ZIP packages.
+
+
+## 2026-11-26 — GitHub Pages activation
+GitHub repository metadata confirms `has_pages=true` and the [Pages build and deployment workflow](https://github.com/nadirshahferoze7/dino-studio/actions/runs/45763082839) completed successfully for commit `fa809908d251579d6f95c689cf15182ca99c311b`. Studio URL supplied by owner: https://nadirshahferoze7.github.io/dino-studio/ . Version routes: `releases/v0.1/` and `releases/v0.2/`. The assistant's web fetch could not retrieve the hosted pages, so live browser playback is still unverified. Next: owner visual review of corrected palm-forward wave; check both version routes and playback controls. Do not treat deployment success as artistic approval.

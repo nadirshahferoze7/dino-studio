@@ -30,3 +30,7 @@
 
 ## 2026-11-21–22 — creative foundation
 - Dino is dinosaur-inspired; one shared universe for film and interactive experience; balanced playful/heartwarming/epic/mysterious tone. Foldwilds and Fernlight Basin only proposals.
+
+
+## 2026-11-26 — GitHub Pages activation
+GitHub repository metadata confirms `has_pages=true` and the [Pages build and deployment workflow](https://github.com/nadirshahferoze7/dino-studio/actions/runs/45763082839) completed successfully for commit `fa809908d251579d6f95c689cf15182ca99c311b`. Studio URL supplied by owner: https://nadirshahferoze7.github.io/dino-studio/ . Version routes: `releases/v0.1/` and `releases/v0.2/`. The assistant's web fetch could not retrieve the hosted pages, so live browser playback is still unverified. Next: owner visual review of corrected palm-forward wave; check both version routes and playback controls. Do not treat deployment success as artistic approval.

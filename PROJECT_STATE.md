@@ -20,3 +20,7 @@ Read asset registry for original package names and expected hashes. Prior chat a
 
 ## Archive backup update
 All eight previous ZIP packages were successfully saved in the owner's persistent ChatGPT Library under `DINO Studio Archive`. See docs/ASSET_REGISTRY.md and docs/archive_manifest.json. Git contains the approved hero PNG, all ten v0.1 WebP atlases, static v0.1 viewer and v0.2 wave source/viewer. Remaining source packages and approved turnaround PNG are still backed up in Library, not fully imported. Hosted previews remain pending; GitHub repository metadata returned has_pages=false. Future sessions should retrieve the canonical reference and v0.1 puppet archives there and verify their hashes; no prior chat is required if Library access is available.
+
+
+## 2026-11-26 — GitHub Pages activation
+GitHub repository metadata confirms `has_pages=true` and the [Pages build and deployment workflow](https://github.com/nadirshahferoze7/dino-studio/actions/runs/45763082839) completed successfully for commit `fa809908d251579d6f95c689cf15182ca99c311b`. Studio URL supplied by owner: https://nadirshahferoze7.github.io/dino-studio/ . Version routes: `releases/v0.1/` and `releases/v0.2/`. The assistant's web fetch could not retrieve the hosted pages, so live browser playback is still unverified. Next: owner visual review of corrected palm-forward wave; check both version routes and playback controls. Do not treat deployment success as artistic approval.
