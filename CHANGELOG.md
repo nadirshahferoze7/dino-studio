@@ -1,5 +1,8 @@
 # Production history
 
+## 2026-11-26 — v0.4 expression candidate
+- Six source-pixel facial presets, intensity and automatic expression sequence. Prior releases unchanged; v0.3 not assumed approved. Chromium component test: 864 renders, zero errors, zero neutral mismatches, zero out-of-face changes. Six close-ups inspected; full viewer and hosted review pending.
+
 ## 2026-11-26 — v0.3 eye animation candidate
 - Added source-pixel gaze and shaded blink controls on Idle/Wave; pointer tracking and manual blink. Prior versions preserved. Six sampled local Chromium eye renders inspected; integrated and hosted playback pending. Candidate, not approved.
 

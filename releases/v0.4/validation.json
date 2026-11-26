@@ -1,0 +1,28 @@
+{
+  "status": "review candidate",
+  "method": "CPU Chromium component harness, archived Idle/Wave atlases; six presets at varying intensity per frame",
+  "clips": 2,
+  "framesPerClip": 72,
+  "presets": 6,
+  "renders": 864,
+  "pageErrors": 0,
+  "emptyRenders": 0,
+  "neutralMismatch": 0,
+  "pixelDifferencesOutsideROI": 0,
+  "roi": {
+    "x": [
+      136,
+      249
+    ],
+    "y": [
+      70,
+      167
+    ]
+  },
+  "visualReview": "six frame-zero closeups",
+  "limitations": [
+    "Full integrated viewer and deployment not tested",
+    "Concern and focus are stylized",
+    "v0.3 eye component remains unapproved"
+  ]
+}

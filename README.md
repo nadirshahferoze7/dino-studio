@@ -27,3 +27,5 @@ Current approved waving baseline: [v0.2.1 connected shoulder wave](https://nadir
 Next milestone: v0.3 natural blinking and independent gaze. Approval covers the wave only.
 
 Current eye animation candidate: [v0.3](https://nadirshahferoze7.github.io/dino-studio/releases/v0.3/). Accepted wave remains v0.2.1.
+
+Current expression candidate: [v0.4](https://nadirshahferoze7.github.io/dino-studio/releases/v0.4/). v0.3 and v0.4 still await explicit visual approval.
