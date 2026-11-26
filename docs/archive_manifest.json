@@ -1,7 +1,7 @@
 {
   "date": "2026-11-25",
   "storage": "GitHub migration in progress; original Library backups retained",
-  "status": "5 of 14 original archives stored in Git; 9 pending",
+  "status": "8 of 14 original archives stored in Git; 6 pending",
   "hash_type": "SHA-256 of local source ZIP; recheck on recovery",
   "archives": [
     {
@@ -122,7 +122,37 @@
     {
       "filename": "DINO_v0.6.1_Review_Pack.zip",
       "sha256": "bcbe7c4022f717a8b4ed640587ed7255a12fe139a6288c83ce8e9cbc6171f797",
-      "status": "v0.6.1 review candidate; full rendered evidence and intermediate studies"
+      "status": "v0.6.1 review candidate; full rendered evidence and intermediate studies",
+      "repository": {
+        "encoding": "binary-concatenation",
+        "bytes": 4757636,
+        "parts": [
+          {
+            "path": "archives/parts/DINO_v0.6.1_Review_Pack.zip.part001",
+            "bytes": 1350000,
+            "sha256": "962aabb697f4bc6924d2c61fd2e1e9ab9ea6bb8b90b694eff4723bdcd09136a5",
+            "git_blob_sha": "23473c40ddc537a14639a698cec57d19d84cdb14"
+          },
+          {
+            "path": "archives/parts/DINO_v0.6.1_Review_Pack.zip.part002",
+            "bytes": 1350000,
+            "sha256": "02d95eef63081d151f5d77ef4dce5bbb56dea1b3e4561712c9288a3c5c072ebf",
+            "git_blob_sha": "e967e7c862a21d4cc89f11d3d95fc65089c5d117"
+          },
+          {
+            "path": "archives/parts/DINO_v0.6.1_Review_Pack.zip.part003",
+            "bytes": 1350000,
+            "sha256": "841e786bffe404c2685303252ec495d12c541415db773e83392761087f8d5fa3",
+            "git_blob_sha": "379270ae8002a9de402ee5b8461a13b27127dab2"
+          },
+          {
+            "path": "archives/parts/DINO_v0.6.1_Review_Pack.zip.part004",
+            "bytes": 707636,
+            "sha256": "7182c34ccb9da8b5b081707390cc60cc7ea60e7fdf0e7ca476a57189a12629c8",
+            "git_blob_sha": "3b1e9ac927a9255354a652a94b425f2b69dd5d4f"
+          }
+        ]
+      }
     },
     {
       "filename": "DINO_v0.6.2_Review_Pack.zip",
@@ -156,12 +186,60 @@
     {
       "filename": "DINO_v0.6.3_Review_Pack.zip",
       "sha256": "c360a19915c5a5f4a36e1faedee2bf584bf4fa564d6b67fb657326278717efc0",
-      "status": "v0.6.3 review candidate; full render evidence and intermediate studies"
+      "status": "v0.6.3 review candidate; full render evidence and intermediate studies",
+      "repository": {
+        "encoding": "binary-concatenation",
+        "bytes": 2997025,
+        "parts": [
+          {
+            "path": "archives/parts/DINO_v0.6.3_Review_Pack.zip.part001",
+            "bytes": 1350000,
+            "sha256": "1e68c1a219701f7e14655fd145846babe5bb5de9892bc8a195ab286809cd7010",
+            "git_blob_sha": "27522ccc5aa30faccc7e85fcab8e0982cd0abb15"
+          },
+          {
+            "path": "archives/parts/DINO_v0.6.3_Review_Pack.zip.part002",
+            "bytes": 1350000,
+            "sha256": "120bf096c160ea01366f6cb8f7bca3d45a9ef2eb5e034ae0ba2190fcdb534ab2",
+            "git_blob_sha": "d4c9c900983909b0eeb3590036e7ffb30948b35c"
+          },
+          {
+            "path": "archives/parts/DINO_v0.6.3_Review_Pack.zip.part003",
+            "bytes": 297025,
+            "sha256": "65fb41c5319690a221a0bbbb2c5e3b5dc902b67b628c5bae5d9234d97949dab0",
+            "git_blob_sha": "75d974b9b77ceb94a57ccbf4e40bbf117d41eb86"
+          }
+        ]
+      }
     },
     {
       "filename": "DINO_v0.6.4_Review_Pack.zip",
       "sha256": "628ec7824b10d460d4efce80b8e0673f294ba6fd8c480b8227e98484a4a1d051",
-      "status": "v0.6.4 review candidate; actual render evidence and rejected intermediate studies"
+      "status": "v0.6.4 review candidate; actual render evidence and rejected intermediate studies",
+      "repository": {
+        "encoding": "binary-concatenation",
+        "bytes": 3350633,
+        "parts": [
+          {
+            "path": "archives/parts/DINO_v0.6.4_Review_Pack.zip.part001",
+            "bytes": 1350000,
+            "sha256": "3507172b0820118f350f97261b573614f537defce90b26f534ab9e5244aeb262",
+            "git_blob_sha": "cd83bbd1df93fcd5d0603d75c6b79b0c9d5f5d91"
+          },
+          {
+            "path": "archives/parts/DINO_v0.6.4_Review_Pack.zip.part002",
+            "bytes": 1350000,
+            "sha256": "0a22357f89d2551adfdc78b2d8f48dfc7d628f83f8a733dc4303f13f73b69cd7",
+            "git_blob_sha": "6cce7e494dd552c10feeec9bcce4dbfc50e99c0f"
+          },
+          {
+            "path": "archives/parts/DINO_v0.6.4_Review_Pack.zip.part003",
+            "bytes": 650633,
+            "sha256": "e54b9da9ce70328a8d99f75efb8df34e1a30ece90d39ba7e6a599e1330549f93",
+            "git_blob_sha": "00d67fe80379954f9e7cc79b5fb4751fd4fb191b"
+          }
+        ]
+      }
     },
     {
       "filename": "DINO_v0.7_Sprite_Review_Pack.zip",
