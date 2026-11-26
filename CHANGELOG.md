@@ -1,5 +1,9 @@
 # Production history
 
+## 2026-11-26 — v0.2.1 shoulder correction
+- Owner flagged the visible underarm seam in v0.2. Added pose-dependent contour reconstruction, source-skin shading and independent comparison control in a new release. Both older versions preserved.
+- CPU browser harness: 72/72 frames, zero page errors, 53 changed frames, no out-of-region differences, one significant connected foreground component per corrected frame. Eight visual comparisons inspected. Candidate, not approved. See release validation.json.
+
 ## 2026-11-25 — v0.2 palm-forward candidate
 - Retained v0.1 atlas/viewer and hero already imported into Git. Added versioned v0.2 browser viewer and wave.js, an open-palm replacement driven by tracked hand coordinates and wrist motion; compare toggle and archive links.
 - Local Chromium canvas test: 72/72 nonempty frames, zero page errors; eight sampled poses inspected during development. Final candidate needs owner review. No external AI/API/GPU dependency.

@@ -1,0 +1,36 @@
+{
+  "status": "candidate; user visual approval pending",
+  "method": "Local Chromium CPU harness, exact archived wave atlas, existing palm and new shoulder functions; compare shoulder on/off",
+  "frames": 72,
+  "frame_errors": 0,
+  "changed_frames": 53,
+  "max_pixels_changed_outside_shoulder_bounds": 0,
+  "shoulder_bounds": {
+    "x": [
+      221,
+      245
+    ],
+    "y": [
+      181,
+      210
+    ]
+  },
+  "foreground_components_over_20_pixels_per_frame": [
+    1
+  ],
+  "visual_review_frames": [
+    0,
+    7,
+    12,
+    18,
+    22,
+    32,
+    45,
+    62
+  ],
+  "limitations": [
+    "Connectivity is not proof of visual realism",
+    "Local harness, not deployed viewer",
+    "Minor edge shading and hand design remain provisional"
+  ]
+}
