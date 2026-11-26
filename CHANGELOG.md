@@ -1,5 +1,8 @@
 # Production history
 
+## 2026-11-26 — v0.4.1 concern repair candidate
+- Owner rejected distorted muzzle. Added dedicated bounded concern deformation and before/after toggle; prior releases preserved. 432 synthetic pixel tests and syntax checks passed; visual review pending.
+
 ## 2026-11-26 — v0.4 expression candidate
 - Six source-pixel facial presets, intensity and automatic expression sequence. Prior releases unchanged; v0.3 not assumed approved. Chromium component test: 864 renders, zero errors, zero neutral mismatches, zero out-of-face changes. Six close-ups inspected; full viewer and hosted review pending.
 

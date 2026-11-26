@@ -29,3 +29,5 @@ Next milestone: v0.3 natural blinking and independent gaze. Approval covers the 
 Current eye animation candidate: [v0.3](https://nadirshahferoze7.github.io/dino-studio/releases/v0.3/). Accepted wave remains v0.2.1.
 
 Current expression candidate: [v0.4](https://nadirshahferoze7.github.io/dino-studio/releases/v0.4/). v0.3 and v0.4 still await explicit visual approval.
+
+Current concern repair candidate: [v0.4.1](https://nadirshahferoze7.github.io/dino-studio/releases/v0.4.1/).

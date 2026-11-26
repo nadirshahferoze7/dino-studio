@@ -1,0 +1,14 @@
+{
+  "status": "candidate",
+  "tests": 432,
+  "protectedBandChangedPixels": 0,
+  "neutralChangedPixels": 0,
+  "changedSyntheticPixels": 666207,
+  "syntax": "passed",
+  "method": "synthetic RGBA buffer with actual deformation function; not visual rendering",
+  "limitations": [
+    "Actual artwork visual review pending",
+    "Integrated browser playback pending",
+    "Transitions from other presets can temporarily retain their existing deformation"
+  ]
+}
