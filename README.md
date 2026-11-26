@@ -33,3 +33,5 @@ Current expression candidate: [v0.4](https://nadirshahferoze7.github.io/dino-stu
 Current accepted concern correction: [v0.4.1](https://nadirshahferoze7.github.io/dino-studio/releases/v0.4.1/).
 
 Next milestone: v0.5 natural walking and running.
+
+Current gait candidate: [v0.5](https://nadirshahferoze7.github.io/dino-studio/releases/v0.5/).

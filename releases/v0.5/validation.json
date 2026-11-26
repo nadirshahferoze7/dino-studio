@@ -1,0 +1,12 @@
+{
+  "status": "candidate",
+  "actualComponentPoses": 8,
+  "mathematicalFootSamples": 960,
+  "violations": 0,
+  "limitations": [
+    "No integrated viewer test",
+    "No measured foot sliding test",
+    "Hidden leg duplicated",
+    "No independent arm or tail motion"
+  ]
+}

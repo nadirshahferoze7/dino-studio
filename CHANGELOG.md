@@ -1,5 +1,8 @@
 # Production history
 
+## 2026-11-26 — v0.5 gait candidate
+- Side-view walk/run prototype; eight actual local poses reviewed, 960 mathematical foot samples checked. Earlier releases preserved; not approved.
+
 ## 2026-11-26 — v0.4.1 accepted
 - Owner accepted concerned expression correction. Preserved all versions; next milestone v0.5 natural walking and running. No animation code changed.
 
