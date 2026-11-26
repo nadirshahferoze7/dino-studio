@@ -1,0 +1,8 @@
+/* DINO v0.6: secondary reference pose animation. Foot/ground baseline fixed. */
+function restEase(t){t=Math.max(0,Math.min(1,t));return t*t*(3-2*t)}
+function restPose(mode,t){const tau=2*Math.PI; if(mode==='sit')return {asset:'sit',breath:Math.sin(tau*t/3.2),lift:0,alpha:1};if(mode==='sleep')return {asset:'sleep',breath:Math.sin(tau*t/4.2),lift:0,alpha:1};if(mode==='wake'){if(t<1.55)return {asset:'sleep',breath:Math.sin(tau*t/4.2)*(1-restEase((t-.5)/.7)),lift:restEase((t-.45)/.85),alpha:1-restEase((t-1.28)/.27)};return {asset:'sit',breath:Math.sin(tau*(t-1.55)/3.2),lift:0,alpha:restEase((t-1.55)/.27)};}return {asset:'stand',breath:0,lift:0,alpha:1};}
+function renderRest(ctx,assets,mode,t){const p=restPose(mode,t),im=assets[p.asset];ctx.clearRect(0,0,384,384);if(!im||!im.complete||!im.naturalWidth)return false;ctx.save();ctx.globalAlpha=p.alpha;let ground=339;if(p.asset==='stand'){ctx.drawImage(im,0,0,384,384,0,0,384,384);}else{let W=p.asset==='sit'?166:255,H=W*im.naturalHeight/im.naturalWidth,x=(384-W)/2,y=ground-H;
+ // Draw row strips with anchored feet for seated breathing; sleep deforms only back, not muzzle.
+ if(p.asset==='sit'){for(let j=0;j<Math.ceil(H);j++){let v=j/H,v2=Math.min(1,(j+1)/H),b=q=>Math.sin(Math.PI*q)**2;let yy=y+j-p.breath*2.0*b(v),yy2=y+Math.min(H,j+1)-p.breath*2.0*b(v2);ctx.drawImage(im,0,v*im.naturalHeight,im.naturalWidth,(v2-v)*im.naturalHeight,x,yy,W,Math.max(.1,yy2-yy+.4));}}
+ else{for(let i=0;i<Math.ceil(W);i++){let u=i/W,u2=Math.min(1,(i+1)/W),b=Math.exp(-Math.pow((u-.32)/.22,2)),head=restEase((u-.44)/.32),h=H+p.breath*2.7*b,dy=-p.lift*12*head;ctx.drawImage(im,u*im.naturalWidth,0,(u2-u)*im.naturalWidth,im.naturalHeight,x+i,ground-h+dy,Math.min(W-i,1.35),h);}}
+ }ctx.restore();return true;}

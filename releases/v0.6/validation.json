@@ -1,0 +1,24 @@
+{
+  "status": "review candidate",
+  "method": "Local Chromium CPU component harness with exact derived pose WebP bytes and source rest.js; 72 sampled frames per sit, sleep, wake",
+  "sampledFrames": 216,
+  "jsErrors": 0,
+  "restingFrames": 144,
+  "restingConnectedComponentsAbove20Pixels": {
+    "min": 1,
+    "max": 1
+  },
+  "restingGroundRowAlpha128": {
+    "min": 337,
+    "max": 337
+  },
+  "emptyFrames": 1,
+  "emptyFrameReason": "Intentional dip-to-background at wake pose switch",
+  "visualInspection": "18 sampled full-character poses and extracted source sprites",
+  "limitations": [
+    "Wake uses an editorial fade rather than continuous skeletal articulation",
+    "No standing-to-sitting transition",
+    "Secondary reference poses not separately approved",
+    "Integrated viewer and hosted playback not tested"
+  ]
+}

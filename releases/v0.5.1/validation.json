@@ -1,5 +1,5 @@
 {
-  "status": "candidate",
+  "status": "owner accepted gait baseline",
   "syntax": "passed",
   "mathematicalFootSamples": 4000,
   "errors": 0,
@@ -11,5 +11,10 @@
     "Hidden leg reconstructed",
     "Upper-body region warp not a skeletal arm or tail rig",
     "Actual rendered contact and visual quality unverified"
-  ]
+  ],
+  "owner_review": {
+    "date": "2026-11-26",
+    "feedback": "perfect - proceed",
+    "scope": "v0.5.1 gait only"
+  }
 }

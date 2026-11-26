@@ -1,5 +1,8 @@
 # Production history
 
+## 2026-11-26 — v0.5.1 accepted and v0.6 rest candidate
+- Owner approved refined gait. Added seated idle, curled-up sleep and staged waking sequence using archived secondary pose artwork. Local component test: 216 samples; stable resting ground row; intentional blank at fade. Prior releases preserved. New rest poses pending owner review.
+
 ## 2026-11-26 — v0.5.1 gait refinement
 - Added rigid foot strip, continuous knee bend and bounded upper-body movement. 4000 modeled foot checks passed; visual rendering pending. Prior versions unchanged.
 

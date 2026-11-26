@@ -22,3 +22,6 @@ All eight packages above were successfully copied to the owner's ChatGPT Library
 
 ## Git import and v0.2 candidate
 Verified repository tree includes characters/DINO-001/approved/hero.png (2,265,452 bytes), releases/v0.1/index.html and ten v0.1 WebP atlases. v0.2 reuses those atlases by relative path, adds wave.js and its own viewer; v0.1 untouched. Full v0.1 source, turnaround and archived experiments remain in Library, not yet fully in Git. GitHub Pages metadata has_pages=false; configure source main / (root) and verify before declaring published.
+
+## v0.6 rest assets
+Two secondary movement-sheet crops (sit.webp, sleep.webp) stored in releases/v0.6. Exact provenance and hashes in provenance.json. These are derived candidate poses, not canonical originals.

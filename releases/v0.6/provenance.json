@@ -1,0 +1,34 @@
+{
+  "source": "DINO_001_Approved_Reference_Pack.zip / reference/movement.png",
+  "sourceSha256": "5e584327fe9a0eeea60256a98e05ee6566d7a3c956e31441c6d8bb9e04d95c3b",
+  "status": "secondary reference artwork; derived candidate poses",
+  "crops": {
+    "sit": {
+      "box": [
+        220,
+        855,
+        335,
+        1005
+      ],
+      "size": [
+        105,
+        141
+      ],
+      "sha256": "622ba4965fdf16bd0b67ceab82789cbf2b687ab493feecccdc97a7c51e2dfa90"
+    },
+    "sleep": {
+      "box": [
+        551,
+        897,
+        754,
+        996
+      ],
+      "size": [
+        201,
+        97
+      ],
+      "sha256": "5e72b5b0b4992098b71e9c88448ee784f2e297439d2e6ab8e874cee996dd938c"
+    }
+  },
+  "method": "HSV saturation mask >38, largest connected component, 3x3 morphological close, fill outer contour, Gaussian blur sigma .45, trim transparent bounding box, WebP quality 82 then re-encode quality 58, method 6"
+}
