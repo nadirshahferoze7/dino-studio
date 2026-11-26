@@ -1,7 +1,7 @@
 {
   "date": "2026-11-25",
   "storage": "GitHub migration in progress; original Library backups retained",
-  "status": "Canonical reference pack and early artwork-animation source ZIP stored in Git; other archives pending",
+  "status": "5 of 14 original archives stored in Git; 9 pending",
   "hash_type": "SHA-256 of local source ZIP; recheck on recovery",
   "archives": [
     {
@@ -93,7 +93,31 @@
     {
       "filename": "DINO_Rest_Study_Rejected_2026-11-26.zip",
       "sha256": "767f2850ee31bcafc9d23209f4345b6b563c98529ee4e8f2dd35cc44166b9a3a",
-      "status": "Rejected rest study; not a v0.6.1 release"
+      "status": "Rejected rest study; not a v0.6.1 release",
+      "repository": {
+        "encoding": "binary-concatenation",
+        "bytes": 3051731,
+        "parts": [
+          {
+            "path": "archives/parts/DINO_Rest_Study_Rejected_2026-11-26.zip.part001",
+            "bytes": 1350000,
+            "sha256": "3c9eaca3e59d0155cd216bc781d39fc51ddc28f5799e865434030aa4ed78b191",
+            "git_blob_sha": "30231e4835e759d56050d497da42aae0f9d615f4"
+          },
+          {
+            "path": "archives/parts/DINO_Rest_Study_Rejected_2026-11-26.zip.part002",
+            "bytes": 1350000,
+            "sha256": "8bb2e798e73c2f36b59b46620e2b69fdd67c8f199697440d16087abe58017822",
+            "git_blob_sha": "341f174abd7505c0ccd42bca2b6bec9fd91690c5"
+          },
+          {
+            "path": "archives/parts/DINO_Rest_Study_Rejected_2026-11-26.zip.part003",
+            "bytes": 351731,
+            "sha256": "23d997499429406e4db9ce378d19fa14383f4de09c1af244a37d3f0c5ed9be2e",
+            "git_blob_sha": "e3feaa388cc2ca9f31daf51a91813e782e3ebc03"
+          }
+        ]
+      }
     },
     {
       "filename": "DINO_v0.6.1_Review_Pack.zip",
@@ -103,7 +127,31 @@
     {
       "filename": "DINO_v0.6.2_Review_Pack.zip",
       "sha256": "2b5743df6bcaed82b2415aa3e1ea3b01cfe2e889a5691a91b9ecf9efa00ce733",
-      "status": "v0.6.2 review candidate; full rendered evidence and intermediate studies"
+      "status": "v0.6.2 review candidate; full rendered evidence and intermediate studies",
+      "repository": {
+        "encoding": "binary-concatenation",
+        "bytes": 2852693,
+        "parts": [
+          {
+            "path": "archives/parts/DINO_v0.6.2_Review_Pack.zip.part001",
+            "bytes": 1350000,
+            "sha256": "74d5db60c6718cb35ec4be4188de768a2abc0b55ffe3e6752cb3e391dd01d808",
+            "git_blob_sha": "11f04fc0a618dc40b717b4881528d2236f11015c"
+          },
+          {
+            "path": "archives/parts/DINO_v0.6.2_Review_Pack.zip.part002",
+            "bytes": 1350000,
+            "sha256": "407818dae46259acd461518a3dc93cdc77409a5377fb6d8affaea6932eec20a6",
+            "git_blob_sha": "e19c245b8ebf9b66d0b6ca7aa4531e6991a7b13f"
+          },
+          {
+            "path": "archives/parts/DINO_v0.6.2_Review_Pack.zip.part003",
+            "bytes": 152693,
+            "sha256": "93ce3a2fc66c6fce45008e15fe2345ebdbfff059113529189cc51dc02157ea1c",
+            "git_blob_sha": "e2aa8dcd436b09209b2abdd9682dd4ff7947455c"
+          }
+        ]
+      }
     },
     {
       "filename": "DINO_v0.6.3_Review_Pack.zip",
@@ -118,7 +166,61 @@
     {
       "filename": "DINO_v0.7_Sprite_Review_Pack.zip",
       "sha256": "46881c67243c38e2f81c28cda36128e46cab4d3c4ff267c3b00e861386e596bf",
-      "status": "v0.7 sprite review candidate; source artwork and rendered evidence"
+      "status": "v0.7 sprite review candidate; source artwork and rendered evidence",
+      "repository": {
+        "encoding": "binary-concatenation",
+        "bytes": 9828941,
+        "parts": [
+          {
+            "path": "archives/parts/DINO_v0.7_Sprite_Review_Pack.zip.part001",
+            "bytes": 1350000,
+            "sha256": "605b7a23193ce9f196fd8a548753eba30b046f1002edd662ef1e1c3b15811f9f",
+            "git_blob_sha": "61288704db0fe9dfd03fc6e07594048da1971b8a"
+          },
+          {
+            "path": "archives/parts/DINO_v0.7_Sprite_Review_Pack.zip.part002",
+            "bytes": 1350000,
+            "sha256": "0c4f95ae6d3bd9dc32908e9bf5222e86733b88981c0b6bb44f26e687fed6675a",
+            "git_blob_sha": "93a76d0909af5b1bff7b08cbd3c2748541d57d1c"
+          },
+          {
+            "path": "archives/parts/DINO_v0.7_Sprite_Review_Pack.zip.part003",
+            "bytes": 1350000,
+            "sha256": "a30cb38bf800f31f0fa8329e8a4224efec1760cf6693a288d7e1a414eac3c5b5",
+            "git_blob_sha": "ea046b32342cb5f364a90540dc8b4debe9652c9e"
+          },
+          {
+            "path": "archives/parts/DINO_v0.7_Sprite_Review_Pack.zip.part004",
+            "bytes": 1350000,
+            "sha256": "130262e1e7fafa104a323841829d803eac083a3967b661b6527be773cc66efe5",
+            "git_blob_sha": "d671e406bf44c668532621722848fd2669be18fa"
+          },
+          {
+            "path": "archives/parts/DINO_v0.7_Sprite_Review_Pack.zip.part005",
+            "bytes": 1350000,
+            "sha256": "5f203ac7eb83ff7beee1db43940b6957114fbd46aaba478d6db688616ce69132",
+            "git_blob_sha": "543eda5cb0c872f7de5f4293f7b847d4baa5ce89"
+          },
+          {
+            "path": "archives/parts/DINO_v0.7_Sprite_Review_Pack.zip.part006",
+            "bytes": 1350000,
+            "sha256": "6bbb12332b40b46f5323ad979ee1488d0099a99edcea64d321b2ebc33e880f87",
+            "git_blob_sha": "d6881108b0897a57426500fd6b6f68f7b6ff5167"
+          },
+          {
+            "path": "archives/parts/DINO_v0.7_Sprite_Review_Pack.zip.part007",
+            "bytes": 1350000,
+            "sha256": "03395d9a3e1e4484d344d730409aed27831fcbebedf179113187e42cfaabe73f",
+            "git_blob_sha": "8b5c6f07ea1f0e53a868754571747d8bb8552e97"
+          },
+          {
+            "path": "archives/parts/DINO_v0.7_Sprite_Review_Pack.zip.part008",
+            "bytes": 378941,
+            "sha256": "251be82037428363126276dd728563b78a13ba91871f86c966a444968a119d21",
+            "git_blob_sha": "46c6d46b49521bb644f1d5d20430e1b695b558d4"
+          }
+        ]
+      }
     }
   ]
 }
