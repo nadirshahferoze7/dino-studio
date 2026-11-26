@@ -35,3 +35,5 @@ Current accepted concern correction: [v0.4.1](https://nadirshahferoze7.github.io
 Next milestone: v0.5 natural walking and running.
 
 Current gait candidate: [v0.5](https://nadirshahferoze7.github.io/dino-studio/releases/v0.5/).
+
+Latest gait refinement candidate: [v0.5.1](https://nadirshahferoze7.github.io/dino-studio/releases/v0.5.1/).

@@ -1,0 +1,15 @@
+{
+  "status": "candidate",
+  "syntax": "passed",
+  "mathematicalFootSamples": 4000,
+  "errors": 0,
+  "maxModeledStanceVelocityMismatch": 2.2457413706433726e-9,
+  "loopEndpointError": 0,
+  "actualArtworkRender": false,
+  "integratedBrowserTest": false,
+  "limitations": [
+    "Hidden leg reconstructed",
+    "Upper-body region warp not a skeletal arm or tail rig",
+    "Actual rendered contact and visual quality unverified"
+  ]
+}

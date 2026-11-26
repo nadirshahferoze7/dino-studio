@@ -1,5 +1,8 @@
 # Production history
 
+## 2026-11-26 — v0.5.1 gait refinement
+- Added rigid foot strip, continuous knee bend and bounded upper-body movement. 4000 modeled foot checks passed; visual rendering pending. Prior versions unchanged.
+
 ## 2026-11-26 — v0.5 gait candidate
 - Side-view walk/run prototype; eight actual local poses reviewed, 960 mathematical foot samples checked. Earlier releases preserved; not approved.
 
