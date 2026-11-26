@@ -11,3 +11,5 @@ The eight prior production ZIPs are backed up in the owner's ChatGPT Library fol
 Latest handoff: v0.5.1 accepted, v0.6 rejected, v0.6.1 withheld after failed actual visual QA. Read docs/REST_STUDY_2026-11-26.md. The new rejected-study ZIP is in the same Library folder; list the folder directly when filename search fails.
 
 Latest handoff: v0.6.1 continuous rest sequence is a review candidate, not accepted. v0.5.1 remains approved. Read releases/v0.6.1/README.md and validation.json; recover DINO_v0.6.1_Review_Pack.zip from the archive folder for rendered evidence and intermediate studies.
+
+Latest handoff: v0.6.1 rejected for full-cycle discontinuity; v0.6.2 is a continuity review candidate, not approved. v0.5.1 remains accepted. Read releases/v0.6.2/README.md and validation.json; recover DINO_v0.6.2_Review_Pack.zip for render evidence. Wait for explicit creative approval before advancing to speech.

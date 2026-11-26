@@ -1,5 +1,8 @@
 # Production history
 
+## 2026-11-26 — v0.6.2 full-cycle continuity candidate
+- Owner rejected v0.6.1 full-cycle continuity, not just the face. Rebuilt 17-second timing with continuous key tangents, independent sleepy/waking facial channels, single textured arm and reach constraint, revised joints and tail overlap. 409 actual renders, 11 viewer checks, 1701 timing samples; no blank/clipped or disconnected frames, both shared boundaries identical. Remaining stylized joints/face and ground contact limitations disclosed. Review candidate only; earlier versions preserved.
+
 ## 2026-11-26 — v0.6.1 continuous rest candidate
 - Revised the failed layered study into a 16-second full rest cycle with folded legs, seated hip contact, curled sleeping posture, closed jaw, breathing and head-first wake. Rendered 385 frames; all 11 controls/responsive checks passed, no empty/clipped/disconnected frames, exact standing recovery. Visually inspected actual renders. Reconstructed limbs and stylized joins/face remain approximate; review candidate only. All earlier files unchanged. Full evidence and experiments archived; see release README and validation.
 

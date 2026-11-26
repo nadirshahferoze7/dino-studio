@@ -43,3 +43,5 @@ Accepted gait: [v0.5.1](https://nadirshahferoze7.github.io/dino-studio/releases/
 Latest accepted baseline: [v0.5.1](https://nadirshahferoze7.github.io/dino-studio/releases/v0.5.1/). Owner rejected v0.6; the 2026-11-26 rest revision did not pass visual QA and was not released as v0.6.1. See [rest study report](docs/REST_STUDY_2026-11-26.md) and PROJECT_STATE for the archived source, validation evidence and next task.
 
 Current rest review candidate: [v0.6.1 continuous rest sequence](https://nadirshahferoze7.github.io/dino-studio/releases/v0.6.1/). v0.5.1 remains the latest approved version; v0.6 and failed studies retained. See [release notes](releases/v0.6.1/README.md) for exact test evidence and limitations.
+
+Latest rest candidate: [v0.6.2 full-cycle continuity rebuild](https://nadirshahferoze7.github.io/dino-studio/releases/v0.6.2/). v0.6.1 was rejected for disconnected sit/sleep/wake continuity. v0.5.1 remains approved. See [release notes](releases/v0.6.2/README.md).
