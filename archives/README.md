@@ -1,0 +1,2 @@
+# Studio archives
+Original ZIP bytes are preserved either as a ZIP or ordered binary parts (see `docs/archive_manifest.json`). Run `python tools/recover_archives.py --verify-only` to check completeness and hashes, or `python tools/recover_archives.py --out recovered` to reconstruct ZIPs. Nonzero exit means some archives remain unavailable or verification failed. Library backups are retained. Migration is incomplete.

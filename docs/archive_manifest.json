@@ -1,12 +1,60 @@
 {
   "date": "2026-11-25",
-  "storage": "Owner ChatGPT Library / DINO Studio Archive",
-  "status": "Eight earlier archives, rejected rest study, v0.6.1–v0.6.4 and v0.7 review packs saved in Library; ZIP files not stored in Git",
+  "storage": "GitHub migration in progress; original Library backups retained",
+  "status": "Canonical reference pack and early artwork-animation source ZIP stored in Git; other archives pending",
   "hash_type": "SHA-256 of local source ZIP; recheck on recovery",
   "archives": [
     {
       "filename": "DINO_001_Approved_Reference_Pack.zip",
-      "sha256": "951dc69479398c5b25f2d9f511e9a098e100dd44f04d73f1fc07ae78d8a87d7a"
+      "sha256": "951dc69479398c5b25f2d9f511e9a098e100dd44f04d73f1fc07ae78d8a87d7a",
+      "repository": {
+        "encoding": "binary-concatenation",
+        "parts": [
+          {
+            "path": "archives/parts/DINO_001_Approved_Reference_Pack.part001",
+            "bytes": 1500000,
+            "sha256": "ba3e5196b9b2530d597847e22766a5e283667fd7118040f7fecd77ca64519e50",
+            "git_blob_sha": "dede9c61ec8b04e88879878f79ee4868870f9230"
+          },
+          {
+            "path": "archives/parts/DINO_001_Approved_Reference_Pack.part002",
+            "bytes": 1500000,
+            "sha256": "eeca4091a1f761db9304fad727e239198172a5121054c7a84f3d4f3365e58e85",
+            "git_blob_sha": "a40dac89acc689793a0a6532fb66df199696b751"
+          },
+          {
+            "path": "archives/parts/DINO_001_Approved_Reference_Pack.part003",
+            "bytes": 1500000,
+            "sha256": "a31e0339d7929c14e6f8fee6714ff5c51e2ef75d21694d89566dbdfbd8fca807",
+            "git_blob_sha": "5e1f00b7d6a7d3a03bbf69234e0a566a5aabb8c0"
+          },
+          {
+            "path": "archives/parts/DINO_001_Approved_Reference_Pack.part004",
+            "bytes": 1500000,
+            "sha256": "63b27242e5948f7577e31416cc6de1a7ed171092ad33c689b9f6fadac040d16d",
+            "git_blob_sha": "18fe08147b59737f194d2cc0fd83214124693676"
+          },
+          {
+            "path": "archives/parts/DINO_001_Approved_Reference_Pack.part005",
+            "bytes": 1500000,
+            "sha256": "9d49ea2403ddbc27a9e98aa7716d1aae3f4e14bb5147c6c0b2717f0d30bdffb1",
+            "git_blob_sha": "7bbb4e722dcfe01a48b20ce0d9638ac3f6453e55"
+          },
+          {
+            "path": "archives/parts/DINO_001_Approved_Reference_Pack.part006",
+            "bytes": 1500000,
+            "sha256": "afd4abc8871ce169acbfcce3492a180c07011fc48077030cdaaaf5bf16a69da1",
+            "git_blob_sha": "4066c03591495813d7283b965b2e21dc685d73cd"
+          },
+          {
+            "path": "archives/parts/DINO_001_Approved_Reference_Pack.part007",
+            "bytes": 988393,
+            "sha256": "ee654ab9b3c86c43946133f600a5f8736a98844c624c2a91ec4e66821586528a",
+            "git_blob_sha": "656201c628ffe03432ba3b54da0824965a4548ef"
+          }
+        ],
+        "bytes": 9988393
+      }
     },
     {
       "filename": "DINO_001_Explorer_Sculpt_Candidate.zip",
@@ -26,7 +74,13 @@
     },
     {
       "filename": "Dino_Artwork_Animation_Source.zip",
-      "sha256": "1f1230357fab0498e02e8afecfbb55fe2d4a6dac2153ed9aa934d7304792a1f6"
+      "sha256": "1f1230357fab0498e02e8afecfbb55fe2d4a6dac2153ed9aa934d7304792a1f6",
+      "repository": {
+        "encoding": "zip",
+        "path": "archives/Dino_Artwork_Animation_Source.zip",
+        "git_blob_sha": "c8d96084005d97887b57077728f4caac8f279f6c",
+        "bytes": 2266498
+      }
     },
     {
       "filename": "Project_DINO_Studio_Pack_v0_1.zip",
