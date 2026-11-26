@@ -1,7 +1,7 @@
 {
   "date": "2026-11-25",
   "storage": "Owner ChatGPT Library / DINO Studio Archive",
-  "status": "Eight earlier archives, rejected rest study, v0.6.1, v0.6.2 and v0.6.3 review packs saved in Library; ZIP files not stored in Git",
+  "status": "Eight earlier archives, rejected rest study and v0.6.1–v0.6.4 review packs saved in Library; ZIP files not stored in Git",
   "hash_type": "SHA-256 of local source ZIP; recheck on recovery",
   "archives": [
     {
@@ -55,6 +55,11 @@
       "filename": "DINO_v0.6.3_Review_Pack.zip",
       "sha256": "c360a19915c5a5f4a36e1faedee2bf584bf4fa564d6b67fb657326278717efc0",
       "status": "v0.6.3 review candidate; full render evidence and intermediate studies"
+    },
+    {
+      "filename": "DINO_v0.6.4_Review_Pack.zip",
+      "sha256": "628ec7824b10d460d4efce80b8e0673f294ba6fd8c480b8227e98484a4a1d051",
+      "status": "v0.6.4 review candidate; actual render evidence and rejected intermediate studies"
     }
   ]
 }

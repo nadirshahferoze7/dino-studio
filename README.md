@@ -47,3 +47,5 @@ Current rest review candidate: [v0.6.1 continuous rest sequence](https://nadirsh
 Latest rest candidate: [v0.6.2 full-cycle continuity rebuild](https://nadirshahferoze7.github.io/dino-studio/releases/v0.6.2/). v0.6.1 was rejected for disconnected sit/sleep/wake continuity. v0.5.1 remains approved. See [release notes](releases/v0.6.2/README.md).
 
 Latest rest review candidate: [v0.6.3 natural rest polish](https://nadirshahferoze7.github.io/dino-studio/releases/v0.6.3/). Owner found v0.6.2 improved but requested further refinement. v0.5.1 remains approved. See [release notes](releases/v0.6.3/README.md).
+
+Latest rest review candidate: [v0.6.4 connected structural body](https://nadirshahferoze7.github.io/dino-studio/releases/v0.6.4/). Owner found v0.6.3 improved but body connections still unsatisfactory. v0.5.1 remains approved. See [release notes](releases/v0.6.4/README.md).

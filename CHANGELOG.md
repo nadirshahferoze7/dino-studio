@@ -1,5 +1,8 @@
 # Production history
 
+## 2026-11-27 — v0.6.4 connected structural body candidate
+- Owner requested structural rebuild because parts appeared disconnected despite improved motion. Continuous smooth-union skin replaces hard-cut torso, fuses tail root, near leg, upper arm and neck with shared structural anchors. Source scarf, bag/strap independently tracked; retained original face and 17-second timeline. Four rendered iterations inspected; 409 actual frames, 11 UI checks, no blank/clipped or detached substantial foreground components. Exact standing recovery and shared clip boundaries. Reconstructed shading/accessory/foot limitations disclosed; no creative approval assumed.
+
 ## 2026-11-27 — v0.6.3 natural rest polish candidate
 - Owner requested further improvement of v0.6.2. Refined curved eyelid and blink timing, delayed waking expression, removed duplicated head at standing handoff, softened ankle/tail/shoulder seams, synchronized breathing, added staggered foot lifts and rendered silhouette floor alignment. 409 actual renders, all 11 viewer checks passed, zero blank/clipped or disconnected frames, bottom alpha row 336 in all samples. Same boundary pixels and exact standing recovery. Prior releases preserved; review candidate, not approved.
 

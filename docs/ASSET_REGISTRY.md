@@ -41,3 +41,7 @@ Two secondary movement-sheet crops (sit.webp, sleep.webp) stored in releases/v0.
 
 ## v0.6.3 natural rest archive
 `DINO_v0.6.3_Review_Pack.zip` saved in Library / DINO Studio Archive; SHA-256 c360a19915c5a5f4a36e1faedee2bf584bf4fa564d6b67fb657326278717efc0. Contains source, exact existing profile atlas, actual MP4/GIF, contact sheets, validation and intermediate studies. Source/test files also in releases/v0.6.3. No approved artwork changed.
+
+
+## v0.6.4 structural body archive
+`DINO_v0.6.4_Review_Pack.zip` saved in Library / DINO Studio Archive; SHA-256 628ec7824b10d460d4efce80b8e0673f294ba6fd8c480b8227e98484a4a1d051. Contains source, exact existing profile atlas, actual MP4/GIF, comparison/contact sheets, validation and intermediate studies. Source and test files also in releases/v0.6.4. No approved artwork changed.
