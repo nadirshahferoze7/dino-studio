@@ -22,4 +22,6 @@ Repository is public. Do not commit personal information, secrets, credentials, 
 ## 2026-11-26 — GitHub Pages activation
 GitHub repository metadata confirms `has_pages=true` and the [Pages build and deployment workflow](https://github.com/nadirshahferoze7/dino-studio/actions/runs/45763082839) completed successfully for commit `fa809908d251579d6f95c689cf15182ca99c311b`. Studio URL supplied by owner: https://nadirshahferoze7.github.io/dino-studio/ . Version routes: `releases/v0.1/` and `releases/v0.2/`. The assistant's web fetch could not retrieve the hosted pages, so live browser playback is still unverified. Next: owner visual review of corrected palm-forward wave; check both version routes and playback controls. Do not treat deployment success as artistic approval.
 
-Current review candidate: [v0.2.1 connected shoulder wave](https://nadirshahferoze7.github.io/dino-studio/releases/v0.2.1/). Previous versions remain accessible. See PROJECT_STATE for current validation and limitations.
+Current approved waving baseline: [v0.2.1 connected shoulder wave](https://nadirshahferoze7.github.io/dino-studio/releases/v0.2.1/). Previous versions remain accessible. See PROJECT_STATE for current validation and limitations.
+
+Next milestone: v0.3 natural blinking and independent gaze. Approval covers the wave only.

@@ -1,5 +1,5 @@
 {
-  "status": "candidate; user visual approval pending",
+  "status": "owner visually accepted waving animation baseline",
   "method": "Local Chromium CPU harness, exact archived wave atlas, existing palm and new shoulder functions; compare shoulder on/off",
   "frames": 72,
   "frame_errors": 0,
@@ -32,5 +32,10 @@
     "Connectivity is not proof of visual realism",
     "Local harness, not deployed viewer",
     "Minor edge shading and hand design remain provisional"
-  ]
+  ],
+  "owner_review": {
+    "date": "2026-11-26",
+    "feedback": "ok this looks fine",
+    "scope": "v0.2.1 connected shoulder wave only"
+  }
 }

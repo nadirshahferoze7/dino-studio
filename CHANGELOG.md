@@ -1,5 +1,8 @@
 # Production history
 
+## 2026-11-26 — v0.2.1 accepted
+- Owner visually accepted connected-shoulder wave. Marked it as the approved waving baseline, preserved prior releases and selected blinking/eye gaze for the next milestone. No animation code changed.
+
 ## 2026-11-26 — v0.2.1 shoulder correction
 - Owner flagged the visible underarm seam in v0.2. Added pose-dependent contour reconstruction, source-skin shading and independent comparison control in a new release. Both older versions preserved.
 - CPU browser harness: 72/72 frames, zero page errors, 53 changed frames, no out-of-region differences, one significant connected foreground component per corrected frame. Eight visual comparisons inspected. Candidate, not approved. See release validation.json.
