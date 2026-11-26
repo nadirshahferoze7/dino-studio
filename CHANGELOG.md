@@ -1,5 +1,8 @@
 # Production history
 
+## 2026-11-26 — v0.6.1 continuous rest candidate
+- Revised the failed layered study into a 16-second full rest cycle with folded legs, seated hip contact, curled sleeping posture, closed jaw, breathing and head-first wake. Rendered 385 frames; all 11 controls/responsive checks passed, no empty/clipped/disconnected frames, exact standing recovery. Visually inspected actual renders. Reconstructed limbs and stylized joins/face remain approximate; review candidate only. All earlier files unchanged. Full evidence and experiments archived; see release README and validation.
+
 ## 2026-11-26 — v0.6 rejected; revision not released
 - Owner rejected incomplete v0.6 rest/wake. Three actual rendering studies failed the visual gate; final layered study rendered 385 frames, no empty or clipped frames or JS errors, but unnatural joints and sleep posture remain. No v0.6.1 release. Archive stored in Library with exact hash; see docs/REST_STUDY_2026-11-26.md. Marked v0.6 rejected on dashboard and retained every previous release file.
 

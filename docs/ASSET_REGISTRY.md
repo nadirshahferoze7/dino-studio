@@ -29,3 +29,7 @@ Two secondary movement-sheet crops (sit.webp, sleep.webp) stored in releases/v0.
 
 ## Rejected rest study archive (2026-11-26)
 `DINO_Rest_Study_Rejected_2026-11-26.zip` saved in Library / DINO Studio Archive. Includes source, exact existing profile atlas, actual full-sequence renders, validation, and failed approach notes. SHA-256: 767f2850ee31bcafc9d23209f4345b6b563c98529ee4e8f2dd35cc44166b9a3a. Not a release; no new binary assets committed to Git. See [rest study report](REST_STUDY_2026-11-26.md).
+
+
+## v0.6.1 rest review archive
+`DINO_v0.6.1_Review_Pack.zip` saved in Library / DINO Studio Archive; SHA-256 bcbe7c4022f717a8b4ed640587ed7255a12fe139a6288c83ce8e9cbc6171f797. Source viewer, renderer, test harness and validation also committed in releases/v0.6.1. ZIP includes exact original profile atlas, render video/GIF/contact sheet, screenshots and intermediate experiments. Original approved art and previous release assets unchanged.

@@ -9,3 +9,5 @@ If assets are missing, use the registry and exact hashes to recover them. A repo
 The eight prior production ZIPs are backed up in the owner's ChatGPT Library folder `DINO Studio Archive`. Search the Library for the exact names, retrieve originals, and validate using `docs/archive_manifest.json`. The two priority files are `DINO_001_Approved_Reference_Pack.zip` and `DINO_Artwork_Puppet_Studio_v0_1.zip`.
 
 Latest handoff: v0.5.1 accepted, v0.6 rejected, v0.6.1 withheld after failed actual visual QA. Read docs/REST_STUDY_2026-11-26.md. The new rejected-study ZIP is in the same Library folder; list the folder directly when filename search fails.
+
+Latest handoff: v0.6.1 continuous rest sequence is a review candidate, not accepted. v0.5.1 remains approved. Read releases/v0.6.1/README.md and validation.json; recover DINO_v0.6.1_Review_Pack.zip from the archive folder for rendered evidence and intermediate studies.

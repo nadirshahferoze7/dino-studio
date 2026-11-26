@@ -1,0 +1,9 @@
+# v0.6.1 — Continuous rest animation (review candidate)
+
+Open `index.html` through GitHub Pages. The 16-second profile-view sequence includes anticipation, sit, seated hold, lowering to the floor, eyes closing, breathing, head-first wake, pushing up and returning to the original standing pose. The six playback modes, speed, pause, replay and timeline are available. All earlier releases remain untouched.
+
+Source: first 384×384 frame of the original v0.1 `profile_idle.webp` atlas, Git blob `cd975ce50591282d5fc841ab37b562fc8903c789`, SHA-256 `a933ae48af7600af825f184035ce94a438623e83bc499d9085ad2ea7b7eaec0d`. Original approved hero/turnaround SHA-256 match identity.json. The secondary movement sheet informed the curled posture but its pixels are not substituted. No new master, mirroring, paid inference, or external dependency.
+
+Reproduction: place this directory under `releases/` alongside `v0.1/clips/profile_idle.webp`; run `python releases/v0.6.1/test_render.py /tmp/dino-review` with Python, Playwright, Chromium, Pillow, OpenCV, NumPy, and FFmpeg. The harness inlines exact source code and source atlas because browser URL navigation is blocked in the current environment. It renders all 385 frames and produces an MP4, GIF, contact sheet and validation report. Preview rendering itself requires only a browser. See `validation.json` for actual results. Browser-hosted playback not verified by the local harness.
+
+Visual review: sampled multiple successive pose montages, final full-character contact sheet, and full-size sleeping screenshot. Lower body and forearm remain reconstructed, with visible stylized joins/shading, sleep lid and mouth are approximations, ground alpha bottom varies 336–343 pixels. There is a short neutral registration blend, not a fade to an empty image. Profile only; no true 3D skeletal rig, no owner approval yet. This is a candidate for creative review, not a claim of final naturalness.
