@@ -1,5 +1,8 @@
 # Production history
 
+## 2026-11-26 — v0.3 eye animation candidate
+- Added source-pixel gaze and shaded blink controls on Idle/Wave; pointer tracking and manual blink. Prior versions preserved. Six sampled local Chromium eye renders inspected; integrated and hosted playback pending. Candidate, not approved.
+
 ## 2026-11-26 — v0.2.1 accepted
 - Owner visually accepted connected-shoulder wave. Marked it as the approved waving baseline, preserved prior releases and selected blinking/eye gaze for the next milestone. No animation code changed.
 

@@ -1,0 +1,2 @@
+# v0.3 — Eye animation candidate
+Use Idle or Wave, toggle auto blink, choose gaze direction or Follow pointer, or press Blink now. Original neutral eye pixels remain intact. Existing wave and shoulder functions referenced unchanged. Six local component samples rendered and inspected; integrated playback and full sequence quality not yet verified. Shaded eyelids and gaze deformation are provisional. Owner review pending.

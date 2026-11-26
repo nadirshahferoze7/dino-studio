@@ -25,3 +25,5 @@ GitHub repository metadata confirms `has_pages=true` and the [Pages build and de
 Current approved waving baseline: [v0.2.1 connected shoulder wave](https://nadirshahferoze7.github.io/dino-studio/releases/v0.2.1/). Previous versions remain accessible. See PROJECT_STATE for current validation and limitations.
 
 Next milestone: v0.3 natural blinking and independent gaze. Approval covers the wave only.
+
+Current eye animation candidate: [v0.3](https://nadirshahferoze7.github.io/dino-studio/releases/v0.3/). Accepted wave remains v0.2.1.
