@@ -1,0 +1,47 @@
+{
+  "status": "review candidate; owner approval pending",
+  "browser": "Chromium CPU, exact viewer with script and source atlas inlined; URL navigation blocked by environment",
+  "frames": 409,
+  "continuity": {
+    "samples": 1701,
+    "rangeErrors": 0,
+    "maxKeyVelocityMismatch": 0.016416207531122495,
+    "exactSharedClipBoundaryPixels": {
+      "sitTosleep": true,
+      "sleepTowake": true
+    },
+    "wakeJawClosureAt11_15": 0.97,
+    "wakeLidClosureAt11_15": 0.78
+  },
+  "fps": 24,
+  "jsErrors": [],
+  "controls": {
+    "sit": true,
+    "sleep": true,
+    "wake": true,
+    "seated": true,
+    "sleeping": true,
+    "full": true,
+    "pause": true,
+    "seek": true,
+    "speed": true,
+    "replay": true,
+    "mobileNoHorizontalOverflow": true
+  },
+  "assetHTTP": [],
+  "emptyFrames": 0,
+  "canvasClippingFrames": 0,
+  "foregroundComponentsAbove20px": {
+    "min": 1,
+    "max": 1
+  },
+  "groundAlpha128": {
+    "minBottom": 336,
+    "maxBottom": 336
+  },
+  "standRecoveryIdentical": true,
+  "maxAdjacentMeanRgbDifference": 3.9391,
+  "sourceAtlasSha256": "a933ae48af7600af825f184035ce94a438623e83bc499d9085ad2ea7b7eaec0d",
+  "rendererSha256": "0ae1bbc41d307d503c6eadb6de995bafa507cde058de5ebd287eec6ed95f6560",
+  "viewerSha256": "254e81261315ea913d829379cdd455fc716a5a898ae5f00aef1dbba319e5327f"
+}

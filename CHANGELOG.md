@@ -1,5 +1,8 @@
 # Production history
 
+## 2026-11-27 — v0.6.3 natural rest polish candidate
+- Owner requested further improvement of v0.6.2. Refined curved eyelid and blink timing, delayed waking expression, removed duplicated head at standing handoff, softened ankle/tail/shoulder seams, synchronized breathing, added staggered foot lifts and rendered silhouette floor alignment. 409 actual renders, all 11 viewer checks passed, zero blank/clipped or disconnected frames, bottom alpha row 336 in all samples. Same boundary pixels and exact standing recovery. Prior releases preserved; review candidate, not approved.
+
 ## 2026-11-26 — v0.6.2 full-cycle continuity candidate
 - Owner rejected v0.6.1 full-cycle continuity, not just the face. Rebuilt 17-second timing with continuous key tangents, independent sleepy/waking facial channels, single textured arm and reach constraint, revised joints and tail overlap. 409 actual renders, 11 viewer checks, 1701 timing samples; no blank/clipped or disconnected frames, both shared boundaries identical. Remaining stylized joints/face and ground contact limitations disclosed. Review candidate only; earlier versions preserved.
 
