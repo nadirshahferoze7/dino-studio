@@ -49,3 +49,5 @@ Latest rest candidate: [v0.6.2 full-cycle continuity rebuild](https://nadirshahf
 Latest rest review candidate: [v0.6.3 natural rest polish](https://nadirshahferoze7.github.io/dino-studio/releases/v0.6.3/). Owner found v0.6.2 improved but requested further refinement. v0.5.1 remains approved. See [release notes](releases/v0.6.3/README.md).
 
 Latest rest review candidate: [v0.6.4 connected structural body](https://nadirshahferoze7.github.io/dino-studio/releases/v0.6.4/). Owner found v0.6.3 improved but body connections still unsatisfactory. v0.5.1 remains approved. See [release notes](releases/v0.6.4/README.md).
+
+Latest review candidate: [v0.7 whole-body sprite engine](https://nadirshahferoze7.github.io/dino-studio/releases/v0.7/). Owner rejected v0.6.4 and authorized whole-character sprite production. Separate seated and curled-floor rest cycles, optional interpolation and experimental expression gallery. v0.5.1 remains approved. See [release notes](releases/v0.7/README.md).

@@ -17,3 +17,5 @@ Latest handoff: v0.6.1 rejected for full-cycle discontinuity; v0.6.2 is a contin
 Latest handoff: v0.6.2 improved but not approved; v0.6.3 natural rest polish review candidate. v0.5.1 remains accepted. Read releases/v0.6.3/README.md and validation.json; recover DINO_v0.6.3_Review_Pack.zip for evidence and studies. No speech work until explicit creative approval.
 
 Latest handoff: v0.6.3 improved but disconnected body parts; v0.6.4 connected structural body review candidate. v0.5.1 remains accepted. Read releases/v0.6.4/README.md and validation.json; recover DINO_v0.6.4_Review_Pack.zip for actual renders and rejected iterations. No speech work until explicit creative approval.
+
+Latest handoff: owner rejected v0.6.4 for body disconnection and tail narrowing, authorized complete sprite pipeline. v0.7 is a new review candidate; v0.5.1 remains accepted. Read releases/v0.7/README.md, manifest.json and validation.json; recover DINO_v0.7_Sprite_Review_Pack.zip for original source sheets and evidence. Review rest first; expression gallery is not lip sync. Do not resume patching the old rest puppet.

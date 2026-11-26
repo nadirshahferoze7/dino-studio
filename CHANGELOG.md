@@ -1,5 +1,8 @@
 # Production history
 
+## 2026-11-27 — v0.7 whole-body sprite engine candidate
+- Replaced failed joint-layer rest approach with registered complete-character sprites: 48 seated-rest, 48 curled-floor concept, 32 expression-study sources and 83 optional CPU optical-flow intermediates. Independent modes, frame stepping, source-only and interpolated playback. 200 actual browser timeline entries; 13 controls passed, zero blank/clipped/disconnected substantial frames, exact standing recovery for both rest modes. Generated art remains unapproved, floor source low resolution and expressions are not lip sync. Archived originals and evidence. Prior versions preserved.
+
 ## 2026-11-27 — v0.6.4 connected structural body candidate
 - Owner requested structural rebuild because parts appeared disconnected despite improved motion. Continuous smooth-union skin replaces hard-cut torso, fuses tail root, near leg, upper arm and neck with shared structural anchors. Source scarf, bag/strap independently tracked; retained original face and 17-second timeline. Four rendered iterations inspected; 409 actual frames, 11 UI checks, no blank/clipped or detached substantial foreground components. Exact standing recovery and shared clip boundaries. Reconstructed shading/accessory/foot limitations disclosed; no creative approval assumed.
 

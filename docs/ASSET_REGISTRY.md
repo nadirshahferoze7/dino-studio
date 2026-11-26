@@ -45,3 +45,7 @@ Two secondary movement-sheet crops (sit.webp, sleep.webp) stored in releases/v0.
 
 ## v0.6.4 structural body archive
 `DINO_v0.6.4_Review_Pack.zip` saved in Library / DINO Studio Archive; SHA-256 628ec7824b10d460d4efce80b8e0673f294ba6fd8c480b8227e98484a4a1d051. Contains source, exact existing profile atlas, actual MP4/GIF, comparison/contact sheets, validation and intermediate studies. Source and test files also in releases/v0.6.4. No approved artwork changed.
+
+
+## v0.7 sprite engine archive
+`DINO_v0.7_Sprite_Review_Pack.zip` saved in Library / DINO Studio Archive; SHA-256 46881c67243c38e2f81c28cda36128e46cab4d3c4ff267c3b00e861386e596bf. Includes three exact generated source PNGs, 128 cleaned sprites in PNG/WebP atlases, 83 optional interpolated frames in WebP, source/test scripts, actual MP4s and visual evidence. Five WebP atlases and manifest committed in releases/v0.7. Original approved artwork unchanged; generated assets are candidates.
