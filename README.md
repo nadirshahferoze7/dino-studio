@@ -39,3 +39,5 @@ Current gait candidate: [v0.5](https://nadirshahferoze7.github.io/dino-studio/re
 Latest gait refinement candidate: [v0.5.1](https://nadirshahferoze7.github.io/dino-studio/releases/v0.5.1/).
 
 Accepted gait: [v0.5.1](https://nadirshahferoze7.github.io/dino-studio/releases/v0.5.1/). Current rest-animation candidate: [v0.6](https://nadirshahferoze7.github.io/dino-studio/releases/v0.6/).
+
+Latest accepted baseline: [v0.5.1](https://nadirshahferoze7.github.io/dino-studio/releases/v0.5.1/). Owner rejected v0.6; the 2026-11-26 rest revision did not pass visual QA and was not released as v0.6.1. See [rest study report](docs/REST_STUDY_2026-11-26.md) and PROJECT_STATE for the archived source, validation evidence and next task.

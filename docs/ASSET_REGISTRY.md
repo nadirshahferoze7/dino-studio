@@ -25,3 +25,7 @@ Verified repository tree includes characters/DINO-001/approved/hero.png (2,265,4
 
 ## v0.6 rest assets
 Two secondary movement-sheet crops (sit.webp, sleep.webp) stored in releases/v0.6. Exact provenance and hashes in provenance.json. These are derived candidate poses, not canonical originals.
+
+
+## Rejected rest study archive (2026-11-26)
+`DINO_Rest_Study_Rejected_2026-11-26.zip` saved in Library / DINO Studio Archive. Includes source, exact existing profile atlas, actual full-sequence renders, validation, and failed approach notes. SHA-256: 767f2850ee31bcafc9d23209f4345b6b563c98529ee4e8f2dd35cc44166b9a3a. Not a release; no new binary assets committed to Git. See [rest study report](REST_STUDY_2026-11-26.md).

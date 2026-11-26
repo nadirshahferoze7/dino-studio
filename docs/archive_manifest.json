@@ -1,7 +1,7 @@
 {
   "date": "2026-11-25",
   "storage": "Owner ChatGPT Library / DINO Studio Archive",
-  "status": "All eight archive copies succeeded; not stored as Git binary assets",
+  "status": "Eight earlier archives plus rejected rest study saved in Library; ZIP files not stored in Git",
   "hash_type": "SHA-256 of local source ZIP; recheck on recovery",
   "archives": [
     {
@@ -35,6 +35,11 @@
     {
       "filename": "Project_DINO_Studio_Pack_v0_2.zip",
       "sha256": "1eda3c2edbc78cb01c5a4bbf430729c3629fff66a5b1142266c5e0d97aa3ad79"
+    },
+    {
+      "filename": "DINO_Rest_Study_Rejected_2026-11-26.zip",
+      "sha256": "767f2850ee31bcafc9d23209f4345b6b563c98529ee4e8f2dd35cc44166b9a3a",
+      "status": "Rejected rest study; not a v0.6.1 release"
     }
   ]
 }

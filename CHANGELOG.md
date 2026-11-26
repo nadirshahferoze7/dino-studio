@@ -1,5 +1,8 @@
 # Production history
 
+## 2026-11-26 — v0.6 rejected; revision not released
+- Owner rejected incomplete v0.6 rest/wake. Three actual rendering studies failed the visual gate; final layered study rendered 385 frames, no empty or clipped frames or JS errors, but unnatural joints and sleep posture remain. No v0.6.1 release. Archive stored in Library with exact hash; see docs/REST_STUDY_2026-11-26.md. Marked v0.6 rejected on dashboard and retained every previous release file.
+
 ## 2026-11-26 — v0.5.1 accepted and v0.6 rest candidate
 - Owner approved refined gait. Added seated idle, curled-up sleep and staged waking sequence using archived secondary pose artwork. Local component test: 216 samples; stable resting ground row; intentional blank at fade. Prior releases preserved. New rest poses pending owner review.
 
