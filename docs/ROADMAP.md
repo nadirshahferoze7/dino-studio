@@ -15,3 +15,7 @@ Perfect and obtain owner acceptance of the complete resting performance before s
 - World canon still undecided. Start small and polished; keep reusable characters, environments and motions across formats.
 
 Tools: Python, Pillow, OpenCV, NumPy, SciPy, FFmpeg, Canvas; evaluate PixiJS, Inochi2D, GSAP, Three.js, React Three Fiber/XR, HyperFrames, Remotion (license eligibility), Godot. No external GPU or quota-dependent AI services. AR/VR image sprites have viewpoint/stereo limitations; no immersive implementation yet.
+
+
+## 2026-11-27 — v0.8.0 creative approval
+Owner explicitly stated: “I approve v0.8.0. Record my approval in GitHub and proceed with developing Dino's talking animation.” Complete rest cycle accepted; existing documented limitations retained. Speech gate is now open. Preserve all approved artwork and release assets. Next: v0.9.1 whole-character mouth-pose/timed-cue study, neutral recovery; voice and final audio synchronization separate pending milestones.
