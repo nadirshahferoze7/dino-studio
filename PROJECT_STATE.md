@@ -130,3 +130,7 @@ Generated 1536×1024 eight-pose full-character mouth sheet with built-in image g
 
 ## 2026-11-27 — speech study positive review
 Owner feedback: “very good work! proceeed please”. Positive review authorizes continued talking development; does not explicitly replace the approved identity or accept a final speech master. Preserve the eight-pose study and exact original; next improve visual stability and articulation, then voice casting. Pending binary transfer remains subject to verified Git recovery.
+
+
+## Voice casting authorization
+Owner agreed to the three-direction voice audition (curious explorer, playful adventurer, gentle companion), with A as recommended starting direction. This authorizes auditions, not a final voice selection. Use the same test line, no paid APIs, and distinguish approximate timing from verified phoneme alignment.
