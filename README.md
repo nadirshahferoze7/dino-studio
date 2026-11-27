@@ -54,3 +54,5 @@ Latest review candidate: [v0.7 whole-body sprite engine](https://nadirshahferoze
 
 
 Repository consolidation has begun: [archives](archives/), [inventory](docs/archive_manifest.json), and `python tools/recover_archives.py --verify-only`. Some historical ZIPs are still Library-only; the canonical reference pack, original turnaround, v0.7 source sheets and videos are now in Git.
+
+Latest review candidate: [v0.7.1 identity-lock sprite pack](https://nadirshahferoze7.github.io/dino-studio/releases/v0.7.1/). Five candidate anchors, 12 unique gold poses and full 28-pose curated floor-rest cycle. Actual source, atlas, render evidence and code in Git. [Storage policy](docs/STORAGE_POLICY.md) · [Sprite production rules](docs/SPRITE_RULES.md) · [Legacy migration audit](docs/ARCHIVE_MIGRATION.md). v0.5.1 remains approved; no speech milestone yet.

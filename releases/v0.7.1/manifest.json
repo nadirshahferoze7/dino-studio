@@ -1,0 +1,750 @@
+{
+  "version": "v0.7.1",
+  "character": "DINO-001",
+  "status": "review candidate; not approved identity",
+  "source": {
+    "path": "../v0.7/sources/a_polished_high_resolution_2d_cartoon_sprite_shee.png",
+    "sha256": "115ded2bff8a23a12da5ed4ce772bbb6875bf10a1e1f6f6d0628606d66f9c853",
+    "sourceFrames": 48,
+    "sourceQuality": "illustrated concept; not newly drawn high-resolution source"
+  },
+  "atlas": {
+    "path": "curated.webp",
+    "sha256": "442b82b01433dc1de91c133c47a40d84ec49b8134b35e8111c08fa9a9aad81a3",
+    "cell": [
+      288,
+      256
+    ],
+    "columns": 7,
+    "groundY": 224,
+    "count": 28
+  },
+  "registration": {
+    "headWidthTarget": 94,
+    "hipXTarget": 116,
+    "method": "manually estimated head width and hip x, uniform scale and translation only",
+    "note": "not measured anatomical truth; floor silhouette alignment not foot lock"
+  },
+  "anchors": [
+    0,
+    4,
+    8,
+    11,
+    18
+  ],
+  "goldSequence": [
+    0,
+    1,
+    2,
+    4,
+    6,
+    9,
+    11,
+    15,
+    17,
+    19,
+    21,
+    24,
+    0
+  ],
+  "fullSequence": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    0
+  ],
+  "frames": [
+    {
+      "index": 0,
+      "sourceFrame": 1,
+      "label": "Standing",
+      "seconds": 0.55,
+      "sourceCrop": [
+        207,
+        56,
+        313,
+        175
+      ],
+      "headWidthEstimate": 61,
+      "hipXEstimate": 59,
+      "scale": 1.540984,
+      "bounds": [
+        31,
+        53,
+        181,
+        224
+      ],
+      "components": 1,
+      "floor": 224
+    },
+    {
+      "index": 1,
+      "sourceFrame": 2,
+      "label": "Anticipation",
+      "seconds": 0.17,
+      "sourceCrop": [
+        380,
+        60,
+        496,
+        175
+      ],
+      "headWidthEstimate": 62,
+      "hipXEstimate": 60,
+      "scale": 1.516129,
+      "bounds": [
+        31,
+        61,
+        194,
+        224
+      ],
+      "components": 1,
+      "floor": 224
+    },
+    {
+      "index": 2,
+      "sourceFrame": 3,
+      "label": "Bend",
+      "seconds": 0.18,
+      "sourceCrop": [
+        558,
+        71,
+        683,
+        175
+      ],
+      "headWidthEstimate": 61,
+      "hipXEstimate": 58,
+      "scale": 1.540984,
+      "bounds": [
+        33,
+        77,
+        212,
+        224
+      ],
+      "components": 1,
+      "floor": 224
+    },
+    {
+      "index": 3,
+      "sourceFrame": 6,
+      "label": "Lower hips",
+      "seconds": 0.18,
+      "sourceCrop": [
+        1126,
+        83,
+        1251,
+        174
+      ],
+      "headWidthEstimate": 60,
+      "hipXEstimate": 54,
+      "scale": 1.566667,
+      "bounds": [
+        38,
+        95,
+        220,
+        224
+      ],
+      "components": 1,
+      "floor": 224
+    },
+    {
+      "index": 4,
+      "sourceFrame": 9,
+      "label": "Seated",
+      "seconds": 0.65,
+      "sourceCrop": [
+        205,
+        204,
+        318,
+        320
+      ],
+      "headWidthEstimate": 67,
+      "hipXEstimate": 58,
+      "scale": 1.402985,
+      "bounds": [
+        40,
+        72,
+        186,
+        224
+      ],
+      "components": 1,
+      "floor": 224
+    },
+    {
+      "index": 5,
+      "sourceFrame": 10,
+      "label": "Drowsy",
+      "seconds": 0.25,
+      "sourceCrop": [
+        393,
+        207,
+        508,
+        320
+      ],
+      "headWidthEstimate": 65,
+      "hipXEstimate": 57,
+      "scale": 1.446154,
+      "bounds": [
+        39,
+        72,
+        193,
+        224
+      ],
+      "components": 1,
+      "floor": 224
+    },
+    {
+      "index": 6,
+      "sourceFrame": 12,
+      "label": "Heavy lids",
+      "seconds": 0.25,
+      "sourceCrop": [
+        770,
+        211,
+        887,
+        320
+      ],
+      "headWidthEstimate": 65,
+      "hipXEstimate": 57,
+      "scale": 1.446154,
+      "bounds": [
+        39,
+        78,
+        196,
+        224
+      ],
+      "components": 1,
+      "floor": 224
+    },
+    {
+      "index": 7,
+      "sourceFrame": 13,
+      "label": "Lean",
+      "seconds": 0.18,
+      "sourceCrop": [
+        961,
+        222,
+        1087,
+        320
+      ],
+      "headWidthEstimate": 61,
+      "hipXEstimate": 52,
+      "scale": 1.540984,
+      "bounds": [
+        42,
+        85,
+        222,
+        224
+      ],
+      "components": 1,
+      "floor": 224
+    },
+    {
+      "index": 8,
+      "sourceFrame": 14,
+      "label": "Lower chest",
+      "seconds": 0.18,
+      "sourceCrop": [
+        1156,
+        230,
+        1283,
+        320
+      ],
+      "headWidthEstimate": 60,
+      "hipXEstimate": 52,
+      "scale": 1.566667,
+      "bounds": [
+        40,
+        95,
+        226,
+        224
+      ],
+      "components": 1,
+      "floor": 224
+    },
+    {
+      "index": 9,
+      "sourceFrame": 15,
+      "label": "Reach",
+      "seconds": 0.18,
+      "sourceCrop": [
+        1352,
+        235,
+        1481,
+        320
+      ],
+      "headWidthEstimate": 59,
+      "hipXEstimate": 53,
+      "scale": 1.59322,
+      "bounds": [
+        38,
+        101,
+        229,
+        224
+      ],
+      "components": 1,
+      "floor": 224
+    },
+    {
+      "index": 10,
+      "sourceFrame": 16,
+      "label": "Settle on ground",
+      "seconds": 0.25,
+      "sourceCrop": [
+        1551,
+        245,
+        1696,
+        320
+      ],
+      "headWidthEstimate": 60,
+      "hipXEstimate": 55,
+      "scale": 1.566667,
+      "bounds": [
+        36,
+        119,
+        249,
+        224
+      ],
+      "components": 1,
+      "floor": 224
+    },
+    {
+      "index": 11,
+      "sourceFrame": 17,
+      "label": "Curled sleep",
+      "seconds": 1.15,
+      "sourceCrop": [
+        195,
+        373,
+        347,
+        438
+      ],
+      "headWidthEstimate": 61,
+      "hipXEstimate": 54,
+      "scale": 1.540984,
+      "bounds": [
+        39,
+        134,
+        260,
+        224
+      ],
+      "components": 1,
+      "floor": 224
+    },
+    {
+      "index": 12,
+      "sourceFrame": 18,
+      "label": "Sleep breath",
+      "seconds": 0.7,
+      "sourceCrop": [
+        389,
+        373,
+        541,
+        438
+      ],
+      "headWidthEstimate": 61,
+      "hipXEstimate": 54,
+      "scale": 1.540984,
+      "bounds": [
+        39,
+        134,
+        260,
+        224
+      ],
+      "components": 1,
+      "floor": 224
+    },
+    {
+      "index": 13,
+      "sourceFrame": 20,
+      "label": "Sleep hold",
+      "seconds": 0.7,
+      "sourceCrop": [
+        776,
+        374,
+        927,
+        438
+      ],
+      "headWidthEstimate": 61,
+      "hipXEstimate": 54,
+      "scale": 1.540984,
+      "bounds": [
+        39,
+        136,
+        258,
+        224
+      ],
+      "components": 1,
+      "floor": 224
+    },
+    {
+      "index": 14,
+      "sourceFrame": 24,
+      "label": "Sleep hold",
+      "seconds": 0.7,
+      "sourceCrop": [
+        1557,
+        375,
+        1711,
+        438
+      ],
+      "headWidthEstimate": 62,
+      "hipXEstimate": 54,
+      "scale": 1.516129,
+      "bounds": [
+        40,
+        139,
+        260,
+        224
+      ],
+      "components": 1,
+      "floor": 224
+    },
+    {
+      "index": 15,
+      "sourceFrame": 27,
+      "label": "Stir",
+      "seconds": 0.35,
+      "sourceCrop": [
+        460,
+        502,
+        583,
+        559
+      ],
+      "headWidthEstimate": 55,
+      "hipXEstimate": 43,
+      "scale": 1.709091,
+      "bounds": [
+        49,
+        140,
+        245,
+        224
+      ],
+      "components": 1,
+      "floor": 224
+    },
+    {
+      "index": 16,
+      "sourceFrame": 28,
+      "label": "Head lift",
+      "seconds": 0.23,
+      "sourceCrop": [
+        590,
+        500,
+        712,
+        559
+      ],
+      "headWidthEstimate": 55,
+      "hipXEstimate": 43,
+      "scale": 1.709091,
+      "bounds": [
+        49,
+        135,
+        243,
+        224
+      ],
+      "components": 1,
+      "floor": 224
+    },
+    {
+      "index": 17,
+      "sourceFrame": 29,
+      "label": "Wake",
+      "seconds": 0.21,
+      "sourceCrop": [
+        719,
+        492,
+        838,
+        559
+      ],
+      "headWidthEstimate": 54,
+      "hipXEstimate": 43,
+      "scale": 1.740741,
+      "bounds": [
+        48,
+        121,
+        240,
+        224
+      ],
+      "components": 1,
+      "floor": 224
+    },
+    {
+      "index": 18,
+      "sourceFrame": 30,
+      "label": "Push up",
+      "seconds": 0.23,
+      "sourceCrop": [
+        847,
+        490,
+        963,
+        559
+      ],
+      "headWidthEstimate": 52,
+      "hipXEstimate": 43,
+      "scale": 1.807692,
+      "bounds": [
+        45,
+        111,
+        239,
+        224
+      ],
+      "components": 1,
+      "floor": 224
+    },
+    {
+      "index": 19,
+      "sourceFrame": 33,
+      "label": "Recover",
+      "seconds": 0.22,
+      "sourceCrop": [
+        1235,
+        481,
+        1346,
+        559
+      ],
+      "headWidthEstimate": 50,
+      "hipXEstimate": 43,
+      "scale": 1.88,
+      "bounds": [
+        42,
+        90,
+        235,
+        224
+      ],
+      "components": 1,
+      "floor": 224
+    },
+    {
+      "index": 20,
+      "sourceFrame": 34,
+      "label": "Sit recovery",
+      "seconds": 0.35,
+      "sourceCrop": [
+        1374,
+        476,
+        1474,
+        559
+      ],
+      "headWidthEstimate": 51,
+      "hipXEstimate": 42,
+      "scale": 1.843137,
+      "bounds": [
+        46,
+        83,
+        214,
+        224
+      ],
+      "components": 1,
+      "floor": 224
+    },
+    {
+      "index": 21,
+      "sourceFrame": 36,
+      "label": "Awake seated",
+      "seconds": 0.45,
+      "sourceCrop": [
+        1642,
+        474,
+        1732,
+        559
+      ],
+      "headWidthEstimate": 51,
+      "hipXEstimate": 44,
+      "scale": 1.843137,
+      "bounds": [
+        42,
+        72,
+        192,
+        224
+      ],
+      "components": 1,
+      "floor": 224
+    },
+    {
+      "index": 22,
+      "sourceFrame": 43,
+      "label": "Rise",
+      "seconds": 0.22,
+      "sourceCrop": [
+        988,
+        604,
+        1096,
+        688
+      ],
+      "headWidthEstimate": 50,
+      "hipXEstimate": 45,
+      "scale": 1.88,
+      "bounds": [
+        39,
+        83,
+        226,
+        224
+      ],
+      "components": 1,
+      "floor": 224
+    },
+    {
+      "index": 23,
+      "sourceFrame": 44,
+      "label": "Straighten",
+      "seconds": 0.19,
+      "sourceCrop": [
+        1121,
+        600,
+        1224,
+        688
+      ],
+      "headWidthEstimate": 50,
+      "hipXEstimate": 46,
+      "scale": 1.88,
+      "bounds": [
+        37,
+        75,
+        214,
+        224
+      ],
+      "components": 1,
+      "floor": 224
+    },
+    {
+      "index": 24,
+      "sourceFrame": 45,
+      "label": "Extend",
+      "seconds": 0.19,
+      "sourceCrop": [
+        1254,
+        597,
+        1350,
+        688
+      ],
+      "headWidthEstimate": 50,
+      "hipXEstimate": 47,
+      "scale": 1.88,
+      "bounds": [
+        35,
+        69,
+        199,
+        224
+      ],
+      "components": 1,
+      "floor": 224
+    },
+    {
+      "index": 25,
+      "sourceFrame": 46,
+      "label": "Balance",
+      "seconds": 0.19,
+      "sourceCrop": [
+        1385,
+        594,
+        1477,
+        688
+      ],
+      "headWidthEstimate": 50,
+      "hipXEstimate": 48,
+      "scale": 1.88,
+      "bounds": [
+        33,
+        64,
+        190,
+        224
+      ],
+      "components": 1,
+      "floor": 224
+    },
+    {
+      "index": 26,
+      "sourceFrame": 47,
+      "label": "Standing recovery",
+      "seconds": 0.18,
+      "sourceCrop": [
+        1516,
+        592,
+        1605,
+        689
+      ],
+      "headWidthEstimate": 50,
+      "hipXEstimate": 49,
+      "scale": 1.88,
+      "bounds": [
+        31,
+        54,
+        182,
+        224
+      ],
+      "components": 1,
+      "floor": 224
+    },
+    {
+      "index": 27,
+      "sourceFrame": 48,
+      "label": "Standing recovery",
+      "seconds": 0.18,
+      "sourceCrop": [
+        1647,
+        592,
+        1733,
+        689
+      ],
+      "headWidthEstimate": 50,
+      "hipXEstimate": 48,
+      "scale": 1.88,
+      "bounds": [
+        33,
+        51,
+        179,
+        224
+      ],
+      "components": 1,
+      "floor": 224
+    }
+  ],
+  "rejectedOrDeferredSourceFrames": [
+    4,
+    5,
+    7,
+    8,
+    11,
+    19,
+    21,
+    22,
+    23,
+    25,
+    26,
+    31,
+    32,
+    35,
+    37,
+    38,
+    39,
+    40,
+    41,
+    42
+  ],
+  "rejectionNote": "Excluded near-duplicates and apparent expression/posture reversals; omitted does not mean individually approved/rejected. No cross-source mixing, no generated midframes."
+}

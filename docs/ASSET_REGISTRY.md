@@ -49,3 +49,7 @@ Two secondary movement-sheet crops (sit.webp, sleep.webp) stored in releases/v0.
 
 ## v0.7 sprite engine archive
 `DINO_v0.7_Sprite_Review_Pack.zip` saved in Library / DINO Studio Archive; SHA-256 46881c67243c38e2f81c28cda36128e46cab4d3c4ff267c3b00e861386e596bf. Includes three exact generated source PNGs, 128 cleaned sprites in PNG/WebP atlases, 83 optional interpolated frames in WebP, source/test scripts, actual MP4s and visual evidence. Five WebP atlases and manifest committed in releases/v0.7. Original approved artwork unchanged; generated assets are candidates.
+
+
+## v0.7.1 — directly stored identity-lock review assets
+Exact original source `releases/v0.7/sources/a_polished_high_resolution_2d_cartoon_sprite_shee.png` already in Git. `releases/v0.7.1/` contains curated.webp, identity.jpg, contact.jpg, evidence/rest-preview.mp4, evidence/browser-contact.jpg, manifest.json, builder, player, viewer, validation and release notes. Binary SHA-256 in validation and exact Git blob IDs in the archive inventory direct-release record. No required Library-only v0.7.1 asset. Candidate, not approved; original art unchanged.

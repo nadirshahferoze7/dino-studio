@@ -1,7 +1,7 @@
 {
   "date": "2026-11-25",
-  "storage": "GitHub migration in progress; original Library backups retained",
-  "status": "8 of 14 original archives stored in Git; 6 pending",
+  "storage": "GitHub primary permanent store; Library supplemental only. Direct release records identify versioned files already in Git.",
+  "status": "8 of 14 historical ZIP archives stored in Git; 6 pending. v0.7.1 stored directly in versioned files, no ZIP required.",
   "hash_type": "SHA-256 of local source ZIP; recheck on recovery",
   "archives": [
     {
@@ -299,6 +299,46 @@
           }
         ]
       }
+    }
+  ],
+  "direct_release_assets": [
+    {
+      "version": "v0.7.1",
+      "source": {
+        "path": "releases/v0.7/sources/a_polished_high_resolution_2d_cartoon_sprite_shee.png",
+        "sha256": "115ded2bff8a23a12da5ed4ce772bbb6875bf10a1e1f6f6d0628606d66f9c853",
+        "git_blob_sha": "1264308d109ef7e11bd3a47100ce264e0eec983c"
+      },
+      "files": [
+        {
+          "path": "releases/v0.7.1/curated.webp",
+          "git_blob_sha": "aaf4dd49cd0f460900198db54886a1016e682f00",
+          "sha256": "442b82b01433dc1de91c133c47a40d84ec49b8134b35e8111c08fa9a9aad81a3"
+        },
+        {
+          "path": "releases/v0.7.1/contact.jpg",
+          "git_blob_sha": "d73dae97b70d261aa27ca8480d6673a96ac32ab6",
+          "sha256": "0cb4cdee1fd79dab0402acef641f34b435265d48fa8e50ec468b59c9f75ee351"
+        },
+        {
+          "path": "releases/v0.7.1/identity.jpg",
+          "git_blob_sha": "d364ad5f02f29a5bb50fdba9c5017d36f9044068",
+          "sha256": "757b8d055014e4d59d2ad06c6dcae5d331e4c3cb113cd28bd9434dfcbe41fcf4"
+        },
+        {
+          "path": "releases/v0.7.1/evidence/rest-preview.mp4",
+          "git_blob_sha": "e1b85c603505e63dfd2e182f31f6ec342262fe52",
+          "sha256": "680e5cc961ccf0d6c3234f53c99d74b04e23d93763bf4a49394642318e2158da"
+        },
+        {
+          "path": "releases/v0.7.1/evidence/browser-contact.jpg",
+          "git_blob_sha": "16c2fa8ec9fa1372d028bcf3f4f8c2ae40d70776",
+          "sha256": "4797bc84c9cbf3c70de9e24ccc2c38c546fe06788c7cd8973f17cba497970af7"
+        }
+      ],
+      "documentation": "releases/v0.7.1/README.md",
+      "validation": "releases/v0.7.1/validation.json",
+      "status": "candidate"
     }
   ]
 }

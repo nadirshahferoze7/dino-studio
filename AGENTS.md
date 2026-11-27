@@ -15,3 +15,7 @@
 
 ## Skills
 Use .agents/skills/character-designer, character-builder, animator, cinematographer, consistency-guardian, release-manager. These are repository instruction files, not a claim that a plugin is installed.
+
+## GitHub-first durability and whole-body rest pipeline (owner instruction, 2026-11-27)
+- GitHub is the primary permanent store, not ChatGPT Library or conversation memory. Commit actual source assets, derived atlases, build code, manifests, test renders, review evidence and handoff instructions. Refer to existing immutable Git blobs where bytes already exist; do not count a Library-only path or an archive manifest pointer as Git storage. Verify stored paths and blob hashes before reporting success. Keep old releases and rejected experiments; track missing archive bytes explicitly. Read docs/STORAGE_POLICY.md on startup.
+- For the resting animation, owner rejected separated body parts and authorized whole-body sprite production. Do not resume the failed segmented rest puppet. Follow docs/SPRITE_RULES.md. The five v0.7.1 anchors are review candidates only; the exact approved hero and turnaround remain visual authority. No dialogue or films before owner acceptance of resting performance.

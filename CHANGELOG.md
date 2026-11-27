@@ -1,5 +1,8 @@
 # Production history
 
+## 2026-11-27 — v0.7.1 identity-lock review candidate
+- Verified GitHub connection and approved reference hashes. Curated 28 complete poses from existing single floor-rest source; five identity anchors and 12-unique-pose gold sequence, head/hip registration and source-only playback. 47 actual Canvas timeline entries, all 13 controls passed, no blank/clipped or detached substantial frames, exact standing recovery. Concept resolution, stepped timing and remaining identity drift disclosed. All new asset and evidence bytes stored directly in Git. Added GitHub-first durability and sprite rules; audited 8 of 14 older archives present, six still pending.
+
 ## 2026-11-27 — v0.7 whole-body sprite engine candidate
 - Replaced failed joint-layer rest approach with registered complete-character sprites: 48 seated-rest, 48 curled-floor concept, 32 expression-study sources and 83 optional CPU optical-flow intermediates. Independent modes, frame stepping, source-only and interpolated playback. 200 actual browser timeline entries; 13 controls passed, zero blank/clipped/disconnected substantial frames, exact standing recovery for both rest modes. Generated art remains unapproved, floor source low resolution and expressions are not lip sync. Archived originals and evidence. Prior versions preserved.
 

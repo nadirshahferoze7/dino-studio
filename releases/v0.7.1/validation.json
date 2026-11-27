@@ -1,0 +1,69 @@
+{
+  "method": "Actual Chromium Canvas viewer; exact script and atlas bytes inlined, no hosted network check",
+  "errors": [],
+  "controls": {
+    "load": true,
+    "replay": true,
+    "pause": true,
+    "seek": true,
+    "next": true,
+    "prev": true,
+    "speed": true,
+    "loop": true,
+    "anchorClick": true,
+    "mobile": true,
+    "fullMode": true,
+    "goldMode": true,
+    "anchorMode": true
+  },
+  "modes": {
+    "full": {
+      "entries": 29,
+      "seconds": 10.01,
+      "blank": 0,
+      "clipped": 0,
+      "maxComponents": 1,
+      "floorMin": 448,
+      "floorMax": 450,
+      "sameFirstLastPixels": true
+    },
+    "gold": {
+      "entries": 13,
+      "seconds": 6.15,
+      "blank": 0,
+      "clipped": 0,
+      "maxComponents": 1,
+      "floorMin": 449,
+      "floorMax": 450,
+      "sameFirstLastPixels": true
+    },
+    "anchor": {
+      "entries": 5,
+      "seconds": 7.5,
+      "blank": 0,
+      "clipped": 0,
+      "maxComponents": 1,
+      "floorMin": 449,
+      "floorMax": 450,
+      "sameFirstLastPixels": false
+    }
+  },
+  "hashes": {
+    "curated.webp": "442b82b01433dc1de91c133c47a40d84ec49b8134b35e8111c08fa9a9aad81a3",
+    "manifest.json": "23a5fce1b7643750e7a109d560e73635cac5b87364a977697918c7bc342c49c1",
+    "index.html": "2b0fd49c79fbaaebc1fc26e9388f7f54f65778ad213e2390e3c1077b39f9884c",
+    "player.js": "1e94791c3ae517cbec09c203a819f8d16598202de21e68913c4faa7312856481",
+    "contact.jpg": "0cb4cdee1fd79dab0402acef641f34b435265d48fa8e50ec468b59c9f75ee351",
+    "identity.jpg": "757b8d055014e4d59d2ad06c6dcae5d331e4c3cb113cd28bd9434dfcbe41fcf4"
+  },
+  "referenceCheck": {
+    "approved/hero.png": "82920f602cbd72bf83887c1b4b2140b880f800df05c8caa8df651f96de175a1a",
+    "approved/turnaround.png": "009085f36955d6c52e7dffaad714ce01c7a9d87265d38a53803cfd5014ab3a12"
+  },
+  "referenceArchiveSha256": "951dc69479398c5b25f2d9f511e9a098e100dd44f04d73f1fc07ae78d8a87d7a",
+  "referenceHashesMatch": true,
+  "evidenceHashes": {
+    "evidence/rest-preview.mp4": "680e5cc961ccf0d6c3234f53c99d74b04e23d93763bf4a49394642318e2158da",
+    "evidence/browser-contact.jpg": "4797bc84c9cbf3c70de9e24ccc2c38c546fe06788c7cd8973f17cba497970af7"
+  }
+}
