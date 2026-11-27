@@ -1,0 +1,60 @@
+{
+  "status": "review candidate, not approved",
+  "testEnvironment": "CPU Chromium, exact script and assets inlined because hosted URL access is restricted",
+  "errors": [],
+  "controls": {
+    "initialPaused": true,
+    "replay": true,
+    "pause": true,
+    "scrub": true,
+    "next": true,
+    "prev": true,
+    "speed": true,
+    "loop": true,
+    "mobile": true,
+    "motionMode": true,
+    "sourceMode": true,
+    "anchorsMode": true
+  },
+  "modes": {
+    "motion": {
+      "timelineEntries": 65,
+      "duration": 13.61,
+      "empty": 0,
+      "clipped": 0,
+      "maxComponentsAbove64px": 1,
+      "floorMin": 532,
+      "floorMax": 532,
+      "sameFirstLast": true
+    },
+    "source": {
+      "timelineEntries": 9,
+      "duration": 13.61,
+      "empty": 0,
+      "clipped": 0,
+      "maxComponentsAbove64px": 1,
+      "floorMin": 532,
+      "floorMax": 532,
+      "sameFirstLast": true
+    },
+    "anchors": {
+      "timelineEntries": 6,
+      "duration": 4.8,
+      "empty": 0,
+      "clipped": 0,
+      "maxComponentsAbove64px": 1,
+      "floorMin": 532,
+      "floorMax": 532,
+      "sameFirstLast": false
+    }
+  },
+  "hashes": {
+    "anchors.webp": "44ba32fdd31a11bdc162e67cd3c6deceb21f334979ba0df5d80c5ae7290ae9f7",
+    "motion.webp": "c96e4388982b4b3b88a4e905afef494c331f65fc5ab3c12d54ade532ad241c28",
+    "manifest.json": "5a8adcae986de02baad00a5e8d4635038d004026b6c2891067c7e0783814053e",
+    "player.js": "f8eb84cfefdb20c54f0ae1d7341efb560148bdea032b1dbdc1b10742f114db5f",
+    "index.html": "00b267183b75f975bf3d774ef53c5c34be74c3ebb08ad08432937ef7748f75f2",
+    "evidence/rest-preview.mp4": "ed58b1d30a6e4163e0e92698b924f089dabd721f6ff7c16cceb420a07a8cbb2e",
+    "evidence/browser-contact.jpg": "3bb57fdcb8760aeeedf9f247c69d9ebb360fbbefe836425706de11e65f2b76e9"
+  }
+}

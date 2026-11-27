@@ -1,3 +1,6 @@
+# Current production gate — 2026-11-27
+Perfect and obtain owner acceptance of the complete resting performance before speech, lip synchronization, dialogue or films. Historical version numbering below is an old proposal, not current release status. Whole-body source poses with authored contact and expression continuity are the active experiment; segmented rest puppet is rejected.
+
 # Roadmap
 - v0.1 image puppet baseline: built before repository initialization; import archived assets and code.
 - v0.2: online studio and corrected palm-forward wave; preserve baseline; inspect motion and request review.

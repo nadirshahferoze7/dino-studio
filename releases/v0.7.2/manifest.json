@@ -1,0 +1,239 @@
+{
+  "version": "v0.7.2",
+  "character": "DINO-001",
+  "status": "review candidate",
+  "source": {
+    "file": "sources/rest-anchors.png",
+    "sha256": "b0a34ad4de871d55de21eb58fa5fc621994934ff19a1d60727faba1b2c9eb0a1",
+    "dimensions": [
+      1536,
+      1024
+    ]
+  },
+  "cell": [
+    640,
+    576
+  ],
+  "groundY": 532,
+  "columns": 3,
+  "anchors": [
+    {
+      "index": 0,
+      "name": "Standing",
+      "sourceBounds": [
+        45,
+        17,
+        416,
+        516
+      ],
+      "nativeAlphaBounds": [
+        49,
+        21,
+        363,
+        491
+      ],
+      "hipXEstimate": 250,
+      "uniformScale": 1.0
+    },
+    {
+      "index": 1,
+      "name": "Knee bend",
+      "sourceBounds": [
+        517,
+        55,
+        956,
+        516
+      ],
+      "nativeAlphaBounds": [
+        521,
+        59,
+        431,
+        453
+      ],
+      "hipXEstimate": 730,
+      "uniformScale": 1.0
+    },
+    {
+      "index": 2,
+      "name": "Seated",
+      "sourceBounds": [
+        1049,
+        84,
+        1456,
+        518
+      ],
+      "nativeAlphaBounds": [
+        1053,
+        88,
+        399,
+        426
+      ],
+      "hipXEstimate": 1260,
+      "uniformScale": 0.98
+    },
+    {
+      "index": 3,
+      "name": "Drowsy support",
+      "sourceBounds": [
+        13,
+        595,
+        462,
+        966
+      ],
+      "nativeAlphaBounds": [
+        17,
+        599,
+        441,
+        363
+      ],
+      "hipXEstimate": 190,
+      "uniformScale": 1.02
+    },
+    {
+      "index": 4,
+      "name": "Curled sleep",
+      "sourceBounds": [
+        517,
+        698,
+        978,
+        965
+      ],
+      "nativeAlphaBounds": [
+        521,
+        702,
+        453,
+        259
+      ],
+      "hipXEstimate": 655,
+      "uniformScale": 1.03
+    },
+    {
+      "index": 5,
+      "name": "Sleepy wake",
+      "sourceBounds": [
+        1017,
+        616,
+        1524,
+        965
+      ],
+      "nativeAlphaBounds": [
+        1021,
+        620,
+        499,
+        341
+      ],
+      "hipXEstimate": 1200,
+      "uniformScale": 0.99
+    }
+  ],
+  "flowPairs": [
+    [
+      0,
+      1
+    ],
+    [
+      1,
+      2
+    ],
+    [
+      2,
+      3
+    ],
+    [
+      3,
+      4
+    ],
+    [
+      4,
+      5
+    ],
+    [
+      5,
+      3
+    ],
+    [
+      3,
+      2
+    ],
+    [
+      2,
+      1
+    ],
+    [
+      1,
+      0
+    ]
+  ],
+  "flowFramesPerPair": 7,
+  "flowColumns": 7,
+  "notes": "New native source: six complete original 3D-style rendered pose candidates, not approved canon. Registration by estimated hip anchor and fixed floor; near-native uniform scale 0.98\u20131.03. Runtime only displays full frames. No layered parts.",
+  "flowExperimentStatus": "rejected for duplicated features; only contact evidence and reproducible script retained",
+  "motion": {
+    "path": "motion.webp",
+    "columns": 7,
+    "frames": 56,
+    "pairs": [
+      [
+        0,
+        1
+      ],
+      [
+        1,
+        2
+      ],
+      [
+        2,
+        3
+      ],
+      [
+        3,
+        4
+      ],
+      [
+        4,
+        5
+      ],
+      [
+        5,
+        2
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        1,
+        0
+      ]
+    ],
+    "framesPerPair": 7,
+    "seconds": [
+      0.78,
+      0.95,
+      1.1,
+      1.2,
+      1.2,
+      1.05,
+      0.95,
+      0.78
+    ],
+    "holds": [
+      0.6,
+      0.08,
+      0.72,
+      0.3,
+      2.5,
+      0.25,
+      0.42,
+      0.08,
+      0.65
+    ],
+    "method": "landmark-guided whole-image thin plate spline plus signed-distance silhouette blend",
+    "status": "experimental, visually approximate; not accepted as final"
+  },
+  "anchorAtlas": {
+    "path": "anchors.webp",
+    "columns": 3,
+    "frames": 6
+  }
+}

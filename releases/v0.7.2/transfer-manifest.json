@@ -1,0 +1,205 @@
+[
+  {
+    "path": "sources/rest-anchors.png",
+    "bytes": 1859419,
+    "sha256": "b0a34ad4de871d55de21eb58fa5fc621994934ff19a1d60727faba1b2c9eb0a1",
+    "parts": [
+      {
+        "transfer": "dino072_00_00.txt",
+        "bytes": 1250000,
+        "b64Length": 1666668,
+        "sha256": "585305ebca444843275e07a5cf711cea63b5d1095b6f52c622a2acd67ef59fc8",
+        "git_blob_sha": "af1574e83ccc0e82e8a6fb7f1af5f1ef1e3712c6"
+      },
+      {
+        "transfer": "dino072_00_01.txt",
+        "bytes": 609419,
+        "b64Length": 812560,
+        "sha256": "e9159ddb35d6659736d09657c94ed6c89e9bca52392c102e38b5347897f4a22e",
+        "git_blob_sha": "9dee88863d20393f2d837aed9a6dde6266e5d4c0"
+      }
+    ]
+  },
+  {
+    "path": "anchors.webp",
+    "bytes": 612256,
+    "sha256": "44ba32fdd31a11bdc162e67cd3c6deceb21f334979ba0df5d80c5ae7290ae9f7",
+    "parts": [
+      {
+        "transfer": "dino072_01_00.txt",
+        "bytes": 612256,
+        "b64Length": 816344,
+        "sha256": "44ba32fdd31a11bdc162e67cd3c6deceb21f334979ba0df5d80c5ae7290ae9f7",
+        "git_blob_sha": "14fd4c64bf5dda1e8f318ef20a4cb5de3d7fbe51"
+      }
+    ]
+  },
+  {
+    "path": "motion.webp",
+    "bytes": 810482,
+    "sha256": "c96e4388982b4b3b88a4e905afef494c331f65fc5ab3c12d54ade532ad241c28",
+    "parts": [
+      {
+        "transfer": "dino072_02_00.txt",
+        "bytes": 810482,
+        "b64Length": 1080644,
+        "sha256": "c96e4388982b4b3b88a4e905afef494c331f65fc5ab3c12d54ade532ad241c28",
+        "git_blob_sha": "0484f4240929f3211499a196221368681f0953ff"
+      }
+    ]
+  },
+  {
+    "path": "identity.jpg",
+    "bytes": 111411,
+    "sha256": "2a4cef1dd494ae426499a153017155764003b1a0f4a9214592378788455215fd",
+    "parts": [
+      {
+        "transfer": "dino072_03_00.txt",
+        "bytes": 111411,
+        "b64Length": 148548,
+        "sha256": "2a4cef1dd494ae426499a153017155764003b1a0f4a9214592378788455215fd",
+        "git_blob_sha": "2016f62c505e53bbf03b0434d7f956b4e9486d4a"
+      }
+    ]
+  },
+  {
+    "path": "evidence/rest-preview.mp4",
+    "bytes": 472224,
+    "sha256": "ed58b1d30a6e4163e0e92698b924f089dabd721f6ff7c16cceb420a07a8cbb2e",
+    "parts": [
+      {
+        "transfer": "dino072_04_00.txt",
+        "bytes": 472224,
+        "b64Length": 629632,
+        "sha256": "ed58b1d30a6e4163e0e92698b924f089dabd721f6ff7c16cceb420a07a8cbb2e",
+        "git_blob_sha": "ceca0de2788255319a8cb26ae6a5c895392c7e07"
+      }
+    ]
+  },
+  {
+    "path": "evidence/browser-contact.jpg",
+    "bytes": 158258,
+    "sha256": "3bb57fdcb8760aeeedf9f247c69d9ebb360fbbefe836425706de11e65f2b76e9",
+    "parts": [
+      {
+        "transfer": "dino072_05_00.txt",
+        "bytes": 158258,
+        "b64Length": 211012,
+        "sha256": "3bb57fdcb8760aeeedf9f247c69d9ebb360fbbefe836425706de11e65f2b76e9",
+        "git_blob_sha": "184dec8c711db3c75b5f6a07bb8258c9c27576e2"
+      }
+    ]
+  },
+  {
+    "path": "studies/flow-review.jpg",
+    "bytes": 448882,
+    "sha256": "10af18bd5acfc438c55c50ca8d278e782c2ec9325867ddf025bb9052f67e7e7e",
+    "parts": [
+      {
+        "transfer": "dino072_06_00.txt",
+        "bytes": 448882,
+        "b64Length": 598512,
+        "sha256": "10af18bd5acfc438c55c50ca8d278e782c2ec9325867ddf025bb9052f67e7e7e",
+        "git_blob_sha": "f055cc779c1c80e76d0979c3d113d9b3279631a0"
+      }
+    ]
+  },
+  {
+    "path": "studies/landmark-first-review.jpg",
+    "bytes": 444988,
+    "sha256": "afc781b9ee7a2685f17b55ce93f73b9e6d168f7ff29e6a12f9ba43e53f06df61",
+    "parts": [
+      {
+        "transfer": "dino072_07_00.txt",
+        "bytes": 444988,
+        "b64Length": 593320,
+        "sha256": "afc781b9ee7a2685f17b55ce93f73b9e6d168f7ff29e6a12f9ba43e53f06df61",
+        "git_blob_sha": "8dc3ad47d225449068eb5a332de8883fb489a1e2"
+      }
+    ]
+  },
+  {
+    "path": "studies/landmark-review.jpg",
+    "bytes": 398204,
+    "sha256": "66339d41eb3689092761fc5eb2a47becb6e3c0d93bac862e8c6e8124832fa39e",
+    "parts": [
+      {
+        "transfer": "dino072_08_00.txt",
+        "bytes": 398204,
+        "b64Length": 530940,
+        "sha256": "66339d41eb3689092761fc5eb2a47becb6e3c0d93bac862e8c6e8124832fa39e",
+        "git_blob_sha": "36da50c0d04644923803ce7b58508802784ae07b"
+      }
+    ]
+  },
+  {
+    "path": "studies/rejected-infographic-01.png",
+    "bytes": 2808215,
+    "sha256": "767e3384a14053bd5c0494e3eba14f694da1ff125db6beb330d27e9145acbec5",
+    "parts": [
+      {
+        "transfer": "dino072_09_00.txt",
+        "bytes": 1250000,
+        "b64Length": 1666668,
+        "sha256": "1834ffc77b3b49ad1e3b838832db4a8fdff2a39312fe214e871157c5df942083",
+        "git_blob_sha": "12c6fac62407201f0bb5d59f0999750360a54172"
+      },
+      {
+        "transfer": "dino072_09_01.txt",
+        "bytes": 1250000,
+        "b64Length": 1666668,
+        "sha256": "9dba78f75727004a448636648f5012df1f06843a2c8c3c073040b3ee0d0daca7",
+        "git_blob_sha": "6aa0481b87b462ce93b62ae5ed5c7849dccc2a67"
+      },
+      {
+        "transfer": "dino072_09_02.txt",
+        "bytes": 308215,
+        "b64Length": 410956,
+        "sha256": "d41ac1bb04ebaf009369e65ee5234b08ad51a8d77de6abd65ef5c0b5231022c3",
+        "git_blob_sha": "3eb5c4e8494bb5a682fe1d27e483d7da311e913d"
+      }
+    ]
+  },
+  {
+    "path": "studies/rejected-infographic-02.png",
+    "bytes": 2722792,
+    "sha256": "ff144cf444d179de4060683fe18e9a883932109779b4bb344d392e039a792d96",
+    "parts": [
+      {
+        "transfer": "dino072_10_00.txt",
+        "bytes": 1250000,
+        "b64Length": 1666668,
+        "sha256": "735f862f610db73ef593031566850f7535bab88c3cb4a407661e242185fbddbb",
+        "git_blob_sha": "a7420150bb9f6bb69eda2367de703475f9deb9b2"
+      },
+      {
+        "transfer": "dino072_10_01.txt",
+        "bytes": 1250000,
+        "b64Length": 1666668,
+        "sha256": "5b4a91ac348610b506f62a414b85bc814956c8f4a104f8d4b198ff5489967f14",
+        "git_blob_sha": "7559e5c5e7baf9daa0f9e83c398ae7a57a283320"
+      },
+      {
+        "transfer": "dino072_10_02.txt",
+        "bytes": 222792,
+        "b64Length": 297056,
+        "sha256": "e7111d3438798b93eb7953fc000b111b732e154c3b65fc9cc54033654b6b5696",
+        "git_blob_sha": "fef0bf6030614648ba164d4a7cc9d18e075390e2"
+      }
+    ]
+  },
+  {
+    "path": "evidence/viewer.png",
+    "bytes": 378188,
+    "sha256": "561c09a47a7e2398a2a1356549ff759296a2f745115b21194e15d9a87614e90c",
+    "parts": [
+      {
+        "transfer": "dino072_11_00.txt",
+        "bytes": 378188,
+        "b64Length": 504252,
+        "sha256": "561c09a47a7e2398a2a1356549ff759296a2f745115b21194e15d9a87614e90c",
+        "git_blob_sha": "a212ace4d59f5919dd00ea357a4179681ac42337"
+      }
+    ]
+  }
+]

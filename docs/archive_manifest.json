@@ -58,19 +58,325 @@
     },
     {
       "filename": "DINO_001_Explorer_Sculpt_Candidate.zip",
-      "sha256": "e3341238e3f76e79f9ff984ccb399db7cf00597e6e4447408531789e95cd1a90"
+      "sha256": "e3341238e3f76e79f9ff984ccb399db7cf00597e6e4447408531789e95cd1a90",
+      "repository": {
+        "encoding": "binary-concatenation",
+        "bytes": 14651670,
+        "parts": [
+          {
+            "path": "archives/parts/DINO_001_Explorer_Sculpt_Candidate.zip.part001",
+            "bytes": 1350000,
+            "sha256": "fc8c4425ce5f59777f257e4c63ff057d1ef2d3eadac91ccf4ab00a1a8eae59b5",
+            "git_blob_sha": "37b683fea127de9aee8a0d5b6aa0d71698e54c66"
+          },
+          {
+            "path": "archives/parts/DINO_001_Explorer_Sculpt_Candidate.zip.part002",
+            "bytes": 1350000,
+            "sha256": "ac1fddaf140a761c8ad072cd677ccf74e69c1bf5327b7f4abe27e00f0200dabe",
+            "git_blob_sha": "94ce89ec85f115ca91c86dacf26147f7f172dc4d"
+          },
+          {
+            "path": "archives/parts/DINO_001_Explorer_Sculpt_Candidate.zip.part003",
+            "bytes": 1350000,
+            "sha256": "9f14ca82afdf3ce6f306ea14ab4a3c68eaf0271a1d4942526a29bc57d02760d5",
+            "git_blob_sha": "aad358405abec2a7b1be42204bd656d9ec1d2728"
+          },
+          {
+            "path": "archives/parts/DINO_001_Explorer_Sculpt_Candidate.zip.part004",
+            "bytes": 1350000,
+            "sha256": "5a665ead720d0ded14ca02b8bcb7eebeb55250c087f35f08f60e1879621926ba",
+            "git_blob_sha": "236d026b256f90920a7705bcee4ecf202596c6bc"
+          },
+          {
+            "path": "archives/parts/DINO_001_Explorer_Sculpt_Candidate.zip.part005",
+            "bytes": 1350000,
+            "sha256": "bee6f9a593d1451efdefa910942aaf4b744c7b26b928bb9936c65ae49e0faac0",
+            "git_blob_sha": "3b435f5abb2f39b771021606a54f1b2e3d9eeeb8"
+          },
+          {
+            "path": "archives/parts/DINO_001_Explorer_Sculpt_Candidate.zip.part006",
+            "bytes": 1350000,
+            "sha256": "beee071424b267bfc91b74751c776df6f4832b4e5140b3f7508c12542734a23c",
+            "git_blob_sha": "d710fcd24fabca26f109f0f86e34b1bef0d0ccc0"
+          },
+          {
+            "path": "archives/parts/DINO_001_Explorer_Sculpt_Candidate.zip.part007",
+            "bytes": 1350000,
+            "sha256": "167ee4ff99ff1e9429c697f16eb9c391218e0f41876b1d686c3263d0ca301541",
+            "git_blob_sha": "fda8f8afd7c24b0afc35b4f5660533a34bc5bbff"
+          },
+          {
+            "path": "archives/parts/DINO_001_Explorer_Sculpt_Candidate.zip.part008",
+            "bytes": 1350000,
+            "sha256": "e464a3997d1fefb4f12c0523993f885bb014c07d45a54dceb2bfbb99c0761a9b",
+            "git_blob_sha": "8dbd374b08d56730f04c23acb204b3b403ce9424"
+          },
+          {
+            "path": "archives/parts/DINO_001_Explorer_Sculpt_Candidate.zip.part009",
+            "bytes": 1350000,
+            "sha256": "8acbdac045609fadcf515ba3f36b00d4def63bb8707c51ef8429f5e44802a565",
+            "git_blob_sha": "5935662a59cdaa88dfa200a733686ffa9ddeee0b"
+          },
+          {
+            "path": "archives/parts/DINO_001_Explorer_Sculpt_Candidate.zip.part010",
+            "bytes": 1350000,
+            "sha256": "a83d0a0c730f965c56cd69aa09058db5725a879f8e3c70eae5603e20a5ac0b92",
+            "git_blob_sha": "c32bca49a8066524f3adf916969e805e3f42ce6a"
+          },
+          {
+            "path": "archives/parts/DINO_001_Explorer_Sculpt_Candidate.zip.part011",
+            "bytes": 1151670,
+            "sha256": "d22a4a8fb05030aab7d334a0483178de858d6a367b9324555a9dba2ef912d48b",
+            "git_blob_sha": "7a00500bc4aa136a08faf19aaeb808dcf76e3024"
+          }
+        ]
+      }
     },
     {
       "filename": "DINO_Artwork_Puppet_Studio_v0_1.zip",
-      "sha256": "adc8fd83cab88f394849310e3cadfcb522f345c9f72190cfa97717591ad296c8"
+      "sha256": "adc8fd83cab88f394849310e3cadfcb522f345c9f72190cfa97717591ad296c8",
+      "repository": {
+        "encoding": "binary-concatenation",
+        "bytes": 32084006,
+        "parts": [
+          {
+            "path": "archives/parts/DINO_Artwork_Puppet_Studio_v0_1.zip.part001",
+            "bytes": 1350000,
+            "sha256": "65dc56a3175bf67708ec64784b8fcdecca1c0463ab554090b6d0f98576758128",
+            "git_blob_sha": "ff3863d7ddade1cdc4ce6c41209004fb0d26e8bd"
+          },
+          {
+            "path": "archives/parts/DINO_Artwork_Puppet_Studio_v0_1.zip.part002",
+            "bytes": 1350000,
+            "sha256": "bc6a45d9f240f115fa999faddc2886f9e49736c23677abb77a673a59b4736e44",
+            "git_blob_sha": "eb7468d9ecc60e2ee546260e86a2654dfe7bd785"
+          },
+          {
+            "path": "archives/parts/DINO_Artwork_Puppet_Studio_v0_1.zip.part003",
+            "bytes": 1350000,
+            "sha256": "1f299e71377c0f66ec167a9ed2bd46cc9f5e802d528dd35b122bf23fbf6bd367",
+            "git_blob_sha": "90072f5f4997032aada86c536ed432b80a120a75"
+          },
+          {
+            "path": "archives/parts/DINO_Artwork_Puppet_Studio_v0_1.zip.part004",
+            "bytes": 1350000,
+            "sha256": "29d97dce52ccd7a28c0cae0d790bc5ab2fa4d0d6ce1dd174902e2c729cf3902a",
+            "git_blob_sha": "5adb93afb3b8866ee6cf95aad654c20537867351"
+          },
+          {
+            "path": "archives/parts/DINO_Artwork_Puppet_Studio_v0_1.zip.part005",
+            "bytes": 1350000,
+            "sha256": "4f4cf8c724321fce0fb5fddc81c8995ee77d210a9ba1406dc33da6af2aea139e",
+            "git_blob_sha": "86a3b58b212a460f6094ac329c556736e42c9efe"
+          },
+          {
+            "path": "archives/parts/DINO_Artwork_Puppet_Studio_v0_1.zip.part006",
+            "bytes": 1350000,
+            "sha256": "72e6f6de471da150e99f2e4f8585265f60f3cde59978bd0654cf826ef3b5fdc2",
+            "git_blob_sha": "eed5ea7f060f9d999f13730f3d0d4343924f30cf"
+          },
+          {
+            "path": "archives/parts/DINO_Artwork_Puppet_Studio_v0_1.zip.part007",
+            "bytes": 1350000,
+            "sha256": "1d187fc01082cbdca6a97d87ef7ea74f43dbcd9638c6b304dab30ed41112d61b",
+            "git_blob_sha": "1119878cfb16c1b370aae49d0e3944b976668d58"
+          },
+          {
+            "path": "archives/parts/DINO_Artwork_Puppet_Studio_v0_1.zip.part008",
+            "bytes": 1350000,
+            "sha256": "1d1c535ef798433c5f4eac200cfb6deed54e59f0c196060f5065ba6643947fe3",
+            "git_blob_sha": "bc2608c8103fd74d68d2bd7a4f1001fe2bd5cdbe"
+          },
+          {
+            "path": "archives/parts/DINO_Artwork_Puppet_Studio_v0_1.zip.part009",
+            "bytes": 1350000,
+            "sha256": "8fd70d86ce559f19b7713ea07b8f2ca2bbd688646a09b085bc81888cf760d4f9",
+            "git_blob_sha": "3fb38f1d717302af989a5c2ddb8788d48427f876"
+          },
+          {
+            "path": "archives/parts/DINO_Artwork_Puppet_Studio_v0_1.zip.part010",
+            "bytes": 1350000,
+            "sha256": "10e04e508b13386d07011264991cc3de8ebb72e6d453abc6c0af2f597a2340b3",
+            "git_blob_sha": "d1a8ccc49d69a4c78e5e60d8a1c1dfd36432aade"
+          },
+          {
+            "path": "archives/parts/DINO_Artwork_Puppet_Studio_v0_1.zip.part011",
+            "bytes": 1350000,
+            "sha256": "d7bd3c9bf1dd6e1ed2220faf8076598646c0f3ea8a1e318ae0d4a07475a032c3",
+            "git_blob_sha": "d7a0341565c87c19be2e732d8cc2338dbeaf11bb"
+          },
+          {
+            "path": "archives/parts/DINO_Artwork_Puppet_Studio_v0_1.zip.part012",
+            "bytes": 1350000,
+            "sha256": "46d761705aa04f8f9cdbbd10aa5270702692fac9995a55e724e45b672302aa8a",
+            "git_blob_sha": "0dece01183d6cfc6592fa3eaf420f962c17db296"
+          },
+          {
+            "path": "archives/parts/DINO_Artwork_Puppet_Studio_v0_1.zip.part013",
+            "bytes": 1350000,
+            "sha256": "8487c88284d2028a71cc32a8200697ecad2dafab7af0a53621f9ab38a6efa081",
+            "git_blob_sha": "fbf2b2e251a7820d77f25d520d9e38a87bb2ae43"
+          },
+          {
+            "path": "archives/parts/DINO_Artwork_Puppet_Studio_v0_1.zip.part014",
+            "bytes": 1350000,
+            "sha256": "9f94c8e49edc95a1487d5ca9bd8330af1e468551e6600f821ae9dd7823baac65",
+            "git_blob_sha": "bf93c3a8c0401d2d1130555601adab1594c49ad7"
+          },
+          {
+            "path": "archives/parts/DINO_Artwork_Puppet_Studio_v0_1.zip.part015",
+            "bytes": 1350000,
+            "sha256": "ed8ccb0df0b4ab4f1042f91b3e70ab955c29898a8c54b5a4ccd1bea402479fb5",
+            "git_blob_sha": "8b164ed00a005329da813e6232c1e0dc7225f80f"
+          },
+          {
+            "path": "archives/parts/DINO_Artwork_Puppet_Studio_v0_1.zip.part016",
+            "bytes": 1350000,
+            "sha256": "3887e44921bcc96db75b23930db8a4817d1872f57e7465b64d078d0c806ba68d",
+            "git_blob_sha": "2f2fd6a7246e8fb9a4636e47f743ae4e0a4e5b9d"
+          },
+          {
+            "path": "archives/parts/DINO_Artwork_Puppet_Studio_v0_1.zip.part017",
+            "bytes": 1350000,
+            "sha256": "ac6335dd7bb63715e90e57e6c750ec61b2f366c4cfa5e764c3551952ddb85a92",
+            "git_blob_sha": "601eddff8daa173186ebd437ffaf13acb2e9ad34"
+          },
+          {
+            "path": "archives/parts/DINO_Artwork_Puppet_Studio_v0_1.zip.part018",
+            "bytes": 1350000,
+            "sha256": "6f1fad525b9aa68bcc1887423cc3bba502277f0365fe2a5a46eb3fc85a3776f0",
+            "git_blob_sha": "c33589e5dde775fbc1214978649b74b5002921d0"
+          },
+          {
+            "path": "archives/parts/DINO_Artwork_Puppet_Studio_v0_1.zip.part019",
+            "bytes": 1350000,
+            "sha256": "8a20b645452ab1ee11021b11f2e6f4037ebfe451873b7796adddcd919b5b0521",
+            "git_blob_sha": "24d43aafb08f1adc511072ade3fdb6ada0efc6d0"
+          },
+          {
+            "path": "archives/parts/DINO_Artwork_Puppet_Studio_v0_1.zip.part020",
+            "bytes": 1350000,
+            "sha256": "5cd7599869f6893ae2134ce06a13054e63383b2a6c1ee9063d2df266239ec01a",
+            "git_blob_sha": "f253635a6c2ef2e867b7e9f993148be8115967ab"
+          },
+          {
+            "path": "archives/parts/DINO_Artwork_Puppet_Studio_v0_1.zip.part021",
+            "bytes": 1350000,
+            "sha256": "e74a895f3ba328c34092b28df5eeecce80c34cabd5fb7d5ee35e15484dc28174",
+            "git_blob_sha": "c5b297dad231cf1c8fed4b5ca249380b79aa57ce"
+          },
+          {
+            "path": "archives/parts/DINO_Artwork_Puppet_Studio_v0_1.zip.part022",
+            "bytes": 1350000,
+            "sha256": "c716f17545a249db14a8e694832a4f673c93348cb8cc37e2e574133fad184669",
+            "git_blob_sha": "336a59315086e802e6e5d5bccf1daf3adecded73"
+          },
+          {
+            "path": "archives/parts/DINO_Artwork_Puppet_Studio_v0_1.zip.part023",
+            "bytes": 1350000,
+            "sha256": "c56aa256ae5429c49dd31cfe601c3f723e17d3550ed3ccd5a987252f9ad56788",
+            "git_blob_sha": "19b90ef2b1582f389e286db90489b6340ead6135"
+          },
+          {
+            "path": "archives/parts/DINO_Artwork_Puppet_Studio_v0_1.zip.part024",
+            "bytes": 1034006,
+            "sha256": "cb7644ca5c216ddc651a3aa4590d018314fa7ee800ade6209d99877b8c09840a",
+            "git_blob_sha": "e739d9c81fcbdf1e34f1fa8a8347d4526ced70ef"
+          }
+        ]
+      }
     },
     {
       "filename": "DINO_Identity_Lock_v1_Candidate.zip",
-      "sha256": "dcbc6c1d61deae1a65ac123b87125f4ea23e6cfc42a05b875d40dc13a3951ab4"
+      "sha256": "dcbc6c1d61deae1a65ac123b87125f4ea23e6cfc42a05b875d40dc13a3951ab4",
+      "repository": {
+        "encoding": "binary-concatenation",
+        "bytes": 9754249,
+        "parts": [
+          {
+            "path": "archives/parts/DINO_Identity_Lock_v1_Candidate.zip.part001",
+            "bytes": 1350000,
+            "sha256": "b6728cce97a1f869130b354da6ea50d62655c9a10228b5274b1dfa99b0a00085",
+            "git_blob_sha": "d186edc0f943713c7f8dd31e5b47b101981fcd5c"
+          },
+          {
+            "path": "archives/parts/DINO_Identity_Lock_v1_Candidate.zip.part002",
+            "bytes": 1350000,
+            "sha256": "88c5e2252377139676d8610d530d4814c9f0b1a9542524f910d0bf20fe43764e",
+            "git_blob_sha": "b0a9a71c6a66829c1662f7176534218635bd59f9"
+          },
+          {
+            "path": "archives/parts/DINO_Identity_Lock_v1_Candidate.zip.part003",
+            "bytes": 1350000,
+            "sha256": "8f57af578fc0117f712da9a6ad8ea918f73e3b6eba5829852e5305e64771ce20",
+            "git_blob_sha": "2f479d074cafa68343e20b1745d4134d928f9b3e"
+          },
+          {
+            "path": "archives/parts/DINO_Identity_Lock_v1_Candidate.zip.part004",
+            "bytes": 1350000,
+            "sha256": "d588cce84666165fbc2067b9f93079405a162f19d71edc28dbfce08bb962bac3",
+            "git_blob_sha": "c3b4e10c096f67e7f493ac56f34c69d958ff4971"
+          },
+          {
+            "path": "archives/parts/DINO_Identity_Lock_v1_Candidate.zip.part005",
+            "bytes": 1350000,
+            "sha256": "1c4df796a7368bee9c7b344402d24b5d55bd69c575f1073a193c6d1fd7e31cfb",
+            "git_blob_sha": "13b1447ef8f77fd1058026d48d2763f72c288640"
+          },
+          {
+            "path": "archives/parts/DINO_Identity_Lock_v1_Candidate.zip.part006",
+            "bytes": 1350000,
+            "sha256": "f901ff6dfafd50d55bc822162da8e47fbe6a696613a0e44d1bf822985c60a00a",
+            "git_blob_sha": "569473b17138ae82670836bf252edc3dff6916b1"
+          },
+          {
+            "path": "archives/parts/DINO_Identity_Lock_v1_Candidate.zip.part007",
+            "bytes": 1350000,
+            "sha256": "2f99bc3c66833324f43a95a40360c3047426b819cabd03d7af0f90dfcf73567f",
+            "git_blob_sha": "c8032dfaf4ce80fb801eb0b32b0c69beb8f03abe"
+          },
+          {
+            "path": "archives/parts/DINO_Identity_Lock_v1_Candidate.zip.part008",
+            "bytes": 304249,
+            "sha256": "ce5336d362c1832727914ed238ea2d68233ea59d671939ac820c543232e253b7",
+            "git_blob_sha": "3121441aecc19d2275929d1822eda40329cffbdc"
+          }
+        ]
+      }
     },
     {
       "filename": "DINO_Reconstruction_Test_Pack.zip",
-      "sha256": "eac408701bc0d80f4fae099a546fb218ef9c2b66824694baefd84c573d780a5f"
+      "sha256": "eac408701bc0d80f4fae099a546fb218ef9c2b66824694baefd84c573d780a5f",
+      "repository": {
+        "encoding": "binary-concatenation",
+        "bytes": 4939798,
+        "parts": [
+          {
+            "path": "archives/parts/DINO_Reconstruction_Test_Pack.zip.part001",
+            "bytes": 1350000,
+            "sha256": "1e2d52d9d3424a7641d0f9078fe7edecd557eb67a8feefcd40b2564ba642611e",
+            "git_blob_sha": "34141a906fe66c1544833286d11539d9665b6f62"
+          },
+          {
+            "path": "archives/parts/DINO_Reconstruction_Test_Pack.zip.part002",
+            "bytes": 1350000,
+            "sha256": "0c2f11ffd009a741d8bb46b7d24fbac14d97c58ab737e3290f2ec03d163610d9",
+            "git_blob_sha": "657297f6170d62e535a31f80d53aa2471aa89012"
+          },
+          {
+            "path": "archives/parts/DINO_Reconstruction_Test_Pack.zip.part003",
+            "bytes": 1350000,
+            "sha256": "7521273675b80942090f32460371cf52d60d2bf7fdc9c6749d887741f6d9de9a",
+            "git_blob_sha": "b1e35239258d8aecf725106807db251c78c1126e"
+          },
+          {
+            "path": "archives/parts/DINO_Reconstruction_Test_Pack.zip.part004",
+            "bytes": 889798,
+            "sha256": "a6467f9b8e794a740f28ce687bde6122f2b58904203ac85647352eb3362f18a2",
+            "git_blob_sha": "60b9530d22ce5f859ef09c65695ee6d0db0dd14a"
+          }
+        ]
+      }
     },
     {
       "filename": "Dino_Artwork_Animation_Source.zip",
@@ -84,11 +390,89 @@
     },
     {
       "filename": "Project_DINO_Studio_Pack_v0_1.zip",
-      "sha256": "9fa99f097db704e97f08d737587d518486a088260b5e876dc600b32e08355053"
+      "sha256": "9fa99f097db704e97f08d737587d518486a088260b5e876dc600b32e08355053",
+      "repository": {
+        "encoding": "binary-concatenation",
+        "bytes": 4187596,
+        "parts": [
+          {
+            "path": "archives/parts/Project_DINO_Studio_Pack_v0_1.zip.part001",
+            "bytes": 1350000,
+            "sha256": "60962678d8578e47ccac529d0c5bc1a92cfdc01ccae722da7f0c8adde8bbef56",
+            "git_blob_sha": "2126159a635e57e5fe1b17c75dac5ba1bc6a144c"
+          },
+          {
+            "path": "archives/parts/Project_DINO_Studio_Pack_v0_1.zip.part002",
+            "bytes": 1350000,
+            "sha256": "f2d440e654d48b56567ddebdb7fcda731defd9a125f193a89021db7b624aa1a2",
+            "git_blob_sha": "8cb5bad0f3c4b7b01d4fd8ba57cb2a6ca5ec7db5"
+          },
+          {
+            "path": "archives/parts/Project_DINO_Studio_Pack_v0_1.zip.part003",
+            "bytes": 1350000,
+            "sha256": "9b5c56ae78c4067c50dceadc5fe40f1e81fe92f89cdf2b1fb754c15ccde5ef40",
+            "git_blob_sha": "8addd41fd4318d65d83e8d0e9d6c1bbc9af3aa29"
+          },
+          {
+            "path": "archives/parts/Project_DINO_Studio_Pack_v0_1.zip.part004",
+            "bytes": 137596,
+            "sha256": "dafc90f20711caef52e180f00a083db3bc8d235607285e12262d22d347eeff24",
+            "git_blob_sha": "99386cb71202340381d75f2262353df845ad970c"
+          }
+        ]
+      }
     },
     {
       "filename": "Project_DINO_Studio_Pack_v0_2.zip",
-      "sha256": "1eda3c2edbc78cb01c5a4bbf430729c3629fff66a5b1142266c5e0d97aa3ad79"
+      "sha256": "1eda3c2edbc78cb01c5a4bbf430729c3629fff66a5b1142266c5e0d97aa3ad79",
+      "repository": {
+        "encoding": "binary-concatenation",
+        "bytes": 8519901,
+        "parts": [
+          {
+            "path": "archives/parts/Project_DINO_Studio_Pack_v0_2.zip.part001",
+            "bytes": 1350000,
+            "sha256": "0dabd4a665cd2c04f6e13cf6ee0258b66ed4af6e904ed76673aac2345e79a7ad",
+            "git_blob_sha": "ff0c727cba98aeab3525a8be260dd8d039a29af9"
+          },
+          {
+            "path": "archives/parts/Project_DINO_Studio_Pack_v0_2.zip.part002",
+            "bytes": 1350000,
+            "sha256": "0dd67b575a4e5b3b73145d4d3edd47a912b376eab8f76ee92fa4452bc74ea404",
+            "git_blob_sha": "3e4dfda81555d059954c58258a297e1c0fcfc250"
+          },
+          {
+            "path": "archives/parts/Project_DINO_Studio_Pack_v0_2.zip.part003",
+            "bytes": 1350000,
+            "sha256": "5fddfa8761e2cf2788d9aa56a4a25b641cbc022b2273922555f692eb008aa33a",
+            "git_blob_sha": "351578dd37d59eebf22248b20639c55c9df54015"
+          },
+          {
+            "path": "archives/parts/Project_DINO_Studio_Pack_v0_2.zip.part004",
+            "bytes": 1350000,
+            "sha256": "9a14f770843d313baf5ea776854ea68adbd99c4e69bb685dabe75b1fb9ddebb6",
+            "git_blob_sha": "30fbb2bffcaefbc0cb111b54efc3d780577a5d6e"
+          },
+          {
+            "path": "archives/parts/Project_DINO_Studio_Pack_v0_2.zip.part005",
+            "bytes": 1350000,
+            "sha256": "100cd9a823c4e82ed9115fa3e4f387a6a9086d9b481bac8498fcb086f5b053c5",
+            "git_blob_sha": "88eb4a4eeeaafd919f0a9ac751a0b3c87e94d16b"
+          },
+          {
+            "path": "archives/parts/Project_DINO_Studio_Pack_v0_2.zip.part006",
+            "bytes": 1350000,
+            "sha256": "7da2f3ff0e5260221656d4141a2ade0ee26ec0292d38a38fd95e7253007c0194",
+            "git_blob_sha": "b2611154edd8f2e8b555a7afaa6a1f69fd4fb811"
+          },
+          {
+            "path": "archives/parts/Project_DINO_Studio_Pack_v0_2.zip.part007",
+            "bytes": 419901,
+            "sha256": "7fa3ad75638054d8f0eaf0616dd805a45a1dccc983607645f647388c6bc97489",
+            "git_blob_sha": "a32cc38bc2f7861ef4aba85d6422f92626ac0a6e"
+          }
+        ]
+      }
     },
     {
       "filename": "DINO_Rest_Study_Rejected_2026-11-26.zip",
@@ -339,6 +723,152 @@
       "documentation": "releases/v0.7.1/README.md",
       "validation": "releases/v0.7.1/validation.json",
       "status": "candidate"
+    },
+    {
+      "version": "v0.7.2",
+      "status": "recovered unapproved study; artistic gate failed",
+      "files": [
+        {
+          "path": "releases/v0.7.2/README.md",
+          "bytes": 4096,
+          "sha256": "423a922d6dbeb248283b9bfd63a651e7c50afc2716699bb098594b951177389b",
+          "git_blob_sha": "b58717317bef0ac0023f8c64830bad878049d68c"
+        },
+        {
+          "path": "releases/v0.7.2/anchors.webp",
+          "bytes": 612256,
+          "sha256": "44ba32fdd31a11bdc162e67cd3c6deceb21f334979ba0df5d80c5ae7290ae9f7",
+          "git_blob_sha": "14fd4c64bf5dda1e8f318ef20a4cb5de3d7fbe51"
+        },
+        {
+          "path": "releases/v0.7.2/evidence/browser-contact.jpg",
+          "bytes": 158258,
+          "sha256": "3bb57fdcb8760aeeedf9f247c69d9ebb360fbbefe836425706de11e65f2b76e9",
+          "git_blob_sha": "184dec8c711db3c75b5f6a07bb8258c9c27576e2"
+        },
+        {
+          "path": "releases/v0.7.2/evidence/rest-preview.mp4",
+          "bytes": 472224,
+          "sha256": "ed58b1d30a6e4163e0e92698b924f089dabd721f6ff7c16cceb420a07a8cbb2e",
+          "git_blob_sha": "ceca0de2788255319a8cb26ae6a5c895392c7e07"
+        },
+        {
+          "path": "releases/v0.7.2/evidence/viewer.png",
+          "bytes": 378188,
+          "sha256": "561c09a47a7e2398a2a1356549ff759296a2f745115b21194e15d9a87614e90c",
+          "git_blob_sha": "a212ace4d59f5919dd00ea357a4179681ac42337"
+        },
+        {
+          "path": "releases/v0.7.2/identity.jpg",
+          "bytes": 111411,
+          "sha256": "2a4cef1dd494ae426499a153017155764003b1a0f4a9214592378788455215fd",
+          "git_blob_sha": "2016f62c505e53bbf03b0434d7f956b4e9486d4a"
+        },
+        {
+          "path": "releases/v0.7.2/index.html",
+          "bytes": 3102,
+          "sha256": "00b267183b75f975bf3d774ef53c5c34be74c3ebb08ad08432937ef7748f75f2",
+          "git_blob_sha": "30799db54bf980476a8d8cf0fdcfa42c2927d82b"
+        },
+        {
+          "path": "releases/v0.7.2/manifest.json",
+          "bytes": 3722,
+          "sha256": "5a8adcae986de02baad00a5e8d4635038d004026b6c2891067c7e0783814053e",
+          "git_blob_sha": "2e90b51334835365a56cd4d1c6d2cbb7b51ec4de"
+        },
+        {
+          "path": "releases/v0.7.2/motion.webp",
+          "bytes": 810482,
+          "sha256": "c96e4388982b4b3b88a4e905afef494c331f65fc5ab3c12d54ade532ad241c28",
+          "git_blob_sha": "0484f4240929f3211499a196221368681f0953ff"
+        },
+        {
+          "path": "releases/v0.7.2/player.js",
+          "bytes": 3182,
+          "sha256": "f8eb84cfefdb20c54f0ae1d7341efb560148bdea032b1dbdc1b10742f114db5f",
+          "git_blob_sha": "a6d9de90c3f7e8a5ab9e11d50e0af42a916a6b40"
+        },
+        {
+          "path": "releases/v0.7.2/source/build.py",
+          "bytes": 5144,
+          "sha256": "18d0fc06fe36c764f31c13439c28863a575e0532d61c58b31e9caf2c086902cc",
+          "git_blob_sha": "4b7c483a2042ed8bdae66c0385028688268cd607"
+        },
+        {
+          "path": "releases/v0.7.2/source/landmark-first.py",
+          "bytes": 4780,
+          "sha256": "66752c357341eac74d4881249f192f9110a9906a22ace4ea7382be8b1db8733d",
+          "git_blob_sha": "904dcff7ba9e008bf7c3fd7629cfaefa8a644207"
+        },
+        {
+          "path": "releases/v0.7.2/source/landmark.py",
+          "bytes": 4771,
+          "sha256": "283845b47179ff311e8a03b9f43d0eb5f1d4e5d18279573ce3b9576d32a200f6",
+          "git_blob_sha": "8e8aaa57a5721ac2dc86be3243c86f89757a38ed"
+        },
+        {
+          "path": "releases/v0.7.2/source/pack.py",
+          "bytes": 1378,
+          "sha256": "8a1721525cd2d77c22cfbd3aa62af83cf7e273f00974db59816d78bf18ba7da3",
+          "git_blob_sha": "b098c8f0e51dccb254588a235301945987d27774"
+        },
+        {
+          "path": "releases/v0.7.2/sources/rest-anchors.png",
+          "bytes": 1859419,
+          "sha256": "b0a34ad4de871d55de21eb58fa5fc621994934ff19a1d60727faba1b2c9eb0a1",
+          "git_blob_sha": "90f10d3ab34fcfa372e97cccb96dd6e7b1de9732"
+        },
+        {
+          "path": "releases/v0.7.2/studies/flow-review.jpg",
+          "bytes": 448882,
+          "sha256": "10af18bd5acfc438c55c50ca8d278e782c2ec9325867ddf025bb9052f67e7e7e",
+          "git_blob_sha": "f055cc779c1c80e76d0979c3d113d9b3279631a0"
+        },
+        {
+          "path": "releases/v0.7.2/studies/landmark-first-review.jpg",
+          "bytes": 444988,
+          "sha256": "afc781b9ee7a2685f17b55ce93f73b9e6d168f7ff29e6a12f9ba43e53f06df61",
+          "git_blob_sha": "8dc3ad47d225449068eb5a332de8883fb489a1e2"
+        },
+        {
+          "path": "releases/v0.7.2/studies/landmark-review.jpg",
+          "bytes": 398204,
+          "sha256": "66339d41eb3689092761fc5eb2a47becb6e3c0d93bac862e8c6e8124832fa39e",
+          "git_blob_sha": "36da50c0d04644923803ce7b58508802784ae07b"
+        },
+        {
+          "path": "releases/v0.7.2/studies/rejected-infographic-01.png",
+          "bytes": 2808215,
+          "sha256": "767e3384a14053bd5c0494e3eba14f694da1ff125db6beb330d27e9145acbec5",
+          "git_blob_sha": "ecad44837b4fa66075b48c848aea44e2ed687067"
+        },
+        {
+          "path": "releases/v0.7.2/studies/rejected-infographic-02.png",
+          "bytes": 2722792,
+          "sha256": "ff144cf444d179de4060683fe18e9a883932109779b4bb344d392e039a792d96",
+          "git_blob_sha": "fddc0d1b751915155309c146e18443acfe295f58"
+        },
+        {
+          "path": "releases/v0.7.2/test_render.py",
+          "bytes": 4813,
+          "sha256": "bd6ebdcc7957fafef9a21d1a29298add4a770625568622df36ed7489d3f05305",
+          "git_blob_sha": "06e38f2bad3723e52b160663bee6e9435545e5e9"
+        },
+        {
+          "path": "releases/v0.7.2/transfer-manifest.json",
+          "bytes": 6581,
+          "sha256": "76252738abf4567466d4b0b334b77fd30ca7f306712749a62295328f07ee4aa1",
+          "git_blob_sha": "a4e67ac326645a030d6b5b4555399a6b99807cf8"
+        },
+        {
+          "path": "releases/v0.7.2/validation.json",
+          "bytes": 1791,
+          "sha256": "e700d59edeec566c21b32b8435bc702c4163f0ddcbf54899b308720db5cddc10",
+          "git_blob_sha": "c9cb6a618312718cbdb0b4ee275a45668280897e"
+        }
+      ],
+      "documentation": "releases/v0.7.2/README.md",
+      "recovery_audit": "docs/RECOVERY_2026-11-27.md"
     }
   ]
 }

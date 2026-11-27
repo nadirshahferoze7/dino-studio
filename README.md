@@ -12,11 +12,11 @@ A persistent, code-controlled creative studio for an original dinosaur character
 The owner approves the creative direction. AI agents perform as much of the technical and creative production as available tools allow. The repository is the durable source of project memory; conversations are not the source of truth.
 
 ## Current status
-DINO-001 explorer artwork is approved. Full 3D candidates were rejected for insufficient likeness. Image-based animation v0.1 is archived in Git, and v0.2 palm-forward wave is a review candidate. Git includes the approved hero PNG, ten v0.1 atlas files and both versioned viewers. Full source/turnaround and older binary packages remain in Library. GitHub Pages is not yet enabled.
+DINO-001's approved hero and turnaround remain the visual authority. v0.5.1 is the latest accepted animation baseline. v0.6–v0.6.4 rest puppet experiments were rejected; v0.7–v0.7.2 whole-body sprite studies are unapproved. The interrupted v0.7.2 files have been recovered with original hashes. All fourteen historical ZIPs are represented by verified binary parts. See [recovery audit](docs/RECOVERY_2026-11-27.md) for exact evidence and limitations. GitHub Pages serves the production history.
 
 Repository is public. Do not commit personal information, secrets, credentials, or unrelated conversation history.
 
-**Asset recovery:** All eight prior ZIP packages have been backed up in the owner's ChatGPT Library under `DINO Studio Archive`. See [asset registry](docs/ASSET_REGISTRY.md) and [archive hashes](docs/archive_manifest.json). GitHub holds written project memory, approved hero and preview atlases, not the full archived ZIP packages.
+**Asset recovery:** Fourteen historical ZIPs are retained as binary concatenation parts, verified by `python tools/recover_archives.py --verify-only`. Source artwork and the recovered v0.7.2 study are also stored directly. See the [inventory](docs/archive_manifest.json). Older dated notes below describe earlier states.
 
 
 ## 2026-11-26 — GitHub Pages activation
@@ -56,3 +56,5 @@ Latest review candidate: [v0.7 whole-body sprite engine](https://nadirshahferoze
 Repository consolidation has begun: [archives](archives/), [inventory](docs/archive_manifest.json), and `python tools/recover_archives.py --verify-only`. Some historical ZIPs are still Library-only; the canonical reference pack, original turnaround, v0.7 source sheets and videos are now in Git.
 
 Latest review candidate: [v0.7.1 identity-lock sprite pack](https://nadirshahferoze7.github.io/dino-studio/releases/v0.7.1/). Five candidate anchors, 12 unique gold poses and full 28-pose curated floor-rest cycle. Actual source, atlas, render evidence and code in Git. [Storage policy](docs/STORAGE_POLICY.md) · [Sprite production rules](docs/SPRITE_RULES.md) · [Legacy migration audit](docs/ARCHIVE_MIGRATION.md). v0.5.1 remains approved; no speech milestone yet.
+
+Recovered study: [v0.7.2](https://nadirshahferoze7.github.io/dino-studio/releases/v0.7.2/) · [original rendered video](https://nadirshahferoze7.github.io/dino-studio/releases/v0.7.2/evidence/rest-preview.mp4). Not creatively approved. Next: authored, closely spaced whole-body poses; no dialogue before resting performance acceptance.

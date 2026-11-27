@@ -10,3 +10,6 @@
 - Project_DINO_Studio_Pack_v0_2.zip
 
 All 14 original ZIPs are listed in the Library backup folder, with stored hashes in archive_manifest.json. Copy pending ZIPs in verified binary parts, preserving exact bytes, and update archive_manifest.json only after checking actual Git blobs. `python tools/recover_archives.py --verify-only` will continue to report pending until complete. v0.7.1 is stored directly in Git with its exact source dependency, not a Library-only ZIP.
+
+## 2026-11-27 recovery update
+All six pending original ZIPs recovered, full SHA-256 and ZIP CRC verified, then split into versioned binary parts. All fourteen archives pass full local concatenation verification. See RECOVERY_2026-11-27.md and updated archive_manifest.json. Remote tree/blob verification must follow the recovery commit. The earlier audit above is historical.
