@@ -1,0 +1,45 @@
+{
+  "date": "2026-11-27",
+  "version": "v0.7.3",
+  "testedCommit": "df8682c86201cb1a744d680c7bbf30b1bd586879",
+  "pagesRun": 45955427095,
+  "deployment": "completed/success",
+  "browser": "Cloud Chrome",
+  "preview": "https://nadirshahferoze7.github.io/dino-studio/releases/v0.7.3/",
+  "observedControls": {
+    "initialPaused": true,
+    "play": true,
+    "pause": true,
+    "replay": true,
+    "previousPose": true,
+    "nextPose": true,
+    "speedSelection": true,
+    "timelineSeek": true,
+    "loopToggleAndEndWrap": true,
+    "breathingToggle": true,
+    "fullMode": true,
+    "loweringMode": true,
+    "wakingMode": true,
+    "sourcePoseMode": true,
+    "previousVersionDisclosure": true
+  },
+  "verifiedAssets": [
+    "poses.webp",
+    "evidence/player-preview.mp4",
+    "../../characters/DINO-001/approved/turnaround.png"
+  ],
+  "observations": [
+    "Hosted atlas loaded and displayed the character.",
+    "Playback observed from standing through lowering, sleep, support and standing recovery, using successive screenshots and timeline states.",
+    "Rendered video opened and displayed sleeping animation.",
+    "Source atlas opened at 3840x1728; approved turnaround opened at 2172x724.",
+    "Loop from timeline999 advanced through end to source0 with Pause active; then Pause stopped playback.",
+    "Pose steps, sheet-boundary volume/face differences and contact drift remain artistically unsatisfactory."
+  ],
+  "limits": [
+    "Sampled hosted UI and screenshots, not a pixel-exhaustive Chromium capture of every frame.",
+    "Native Canvas exact-player250-frame checks are separate evidence.",
+    "Mobile viewport not tested in hosted browser.",
+    "Creative gate still not passed; owner acceptance required."
+  ]
+}

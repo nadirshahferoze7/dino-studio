@@ -1005,6 +1005,12 @@
           "bytes": 2384,
           "sha256": "160736a4c29562c2b01ea1dc34f74b9bcdcd6ae9dffb7799bb25649c39e346c6",
           "git_blob_sha": "d08f94d55d34cf730e0b46879ad72200334c593a"
+        },
+        {
+          "path": "releases/v0.7.3/evidence/hosted-review.json",
+          "bytes": 1735,
+          "sha256": "03157425b9387564ad71736cd4bcec35c80448e15008b5eb9ce2ddf1b4f89cf5",
+          "git_blob_sha": "898502d72504e8f0b9e23a172bbd53f9cc604e7d"
         }
       ],
       "documentation": "releases/v0.7.3/README.md",
