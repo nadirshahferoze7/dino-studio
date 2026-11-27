@@ -1,0 +1,31 @@
+{
+  "date": "2026-11-27",
+  "version": "v0.7.4",
+  "productionCommit": "e8c9d498b54950f0183c0c85fa0675e96006078f",
+  "pagesRun": 45960500750,
+  "deployment": "completed/success",
+  "preview": "https://nadirshahferoze7.github.io/dino-studio/releases/v0.7.4/",
+  "browser": "Cloud Chrome",
+  "observed": [
+    "Loaded actual atlas and starting supporting pose",
+    "Play advanced visible timeline and changed button to Pause",
+    "Pause and replay worked",
+    "Timeline End displayed sleeping source7 at3.12 seconds",
+    "Source pose mode, next and previous worked",
+    "Speed selection0.5 and1 worked",
+    "Loop checkbox on/off worked; actual end wrap not exhaustively checked",
+    "Rendered MP4 loaded and displayed character; no full-video playback claim"
+  ],
+  "remoteVerification": {
+    "files": 23,
+    "allRemoteBytesEqualLocal": true,
+    "matchingTree": "f2ef84f297d9d75742cbd99612436dc8c3830fd0",
+    "previousReleaseChanges": false
+  },
+  "limitations": [
+    "Sampled hosted review, not an exhaustive75-frame Chromium capture",
+    "Mobile viewport not tested",
+    "Stepped motion, fast tail curl and head/accessory drift remain",
+    "Unapproved study; natural-rest creative gate remains unresolved"
+  ]
+}

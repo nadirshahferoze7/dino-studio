@@ -19,3 +19,5 @@ python releases/v0.7.4/qa_frames.py /tmp/dino-v074-frames
 ```
 
 Next: refine the tail/contact path over this same small transition and stabilize head and satchel volumes before expansion. Do not hide drift with morphs or issue another broad full-cycle pose batch. Approved originals must remain unchanged. Hosted inspection is recorded separately when performed.
+
+Hosted playback and sampled controls independently checked in Cloud Chrome after successful Pages run45960500750. See evidence/hosted-review.json for exact scope. All23 production files remotely fetched and byte-verified; prior release files unchanged. Creative approval remains pending.
