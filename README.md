@@ -12,7 +12,7 @@ A persistent, code-controlled creative studio for an original dinosaur character
 The owner approves the creative direction. AI agents perform as much of the technical and creative production as available tools allow. The repository is the durable source of project memory; conversations are not the source of truth.
 
 ## Current status
-DINO-001's approved hero and turnaround remain the visual authority. v0.5.1 is the latest accepted animation baseline. v0.6–v0.6.4 rest puppet experiments were rejected; v0.7–v0.7.2 whole-body sprite studies are unapproved. The interrupted v0.7.2 files have been recovered with original hashes. All fourteen historical ZIPs are represented by verified binary parts. See [recovery audit](docs/RECOVERY_2026-11-27.md) for exact evidence and limitations. GitHub Pages serves the production history.
+Approved hero and turnaround remain the character authority. v0.5.1 gait and v0.7.4 lowering component are accepted. [v0.8.0](https://nadirshahferoze7.github.io/dino-studio/releases/v0.8.0/) delivers the complete13.28-second rest cycle for review: stand, sit, lower, sleep, wake and supported standing recovery. Full-cycle acceptance pending; no speech/films yet. All previous releases and fourteen historical ZIP archives remain in Git. See PROJECT_STATE.md for current evidence and next action.
 
 Repository is public. Do not commit personal information, secrets, credentials, or unrelated conversation history.
 

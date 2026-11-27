@@ -1,3 +1,6 @@
+# Current milestone — 2026-11-27
+v0.7.4 lowering component accepted. Complete rest-cycle candidate v0.8.0 delivered for review, with exact accepted source reuse and independently authored supported rising poses. Next: full-cycle owner acceptance/refinement, then speech/lip sync. Preserve approved gait v0.5.1 and all history. Historical numbering below is an old proposal.
+
 # Current production gate — 2026-11-27
 Perfect and obtain owner acceptance of the complete resting performance before speech, lip synchronization, dialogue or films. Historical version numbering below is an old proposal, not current release status. Whole-body source poses with authored contact and expression continuity are the active experiment; segmented rest puppet is rejected.
 

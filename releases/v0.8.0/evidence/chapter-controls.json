@@ -1,0 +1,23 @@
+{
+  "environment": "Node native Canvas adapter, exact player scripts; not hosted browser",
+  "checks": {
+    "sitEntries": true,
+    "sitPausedAtStart": true,
+    "sitEndRenders": true,
+    "lowerEntries": true,
+    "lowerPausedAtStart": true,
+    "lowerEndRenders": true,
+    "sleepEntries": true,
+    "sleepPausedAtStart": true,
+    "sleepEndRenders": true,
+    "wakeEntries": true,
+    "wakePausedAtStart": true,
+    "wakeEndRenders": true,
+    "riseEntries": true,
+    "risePausedAtStart": true,
+    "riseEndRenders": true,
+    "BreathToggleRenders": true,
+    "LoopWrap": true,
+    "EndStops": true
+  }
+}

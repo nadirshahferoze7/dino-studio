@@ -1,0 +1,155 @@
+{
+  "kind": "actual atlas checks; exact-player render separately recorded",
+  "checks": [
+    {
+      "pose": 0,
+      "componentsAbove64": 1,
+      "floor": 532,
+      "clipped": false
+    },
+    {
+      "pose": 1,
+      "componentsAbove64": 1,
+      "floor": 532,
+      "clipped": false
+    },
+    {
+      "pose": 2,
+      "componentsAbove64": 1,
+      "floor": 532,
+      "clipped": false
+    },
+    {
+      "pose": 3,
+      "componentsAbove64": 1,
+      "floor": 532,
+      "clipped": false
+    },
+    {
+      "pose": 4,
+      "componentsAbove64": 1,
+      "floor": 532,
+      "clipped": false
+    },
+    {
+      "pose": 5,
+      "componentsAbove64": 1,
+      "floor": 532,
+      "clipped": false
+    },
+    {
+      "pose": 6,
+      "componentsAbove64": 1,
+      "floor": 532,
+      "clipped": false
+    },
+    {
+      "pose": 7,
+      "componentsAbove64": 1,
+      "floor": 532,
+      "clipped": false
+    },
+    {
+      "pose": 8,
+      "componentsAbove64": 1,
+      "floor": 532,
+      "clipped": false
+    },
+    {
+      "pose": 9,
+      "componentsAbove64": 1,
+      "floor": 532,
+      "clipped": false
+    },
+    {
+      "pose": 10,
+      "componentsAbove64": 1,
+      "floor": 532,
+      "clipped": false
+    },
+    {
+      "pose": 11,
+      "componentsAbove64": 1,
+      "floor": 532,
+      "clipped": false
+    },
+    {
+      "pose": 12,
+      "componentsAbove64": 1,
+      "floor": 532,
+      "clipped": false
+    },
+    {
+      "pose": 13,
+      "componentsAbove64": 1,
+      "floor": 532,
+      "clipped": false
+    },
+    {
+      "pose": 14,
+      "componentsAbove64": 1,
+      "floor": 532,
+      "clipped": false
+    },
+    {
+      "pose": 15,
+      "componentsAbove64": 1,
+      "floor": 532,
+      "clipped": false
+    },
+    {
+      "pose": 16,
+      "componentsAbove64": 1,
+      "floor": 532,
+      "clipped": false
+    },
+    {
+      "pose": 17,
+      "componentsAbove64": 1,
+      "floor": 532,
+      "clipped": false
+    },
+    {
+      "pose": 18,
+      "componentsAbove64": 1,
+      "floor": 532,
+      "clipped": false
+    },
+    {
+      "pose": 19,
+      "componentsAbove64": 1,
+      "floor": 532,
+      "clipped": false
+    },
+    {
+      "pose": 20,
+      "componentsAbove64": 1,
+      "floor": 532,
+      "clipped": false
+    },
+    {
+      "pose": 21,
+      "componentsAbove64": 1,
+      "floor": 532,
+      "clipped": false
+    },
+    {
+      "pose": 22,
+      "componentsAbove64": 1,
+      "floor": 532,
+      "clipped": false
+    },
+    {
+      "pose": 23,
+      "componentsAbove64": 1,
+      "floor": 532,
+      "clipped": false
+    }
+  ],
+  "sharedSupportPixelIdentical": true,
+  "standingRecoverySameSource": true,
+  "approvedReferenceHashes": {
+    "hero.png": "82920f602cbd72bf83887c1b4b2140b880f800df05c8caa8df651f96de175a1a",
+    "turnaround.png": "009085f36955d6c52e7dffaad714ce01c7a9d87265d38a53803cfd5014ab3a12"
+  }
+}

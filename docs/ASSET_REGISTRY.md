@@ -63,3 +63,7 @@ Recovery b125bd2 verified from remote-fetched bytes: all 14 historical ZIP SHA-2
 
 ## v0.7.4 focused transition source
 Original RGBA sources/lowering-eight.png and deterministic derivatives under releases/v0.7.4. Source SHA-256 and cell registration in manifest.json; rendering and control checks in evidence/player-render.json. Unapproved study; exact approved artwork unchanged.
+
+
+## v0.8.0 complete rest cycle
+New source PNGs, rejected sit and background variants, prompts, deterministic build/player, lossless atlas and rendered/QA evidence in releases/v0.8.0. Accepted v0.7.4 rest atlas reused by exact path/hash. Manifest records native source hashes/registration; originals and previous releases unchanged. Full cycle pending review.

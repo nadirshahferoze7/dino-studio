@@ -1,0 +1,423 @@
+{
+  "version": "v0.8.0",
+  "status": "complete rest-cycle review candidate; lowering component v0.7.4 accepted by owner",
+  "cell": [
+    640,
+    576
+  ],
+  "columns": 6,
+  "floor": 532,
+  "frames": [
+    {
+      "reuse": 23,
+      "reason": "matched supported-descent reuse; generated sit sheet rejected for proportion drift"
+    },
+    {
+      "reuse": 22,
+      "reason": "matched supported-descent reuse; generated sit sheet rejected for proportion drift"
+    },
+    {
+      "reuse": 21,
+      "reason": "matched supported-descent reuse; generated sit sheet rejected for proportion drift"
+    },
+    {
+      "reuse": 20,
+      "reason": "matched supported-descent reuse; generated sit sheet rejected for proportion drift"
+    },
+    {
+      "reuse": 19,
+      "reason": "matched supported-descent reuse; generated sit sheet rejected for proportion drift"
+    },
+    {
+      "reuse": 18,
+      "reason": "matched supported-descent reuse; generated sit sheet rejected for proportion drift"
+    },
+    {
+      "reuse": 17,
+      "reason": "matched supported-descent reuse; generated sit sheet rejected for proportion drift"
+    },
+    {
+      "reuse": 16,
+      "reason": "matched supported-descent reuse; generated sit sheet rejected for proportion drift"
+    },
+    {
+      "source": "../v0.7.4/poses.webp",
+      "cell": 0,
+      "scale": 1,
+      "translation": [
+        0,
+        0
+      ]
+    },
+    {
+      "source": "../v0.7.4/poses.webp",
+      "cell": 1,
+      "scale": 1,
+      "translation": [
+        0,
+        0
+      ]
+    },
+    {
+      "source": "../v0.7.4/poses.webp",
+      "cell": 2,
+      "scale": 1,
+      "translation": [
+        0,
+        0
+      ]
+    },
+    {
+      "source": "../v0.7.4/poses.webp",
+      "cell": 3,
+      "scale": 1,
+      "translation": [
+        0,
+        0
+      ]
+    },
+    {
+      "source": "../v0.7.4/poses.webp",
+      "cell": 4,
+      "scale": 1,
+      "translation": [
+        0,
+        0
+      ]
+    },
+    {
+      "source": "../v0.7.4/poses.webp",
+      "cell": 5,
+      "scale": 1,
+      "translation": [
+        0,
+        0
+      ]
+    },
+    {
+      "source": "../v0.7.4/poses.webp",
+      "cell": 6,
+      "scale": 1,
+      "translation": [
+        0,
+        0
+      ]
+    },
+    {
+      "source": "../v0.7.4/poses.webp",
+      "cell": 7,
+      "scale": 1,
+      "translation": [
+        0,
+        0
+      ]
+    },
+    {
+      "reuse": 8,
+      "reason": "exact accepted wake support join"
+    },
+    {
+      "source": "support-to-standing.png",
+      "cell": 1,
+      "scale": 1.0917874396135265,
+      "translation": [
+        38,
+        104
+      ]
+    },
+    {
+      "source": "support-to-standing.png",
+      "cell": 2,
+      "scale": 1.0917874396135265,
+      "translation": [
+        45,
+        103
+      ]
+    },
+    {
+      "source": "support-to-standing.png",
+      "cell": 3,
+      "scale": 1.0917874396135265,
+      "translation": [
+        52,
+        103
+      ]
+    },
+    {
+      "source": "support-to-standing.png",
+      "cell": 4,
+      "scale": 1.0917874396135265,
+      "translation": [
+        51,
+        86
+      ]
+    },
+    {
+      "source": "support-to-standing.png",
+      "cell": 5,
+      "scale": 1.0917874396135265,
+      "translation": [
+        66,
+        84
+      ]
+    },
+    {
+      "source": "support-to-standing.png",
+      "cell": 6,
+      "scale": 1.0917874396135265,
+      "translation": [
+        80,
+        83
+      ]
+    },
+    {
+      "source": "support-to-standing.png",
+      "cell": 7,
+      "scale": 1.0917874396135265,
+      "translation": [
+        93,
+        81
+      ]
+    }
+  ],
+  "timeline": [
+    {
+      "index": 0,
+      "seconds": 1,
+      "label": "Standing",
+      "chapter": "sit",
+      "breath": false
+    },
+    {
+      "index": 1,
+      "seconds": 0.22,
+      "label": "Prepare to sit",
+      "chapter": "sit",
+      "breath": false
+    },
+    {
+      "index": 2,
+      "seconds": 0.2,
+      "label": "Knees bend",
+      "chapter": "sit",
+      "breath": false
+    },
+    {
+      "index": 3,
+      "seconds": 0.2,
+      "label": "Hips lower",
+      "chapter": "sit",
+      "breath": false
+    },
+    {
+      "index": 4,
+      "seconds": 0.22,
+      "label": "Seated contact",
+      "chapter": "sit",
+      "breath": false
+    },
+    {
+      "index": 5,
+      "seconds": 0.26,
+      "label": "Settling",
+      "chapter": "sit",
+      "breath": false
+    },
+    {
+      "index": 6,
+      "seconds": 0.26,
+      "label": "Hands reach",
+      "chapter": "sit",
+      "breath": false
+    },
+    {
+      "index": 7,
+      "seconds": 0.4,
+      "label": "Hands supporting",
+      "chapter": "sit",
+      "breath": false
+    },
+    {
+      "index": 9,
+      "seconds": 0.2,
+      "label": "Elbows soften",
+      "chapter": "lower",
+      "breath": false
+    },
+    {
+      "index": 10,
+      "seconds": 0.2,
+      "label": "Chest lowers",
+      "chapter": "lower",
+      "breath": false
+    },
+    {
+      "index": 11,
+      "seconds": 0.2,
+      "label": "Weight settles",
+      "chapter": "lower",
+      "breath": false
+    },
+    {
+      "index": 12,
+      "seconds": 0.22,
+      "label": "Chin approaches",
+      "chapter": "lower",
+      "breath": false
+    },
+    {
+      "index": 13,
+      "seconds": 0.24,
+      "label": "Eyes close",
+      "chapter": "lower",
+      "breath": false
+    },
+    {
+      "index": 14,
+      "seconds": 0.26,
+      "label": "Forearm rest",
+      "chapter": "lower",
+      "breath": false
+    },
+    {
+      "index": 15,
+      "seconds": 0.45,
+      "label": "Sleep settles",
+      "chapter": "lower",
+      "breath": false
+    },
+    {
+      "index": 15,
+      "seconds": 3.4,
+      "label": "Sleeping",
+      "chapter": "sleep",
+      "breath": true
+    },
+    {
+      "index": 15,
+      "seconds": 0.4,
+      "label": "Waking stir",
+      "chapter": "wake",
+      "breath": false
+    },
+    {
+      "index": 14,
+      "seconds": 0.3,
+      "label": "Chin lifts",
+      "chapter": "wake",
+      "breath": false
+    },
+    {
+      "index": 13,
+      "seconds": 0.28,
+      "label": "Sleepy eyes",
+      "chapter": "wake",
+      "breath": false
+    },
+    {
+      "index": 12,
+      "seconds": 0.25,
+      "label": "Head lifts",
+      "chapter": "wake",
+      "breath": false
+    },
+    {
+      "index": 11,
+      "seconds": 0.23,
+      "label": "Elbows extend",
+      "chapter": "wake",
+      "breath": false
+    },
+    {
+      "index": 10,
+      "seconds": 0.23,
+      "label": "Chest lifts",
+      "chapter": "wake",
+      "breath": false
+    },
+    {
+      "index": 9,
+      "seconds": 0.25,
+      "label": "Hands bear weight",
+      "chapter": "wake",
+      "breath": false
+    },
+    {
+      "index": 8,
+      "seconds": 0.45,
+      "label": "Seated support",
+      "chapter": "wake",
+      "breath": false
+    },
+    {
+      "index": 17,
+      "seconds": 0.28,
+      "label": "Weight over hands",
+      "chapter": "rise",
+      "breath": false
+    },
+    {
+      "index": 18,
+      "seconds": 0.28,
+      "label": "Feet tuck under",
+      "chapter": "rise",
+      "breath": false
+    },
+    {
+      "index": 19,
+      "seconds": 0.25,
+      "label": "Low crouch",
+      "chapter": "rise",
+      "breath": false
+    },
+    {
+      "index": 20,
+      "seconds": 0.25,
+      "label": "Hands push off",
+      "chapter": "rise",
+      "breath": false
+    },
+    {
+      "index": 21,
+      "seconds": 0.25,
+      "label": "Knees extend",
+      "chapter": "rise",
+      "breath": false
+    },
+    {
+      "index": 22,
+      "seconds": 0.3,
+      "label": "Standing balance",
+      "chapter": "rise",
+      "breath": false
+    },
+    {
+      "index": 23,
+      "seconds": 0.35,
+      "label": "Upright recovery",
+      "chapter": "rise",
+      "breath": false
+    },
+    {
+      "index": 0,
+      "seconds": 1,
+      "label": "Standing settled",
+      "chapter": "rise",
+      "breath": false
+    }
+  ],
+  "sourceSha256": {
+    "sources/stand-to-support.png": "fa8d57482e9c100da656aae4565e0217f823271792ab174ca265dc6c658fdbbe",
+    "sources/support-to-standing.png": "a1cd819aa43719cb37ef40dcda19b155f2a409dbacf68c7cdbd3ca142ce775cf"
+  },
+  "acceptedRestAtlasSha256": "1531a8e3b84f63a1ca7f09c83329361193bfebde90785ef571b31cd4ec0dc700",
+  "limitations": [
+    "Discrete authored sprite poses; no continuous skeletal animation",
+    "Head and accessory variation between drawings",
+    "Hand/head registration is not anatomical foot locking",
+    "Early waking reuses accepted lowering drawings in reverse",
+    "Breathing scales whole sleeping sprite subtly, not a chest rig",
+    "Full-cycle owner review pending; no speech or films",
+    "Descent reuses supported-rise drawings in reverse with different timing"
+  ]
+}
