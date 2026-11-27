@@ -142,3 +142,7 @@ Owner agreed to voice casting. Produced three offline eSpeak 1.48.15 auditions o
 
 ## Neural voice engine decision
 Owner declined Edge TTS after reviewing service dependency and licensing uncertainty: “No let it be ... Let's go with your recommendation”. Adopt HeadTTS/Kokoro as primary neural voice audition engine; no Edge TTS trials. Keep eSpeak only as historical feasibility baseline. One controlled audition, maximum three voices, five fixed lines, then creative approval before final voice identity lock. Browser WebGPU/WASM, no paid inference or new Actions. Model loading and actual synthesis must be verified separately.
+
+
+## v0.9.3 neural studio integration checkpoint
+Added studies/v0.9.3-neural browser audition candidate using documented HeadTTS 1.3 CDN API, Kokoro timestamped model, WebGPU/WASM, three fixed voices and five lines, WAV/cue export and existing stable sprite playback. No real synthesis or visual runtime validation yet. Next verify actual hosted engine and one audio output before batch. Voice Bible and pipeline saved; prior releases unchanged.

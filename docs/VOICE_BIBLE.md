@@ -1,0 +1,2 @@
+# DINO-001 Voice Bible — provisional
+Youthful, warm, curious, friendly, adventurous; natural medium-high pitch, conversational neutral American English. Avoid squeaky or robotic performance. Five audition lines and weighted criteria in studies/v0.9.3-neural/spec.mjs. No approved voice yet. Emotion labels are performance intentions, not synthesis control parameters. After owner approval record exact voice ID, model revision, runtime, settings and reference audio.
