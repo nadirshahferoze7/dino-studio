@@ -1,0 +1,33 @@
+{
+  "date": "2026-11-27",
+  "version": "v0.8.0",
+  "productionCommit": "effc120d06d213159e53c6adf4e84b058b348bed",
+  "pagesRun": 45964102144,
+  "deployment": "completed/success",
+  "preview": "https://nadirshahferoze7.github.io/dino-studio/releases/v0.8.0/",
+  "browser": "Cloud Chrome",
+  "observations": [
+    "Actual hosted atlas loaded, standing source0 displayed",
+    "Full-cycle Play advanced through sleeping and waking support, then stopped at13.28s standing source0; successive screenshots sampled motion",
+    "Sit chapter reached accepted support pose at2.76s",
+    "Lower and Sleep chapter selection worked",
+    "Wake previous/next pose controls worked",
+    "Stand chapter played supported recovery",
+    "Replay/pause, source-pose mode, speed0.5/1, breathing toggle worked",
+    "Loop from near source-mode end wrapped to source0 with Pause active",
+    "MP4 loaded/autoplayed; standing and sleeping video frames observed"
+  ],
+  "remoteVerification": {
+    "files": 30,
+    "byteForByteMatch": true,
+    "tree": "bb293159193a8cc191f6cfa25fb027d3eff9eb0a",
+    "previousReleaseFilesChanged": false
+  },
+  "limits": [
+    "Sampled hosted motion review, not exhaustive319-frame Chromium capture",
+    "Mobile viewport not tested",
+    "Discrete pose steps, horizontal foot movement and head/outfit drift remain",
+    "Early waking and descent use documented pose reversal; no continuous skeleton claim",
+    "Lowering component accepted; full cycle newly delivered for owner review"
+  ]
+}

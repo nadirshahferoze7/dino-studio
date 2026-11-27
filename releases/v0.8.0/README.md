@@ -25,3 +25,5 @@ node releases/v0.8.0/qa_controls.cjs /tmp/dino-v080-controls
 ```
 
 Exact source PNGs and generation prompts retained; rebuilding requires no inference, externalGPU or paid service. Existing v0.7.4 atlas is a direct relative Git dependency, hash in manifest. Source creation used built-in image generation and background extraction edits; edits do not guarantee exact pixel identity with pre-edit originals. All previous release files retained. Next: owner reviews complete performance before speech/lip sync; refine any identified join or contact issue within this versioned pipeline.
+
+Hosted cycle and action controls checked in Cloud Chrome after successful deployment45964102144. Full playback reached sleep, waking support and final standing stop; sampled video also played. All30 production files remotely byte-verified; previous releases unchanged. See evidence/hosted-review.json.
