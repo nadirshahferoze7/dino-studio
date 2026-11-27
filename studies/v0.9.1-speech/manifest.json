@@ -1,0 +1,112 @@
+{
+  "version": "v0.9.1-study",
+  "status": "unapproved silent timing study; no audio synchronization",
+  "source_sha256": "1312d10a319af176d5c8145aa7bc6f3b368bb2720ae162466dc95c6182a84922",
+  "source_size": 1631223,
+  "cell": [
+    384,
+    512
+  ],
+  "columns": 4,
+  "poses": [
+    "REST",
+    "MBP",
+    "AH",
+    "EE",
+    "OH",
+    "OO",
+    "FV",
+    "LTH"
+  ],
+  "line": "Hello! I’m Dino. Ready for an adventure?",
+  "cues": [
+    {
+      "pose": "REST",
+      "seconds": 0.4
+    },
+    {
+      "pose": "EE",
+      "seconds": 0.15
+    },
+    {
+      "pose": "LTH",
+      "seconds": 0.12
+    },
+    {
+      "pose": "OH",
+      "seconds": 0.25
+    },
+    {
+      "pose": "REST",
+      "seconds": 0.2
+    },
+    {
+      "pose": "AH",
+      "seconds": 0.18
+    },
+    {
+      "pose": "MBP",
+      "seconds": 0.13
+    },
+    {
+      "pose": "REST",
+      "seconds": 0.1
+    },
+    {
+      "pose": "EE",
+      "seconds": 0.2
+    },
+    {
+      "pose": "OH",
+      "seconds": 0.26
+    },
+    {
+      "pose": "REST",
+      "seconds": 0.22
+    },
+    {
+      "pose": "EE",
+      "seconds": 0.15
+    },
+    {
+      "pose": "LTH",
+      "seconds": 0.12
+    },
+    {
+      "pose": "EE",
+      "seconds": 0.19
+    },
+    {
+      "pose": "FV",
+      "seconds": 0.12
+    },
+    {
+      "pose": "OH",
+      "seconds": 0.14
+    },
+    {
+      "pose": "AH",
+      "seconds": 0.16
+    },
+    {
+      "pose": "FV",
+      "seconds": 0.12
+    },
+    {
+      "pose": "EE",
+      "seconds": 0.18
+    },
+    {
+      "pose": "LTH",
+      "seconds": 0.13
+    },
+    {
+      "pose": "OO",
+      "seconds": 0.18
+    },
+    {
+      "pose": "REST",
+      "seconds": 0.5
+    }
+  ]
+}
