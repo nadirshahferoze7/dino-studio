@@ -1,5 +1,8 @@
 # Production history
 
+## 2026-11-27 — smarter checkpoint policy accepted
+- Owner chose small recoverable saves and controlled binary batches, no new GitHub Actions automation. Added interruption recovery and pending-transfer rules; existing Pages and animation releases unchanged.
+
 ## 2026-11-27 — recover interrupted v0.7.2 and historical archive bytes
 - Recovered original six-pose source, two atlases, player, scripts, manifests, actual prior renders and rejected studies with matching recorded hashes. Preserved original evidence and all previous versions. Recovered six legacy ZIPs, verified full SHA-256 and CRC, stored binary concatenation parts and updated inventory. Inspected all 56 interpolated sprites; artistic gate remains failed. Added audit and non-overwriting QA rerun tool.
 
