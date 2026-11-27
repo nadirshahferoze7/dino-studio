@@ -1,0 +1,1015 @@
+{
+  "line": "Hello! I'm Dino. Ready for an adventure?",
+  "engine": "eSpeak 1.48.15 local formant synthesis",
+  "sample_rate": 22050,
+  "voices": {
+    "A": {
+      "voice": "en-us+m3",
+      "pitch": 65,
+      "speed": 151,
+      "duration": 3.600952380952381,
+      "peak": 20821,
+      "events": [
+        {
+          "ms": 12,
+          "phoneme": "h"
+        },
+        {
+          "ms": 70,
+          "phoneme": "@"
+        },
+        {
+          "ms": 128,
+          "phoneme": "l"
+        },
+        {
+          "ms": 241,
+          "phoneme": "oU"
+        },
+        {
+          "ms": 482,
+          "phoneme": "_:"
+        },
+        {
+          "ms": 916,
+          "phoneme": "_"
+        },
+        {
+          "ms": 916,
+          "phoneme": "aI"
+        },
+        {
+          "ms": 1032,
+          "phoneme": "m"
+        },
+        {
+          "ms": 1169,
+          "phoneme": "d"
+        },
+        {
+          "ms": 1193,
+          "phoneme": "i:"
+        },
+        {
+          "ms": 1341,
+          "phoneme": "n"
+        },
+        {
+          "ms": 1410,
+          "phoneme": "oU"
+        },
+        {
+          "ms": 1530,
+          "phoneme": "_:"
+        },
+        {
+          "ms": 1915,
+          "phoneme": "_"
+        },
+        {
+          "ms": 1915,
+          "phoneme": "r"
+        },
+        {
+          "ms": 1996,
+          "phoneme": "E"
+        },
+        {
+          "ms": 2083,
+          "phoneme": "d"
+        },
+        {
+          "ms": 2139,
+          "phoneme": "i"
+        },
+        {
+          "ms": 2231,
+          "phoneme": "f"
+        },
+        {
+          "ms": 2316,
+          "phoneme": "3"
+        },
+        {
+          "ms": 2392,
+          "phoneme": "r-"
+        },
+        {
+          "ms": 2438,
+          "phoneme": "@"
+        },
+        {
+          "ms": 2470,
+          "phoneme": "n"
+        },
+        {
+          "ms": 2525,
+          "phoneme": "a#"
+        },
+        {
+          "ms": 2569,
+          "phoneme": "d"
+        },
+        {
+          "ms": 2664,
+          "phoneme": "v"
+        },
+        {
+          "ms": 2739,
+          "phoneme": "E"
+        },
+        {
+          "ms": 2873,
+          "phoneme": "n"
+        },
+        {
+          "ms": 3000,
+          "phoneme": "tS"
+        },
+        {
+          "ms": 3067,
+          "phoneme": "3"
+        },
+        {
+          "ms": 3206,
+          "phoneme": "_:"
+        },
+        {
+          "ms": 3591,
+          "phoneme": "_"
+        },
+        {
+          "ms": 3591,
+          "phoneme": "_:"
+        },
+        {
+          "ms": 3600,
+          "phoneme": "_"
+        }
+      ],
+      "wav_sha256": "e9f9b49cde6dd19c92a5adee584169f11d9faebbfa9da49e7241f80a8c43e5a2",
+      "mp3_sha256": "12b9df403611ced2c4adfd2fd33de26a268ec33e1f9c2f8f9f725d8dd195d29f"
+    },
+    "B": {
+      "voice": "en-us+m4",
+      "pitch": 77,
+      "speed": 175,
+      "duration": 3.177687074829932,
+      "peak": 21877,
+      "events": [
+        {
+          "ms": 11,
+          "phoneme": "h"
+        },
+        {
+          "ms": 62,
+          "phoneme": "@"
+        },
+        {
+          "ms": 109,
+          "phoneme": "l"
+        },
+        {
+          "ms": 225,
+          "phoneme": "oU"
+        },
+        {
+          "ms": 490,
+          "phoneme": "_:"
+        },
+        {
+          "ms": 829,
+          "phoneme": "_"
+        },
+        {
+          "ms": 829,
+          "phoneme": "aI"
+        },
+        {
+          "ms": 913,
+          "phoneme": "m"
+        },
+        {
+          "ms": 1035,
+          "phoneme": "d"
+        },
+        {
+          "ms": 1058,
+          "phoneme": "i:"
+        },
+        {
+          "ms": 1226,
+          "phoneme": "n"
+        },
+        {
+          "ms": 1281,
+          "phoneme": "oU"
+        },
+        {
+          "ms": 1362,
+          "phoneme": "_:"
+        },
+        {
+          "ms": 1663,
+          "phoneme": "_"
+        },
+        {
+          "ms": 1663,
+          "phoneme": "r"
+        },
+        {
+          "ms": 1753,
+          "phoneme": "E"
+        },
+        {
+          "ms": 1845,
+          "phoneme": "d"
+        },
+        {
+          "ms": 1895,
+          "phoneme": "i"
+        },
+        {
+          "ms": 1971,
+          "phoneme": "f"
+        },
+        {
+          "ms": 2047,
+          "phoneme": "3"
+        },
+        {
+          "ms": 2105,
+          "phoneme": "r-"
+        },
+        {
+          "ms": 2152,
+          "phoneme": "@"
+        },
+        {
+          "ms": 2172,
+          "phoneme": "n"
+        },
+        {
+          "ms": 2221,
+          "phoneme": "a#"
+        },
+        {
+          "ms": 2253,
+          "phoneme": "d"
+        },
+        {
+          "ms": 2346,
+          "phoneme": "v"
+        },
+        {
+          "ms": 2430,
+          "phoneme": "E"
+        },
+        {
+          "ms": 2587,
+          "phoneme": "n"
+        },
+        {
+          "ms": 2713,
+          "phoneme": "tS"
+        },
+        {
+          "ms": 2773,
+          "phoneme": "3"
+        },
+        {
+          "ms": 2869,
+          "phoneme": "_:"
+        },
+        {
+          "ms": 3170,
+          "phoneme": "_"
+        },
+        {
+          "ms": 3170,
+          "phoneme": "_:"
+        },
+        {
+          "ms": 3177,
+          "phoneme": "_"
+        }
+      ],
+      "wav_sha256": "50a5b5f23591d54fa2e84a97a83fb4002d0b40687989c7a6275f1b58c1258546",
+      "mp3_sha256": "e9686ac4de244b26798a754bdb2d5e4ba521a5a1dc1ca76209c9f9d0c517ee56"
+    },
+    "C": {
+      "voice": "en-us+f2",
+      "pitch": 53,
+      "speed": 135,
+      "duration": 4.271383219954648,
+      "peak": 22380,
+      "events": [
+        {
+          "ms": 14,
+          "phoneme": "h"
+        },
+        {
+          "ms": 76,
+          "phoneme": "@"
+        },
+        {
+          "ms": 143,
+          "phoneme": "l"
+        },
+        {
+          "ms": 288,
+          "phoneme": "oU"
+        },
+        {
+          "ms": 653,
+          "phoneme": "_:"
+        },
+        {
+          "ms": 1164,
+          "phoneme": "_"
+        },
+        {
+          "ms": 1164,
+          "phoneme": "aI"
+        },
+        {
+          "ms": 1291,
+          "phoneme": "m"
+        },
+        {
+          "ms": 1431,
+          "phoneme": "d"
+        },
+        {
+          "ms": 1457,
+          "phoneme": "i:"
+        },
+        {
+          "ms": 1657,
+          "phoneme": "n"
+        },
+        {
+          "ms": 1730,
+          "phoneme": "oU"
+        },
+        {
+          "ms": 1860,
+          "phoneme": "_:"
+        },
+        {
+          "ms": 2314,
+          "phoneme": "_"
+        },
+        {
+          "ms": 2314,
+          "phoneme": "r"
+        },
+        {
+          "ms": 2419,
+          "phoneme": "E"
+        },
+        {
+          "ms": 2538,
+          "phoneme": "d"
+        },
+        {
+          "ms": 2596,
+          "phoneme": "i"
+        },
+        {
+          "ms": 2697,
+          "phoneme": "f"
+        },
+        {
+          "ms": 2788,
+          "phoneme": "3"
+        },
+        {
+          "ms": 2873,
+          "phoneme": "r-"
+        },
+        {
+          "ms": 2922,
+          "phoneme": "@"
+        },
+        {
+          "ms": 2954,
+          "phoneme": "n"
+        },
+        {
+          "ms": 3009,
+          "phoneme": "a#"
+        },
+        {
+          "ms": 3058,
+          "phoneme": "d"
+        },
+        {
+          "ms": 3158,
+          "phoneme": "v"
+        },
+        {
+          "ms": 3251,
+          "phoneme": "E"
+        },
+        {
+          "ms": 3434,
+          "phoneme": "n"
+        },
+        {
+          "ms": 3580,
+          "phoneme": "tS"
+        },
+        {
+          "ms": 3652,
+          "phoneme": "3"
+        },
+        {
+          "ms": 3806,
+          "phoneme": "_:"
+        },
+        {
+          "ms": 4260,
+          "phoneme": "_"
+        },
+        {
+          "ms": 4260,
+          "phoneme": "_:"
+        },
+        {
+          "ms": 4271,
+          "phoneme": "_"
+        }
+      ],
+      "wav_sha256": "f4a893bac560a1b2fa8824f259e363fdfcc1b6621b15c810e2a97eea298abfc7",
+      "mp3_sha256": "fa6aeeb6deade858b8b69f60341c8dffcee8508425b2362f0784f186672236c9"
+    }
+  },
+  "status": "audition only; synthetic voice, approximate viseme mapping",
+  "preview": {
+    "fps": 24,
+    "frames": 107,
+    "seconds": 4.458333333333333,
+    "lead": 0.35,
+    "voice": "A",
+    "mapping": {
+      "h": "AH",
+      "@": "AH",
+      "l": "LTH",
+      "oU": "OH",
+      "aI": "AH",
+      "m": "MBP",
+      "d": "LTH",
+      "i:": "EE",
+      "n": "LTH",
+      "r": "OH",
+      "E": "EE",
+      "i": "EE",
+      "f": "FV",
+      "3": "OH",
+      "r-": "OH",
+      "a#": "AH",
+      "v": "FV",
+      "tS": "EE"
+    },
+    "timeline": [
+      {
+        "frame": 0,
+        "phoneme": "_",
+        "pose": "REST"
+      },
+      {
+        "frame": 1,
+        "phoneme": "_",
+        "pose": "REST"
+      },
+      {
+        "frame": 2,
+        "phoneme": "_",
+        "pose": "REST"
+      },
+      {
+        "frame": 3,
+        "phoneme": "_",
+        "pose": "REST"
+      },
+      {
+        "frame": 4,
+        "phoneme": "_",
+        "pose": "REST"
+      },
+      {
+        "frame": 5,
+        "phoneme": "_",
+        "pose": "REST"
+      },
+      {
+        "frame": 6,
+        "phoneme": "_",
+        "pose": "REST"
+      },
+      {
+        "frame": 7,
+        "phoneme": "_",
+        "pose": "REST"
+      },
+      {
+        "frame": 8,
+        "phoneme": "_",
+        "pose": "REST"
+      },
+      {
+        "frame": 9,
+        "phoneme": "h",
+        "pose": "AH"
+      },
+      {
+        "frame": 10,
+        "phoneme": "h",
+        "pose": "AH"
+      },
+      {
+        "frame": 11,
+        "phoneme": "@",
+        "pose": "AH"
+      },
+      {
+        "frame": 12,
+        "phoneme": "l",
+        "pose": "LTH"
+      },
+      {
+        "frame": 13,
+        "phoneme": "l",
+        "pose": "LTH"
+      },
+      {
+        "frame": 14,
+        "phoneme": "l",
+        "pose": "LTH"
+      },
+      {
+        "frame": 15,
+        "phoneme": "oU",
+        "pose": "OH"
+      },
+      {
+        "frame": 16,
+        "phoneme": "oU",
+        "pose": "OH"
+      },
+      {
+        "frame": 17,
+        "phoneme": "oU",
+        "pose": "OH"
+      },
+      {
+        "frame": 18,
+        "phoneme": "oU",
+        "pose": "OH"
+      },
+      {
+        "frame": 19,
+        "phoneme": "oU",
+        "pose": "OH"
+      },
+      {
+        "frame": 20,
+        "phoneme": "_:",
+        "pose": "REST"
+      },
+      {
+        "frame": 21,
+        "phoneme": "_:",
+        "pose": "REST"
+      },
+      {
+        "frame": 22,
+        "phoneme": "_:",
+        "pose": "REST"
+      },
+      {
+        "frame": 23,
+        "phoneme": "_:",
+        "pose": "REST"
+      },
+      {
+        "frame": 24,
+        "phoneme": "_:",
+        "pose": "REST"
+      },
+      {
+        "frame": 25,
+        "phoneme": "_:",
+        "pose": "REST"
+      },
+      {
+        "frame": 26,
+        "phoneme": "_:",
+        "pose": "REST"
+      },
+      {
+        "frame": 27,
+        "phoneme": "_:",
+        "pose": "REST"
+      },
+      {
+        "frame": 28,
+        "phoneme": "_:",
+        "pose": "REST"
+      },
+      {
+        "frame": 29,
+        "phoneme": "_:",
+        "pose": "REST"
+      },
+      {
+        "frame": 30,
+        "phoneme": "_:",
+        "pose": "REST"
+      },
+      {
+        "frame": 31,
+        "phoneme": "aI",
+        "pose": "AH"
+      },
+      {
+        "frame": 32,
+        "phoneme": "aI",
+        "pose": "AH"
+      },
+      {
+        "frame": 33,
+        "phoneme": "aI",
+        "pose": "AH"
+      },
+      {
+        "frame": 34,
+        "phoneme": "m",
+        "pose": "MBP"
+      },
+      {
+        "frame": 35,
+        "phoneme": "m",
+        "pose": "MBP"
+      },
+      {
+        "frame": 36,
+        "phoneme": "m",
+        "pose": "MBP"
+      },
+      {
+        "frame": 37,
+        "phoneme": "d",
+        "pose": "LTH"
+      },
+      {
+        "frame": 38,
+        "phoneme": "i:",
+        "pose": "EE"
+      },
+      {
+        "frame": 39,
+        "phoneme": "i:",
+        "pose": "EE"
+      },
+      {
+        "frame": 40,
+        "phoneme": "i:",
+        "pose": "EE"
+      },
+      {
+        "frame": 41,
+        "phoneme": "n",
+        "pose": "LTH"
+      },
+      {
+        "frame": 42,
+        "phoneme": "n",
+        "pose": "LTH"
+      },
+      {
+        "frame": 43,
+        "phoneme": "oU",
+        "pose": "OH"
+      },
+      {
+        "frame": 44,
+        "phoneme": "oU",
+        "pose": "OH"
+      },
+      {
+        "frame": 45,
+        "phoneme": "oU",
+        "pose": "OH"
+      },
+      {
+        "frame": 46,
+        "phoneme": "_:",
+        "pose": "REST"
+      },
+      {
+        "frame": 47,
+        "phoneme": "_:",
+        "pose": "REST"
+      },
+      {
+        "frame": 48,
+        "phoneme": "_:",
+        "pose": "REST"
+      },
+      {
+        "frame": 49,
+        "phoneme": "_:",
+        "pose": "REST"
+      },
+      {
+        "frame": 50,
+        "phoneme": "_:",
+        "pose": "REST"
+      },
+      {
+        "frame": 51,
+        "phoneme": "_:",
+        "pose": "REST"
+      },
+      {
+        "frame": 52,
+        "phoneme": "_:",
+        "pose": "REST"
+      },
+      {
+        "frame": 53,
+        "phoneme": "_:",
+        "pose": "REST"
+      },
+      {
+        "frame": 54,
+        "phoneme": "_:",
+        "pose": "REST"
+      },
+      {
+        "frame": 55,
+        "phoneme": "r",
+        "pose": "OH"
+      },
+      {
+        "frame": 56,
+        "phoneme": "r",
+        "pose": "OH"
+      },
+      {
+        "frame": 57,
+        "phoneme": "E",
+        "pose": "EE"
+      },
+      {
+        "frame": 58,
+        "phoneme": "E",
+        "pose": "EE"
+      },
+      {
+        "frame": 59,
+        "phoneme": "d",
+        "pose": "LTH"
+      },
+      {
+        "frame": 60,
+        "phoneme": "i",
+        "pose": "EE"
+      },
+      {
+        "frame": 61,
+        "phoneme": "i",
+        "pose": "EE"
+      },
+      {
+        "frame": 62,
+        "phoneme": "f",
+        "pose": "FV"
+      },
+      {
+        "frame": 63,
+        "phoneme": "f",
+        "pose": "FV"
+      },
+      {
+        "frame": 64,
+        "phoneme": "3",
+        "pose": "OH"
+      },
+      {
+        "frame": 65,
+        "phoneme": "3",
+        "pose": "OH"
+      },
+      {
+        "frame": 66,
+        "phoneme": "r-",
+        "pose": "OH"
+      },
+      {
+        "frame": 67,
+        "phoneme": "@",
+        "pose": "AH"
+      },
+      {
+        "frame": 68,
+        "phoneme": "n",
+        "pose": "LTH"
+      },
+      {
+        "frame": 69,
+        "phoneme": "a#",
+        "pose": "AH"
+      },
+      {
+        "frame": 70,
+        "phoneme": "a#",
+        "pose": "AH"
+      },
+      {
+        "frame": 71,
+        "phoneme": "d",
+        "pose": "LTH"
+      },
+      {
+        "frame": 72,
+        "phoneme": "d",
+        "pose": "LTH"
+      },
+      {
+        "frame": 73,
+        "phoneme": "v",
+        "pose": "FV"
+      },
+      {
+        "frame": 74,
+        "phoneme": "v",
+        "pose": "FV"
+      },
+      {
+        "frame": 75,
+        "phoneme": "E",
+        "pose": "EE"
+      },
+      {
+        "frame": 76,
+        "phoneme": "E",
+        "pose": "EE"
+      },
+      {
+        "frame": 77,
+        "phoneme": "E",
+        "pose": "EE"
+      },
+      {
+        "frame": 78,
+        "phoneme": "n",
+        "pose": "LTH"
+      },
+      {
+        "frame": 79,
+        "phoneme": "n",
+        "pose": "LTH"
+      },
+      {
+        "frame": 80,
+        "phoneme": "n",
+        "pose": "LTH"
+      },
+      {
+        "frame": 81,
+        "phoneme": "tS",
+        "pose": "EE"
+      },
+      {
+        "frame": 82,
+        "phoneme": "tS",
+        "pose": "EE"
+      },
+      {
+        "frame": 83,
+        "phoneme": "3",
+        "pose": "OH"
+      },
+      {
+        "frame": 84,
+        "phoneme": "3",
+        "pose": "OH"
+      },
+      {
+        "frame": 85,
+        "phoneme": "3",
+        "pose": "OH"
+      },
+      {
+        "frame": 86,
+        "phoneme": "_:",
+        "pose": "REST"
+      },
+      {
+        "frame": 87,
+        "phoneme": "_:",
+        "pose": "REST"
+      },
+      {
+        "frame": 88,
+        "phoneme": "_:",
+        "pose": "REST"
+      },
+      {
+        "frame": 89,
+        "phoneme": "_:",
+        "pose": "REST"
+      },
+      {
+        "frame": 90,
+        "phoneme": "_:",
+        "pose": "REST"
+      },
+      {
+        "frame": 91,
+        "phoneme": "_:",
+        "pose": "REST"
+      },
+      {
+        "frame": 92,
+        "phoneme": "_:",
+        "pose": "REST"
+      },
+      {
+        "frame": 93,
+        "phoneme": "_:",
+        "pose": "REST"
+      },
+      {
+        "frame": 94,
+        "phoneme": "_:",
+        "pose": "REST"
+      },
+      {
+        "frame": 95,
+        "phoneme": "_",
+        "pose": "REST"
+      },
+      {
+        "frame": 96,
+        "phoneme": "_",
+        "pose": "REST"
+      },
+      {
+        "frame": 97,
+        "phoneme": "_",
+        "pose": "REST"
+      },
+      {
+        "frame": 98,
+        "phoneme": "_",
+        "pose": "REST"
+      },
+      {
+        "frame": 99,
+        "phoneme": "_",
+        "pose": "REST"
+      },
+      {
+        "frame": 100,
+        "phoneme": "_",
+        "pose": "REST"
+      },
+      {
+        "frame": 101,
+        "phoneme": "_",
+        "pose": "REST"
+      },
+      {
+        "frame": 102,
+        "phoneme": "_",
+        "pose": "REST"
+      },
+      {
+        "frame": 103,
+        "phoneme": "_",
+        "pose": "REST"
+      },
+      {
+        "frame": 104,
+        "phoneme": "_",
+        "pose": "REST"
+      },
+      {
+        "frame": 105,
+        "phoneme": "_",
+        "pose": "REST"
+      },
+      {
+        "frame": 106,
+        "phoneme": "_",
+        "pose": "REST"
+      }
+    ],
+    "sha256": "1b97f56f1adaccf09bed24eef2e4411b58c1fc96e6c6a25e0704a837f3b71518",
+    "limitations": "coarse viseme mapping; no acoustic forced alignment or listener validation; static body; noncanonical artwork"
+  }
+}

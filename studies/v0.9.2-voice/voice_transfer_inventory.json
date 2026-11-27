@@ -1,0 +1,27 @@
+{
+  "DINO_voice_A.mp3": {
+    "bytes": 44108,
+    "sha256": "12b9df403611ced2c4adfd2fd33de26a268ec33e1f9c2f8f9f725d8dd195d29f",
+    "git_blob": "929ec28c0a73c3bceb8322b5de7c314e846bf79e"
+  },
+  "DINO_voice_B.mp3": {
+    "bytes": 38924,
+    "sha256": "e9686ac4de244b26798a754bdb2d5e4ba521a5a1dc1ca76209c9f9d0c517ee56",
+    "git_blob": "b73330e6106e6e6df83f5ad5bc6aad8fa9eca7c4"
+  },
+  "DINO_voice_C.mp3": {
+    "bytes": 51884,
+    "sha256": "fa6aeeb6deade858b8b69f60341c8dffcee8508425b2362f0784f186672236c9",
+    "git_blob": "96921c4eb55c1ca6d5f4cd8d036ad8e0359fa835"
+  },
+  "DINO_voice_A_talking_preview.mp4": {
+    "bytes": 86390,
+    "sha256": "1b97f56f1adaccf09bed24eef2e4411b58c1fc96e6c6a25e0704a837f3b71518",
+    "git_blob": "4ee3019872ccfe555a4bb09266f08f95bfec9625"
+  },
+  "DINO_voice_A_contact.png": {
+    "bytes": 148544,
+    "sha256": "6a83b444279f86072b843484dbfc9d9c6f5aac42ecb4cfd910f6ec8a2d62c5d5",
+    "git_blob": "866df41ba8e938f8ec38829c85e232b49dbc21dd"
+  }
+}
