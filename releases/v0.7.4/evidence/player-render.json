@@ -1,0 +1,25 @@
+{
+  "environment": "Node native Canvas, exact player.js/timeline.js; not a browser UI test",
+  "frames": 75,
+  "fps": 24,
+  "total": 3.12,
+  "controlChecks": {
+    "play": true,
+    "pause": true,
+    "next": true,
+    "previous": true,
+    "seek": true,
+    "replay": true,
+    "sourceMode": true,
+    "studyMode": true
+  },
+  "firstLastPixelIdentical": false,
+  "checks": {
+    "empty": 0,
+    "clipped": 0,
+    "maximumComponentsAbove64": 1,
+    "floorMin": 532,
+    "floorMax": 532
+  },
+  "videoSHA256": "c9e0da9e167de3229b8189ec6781442492e6da7b59faa78394c88577f5db88c5"
+}

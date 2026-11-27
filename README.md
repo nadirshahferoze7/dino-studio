@@ -60,3 +60,5 @@ Latest review candidate: [v0.7.1 identity-lock sprite pack](https://nadirshahfer
 Recovered study: [v0.7.2](https://nadirshahferoze7.github.io/dino-studio/releases/v0.7.2/) · [original rendered video](https://nadirshahferoze7.github.io/dino-studio/releases/v0.7.2/evidence/rest-preview.mp4). Not creatively approved. Next: authored, closely spaced whole-body poses; no dialogue before resting performance acceptance.
 
 Latest experiment: [v0.7.3 authored-pose staging study](https://nadirshahferoze7.github.io/dino-studio/releases/v0.7.3/). Crisp source poses replace texture morphing, but movement remains stepped and cross-sheet consistency unresolved. Not accepted; v0.5.1 remains approved.
+
+Latest focused experiment: [v0.7.4 lowering transition](https://nadirshahferoze7.github.io/dino-studio/releases/v0.7.4/). Eight closely spaced complete drawings; remaining tail and volume drift. Not accepted; v0.5.1 remains approved.
