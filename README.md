@@ -58,3 +58,5 @@ Repository consolidation has begun: [archives](archives/), [inventory](docs/arch
 Latest review candidate: [v0.7.1 identity-lock sprite pack](https://nadirshahferoze7.github.io/dino-studio/releases/v0.7.1/). Five candidate anchors, 12 unique gold poses and full 28-pose curated floor-rest cycle. Actual source, atlas, render evidence and code in Git. [Storage policy](docs/STORAGE_POLICY.md) · [Sprite production rules](docs/SPRITE_RULES.md) · [Legacy migration audit](docs/ARCHIVE_MIGRATION.md). v0.5.1 remains approved; no speech milestone yet.
 
 Recovered study: [v0.7.2](https://nadirshahferoze7.github.io/dino-studio/releases/v0.7.2/) · [original rendered video](https://nadirshahferoze7.github.io/dino-studio/releases/v0.7.2/evidence/rest-preview.mp4). Not creatively approved. Next: authored, closely spaced whole-body poses; no dialogue before resting performance acceptance.
+
+Latest experiment: [v0.7.3 authored-pose staging study](https://nadirshahferoze7.github.io/dino-studio/releases/v0.7.3/). Crisp source poses replace texture morphing, but movement remains stepped and cross-sheet consistency unresolved. Not accepted; v0.5.1 remains approved.

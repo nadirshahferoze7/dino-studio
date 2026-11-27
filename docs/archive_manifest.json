@@ -869,6 +869,146 @@
       ],
       "documentation": "releases/v0.7.2/README.md",
       "recovery_audit": "docs/RECOVERY_2026-11-27.md"
+    },
+    {
+      "version": "v0.7.3",
+      "status": "authored-pose staging study; not approved",
+      "files": [
+        {
+          "path": "releases/v0.7.3/PROMPTS.md",
+          "bytes": 3057,
+          "sha256": "a359209e906924e8e7b43b58edcd181c917de34223aac57e0e9babee5b70e58d",
+          "git_blob_sha": "bcb27aaa0f5f7529551f180f42cbaba555343d1f"
+        },
+        {
+          "path": "releases/v0.7.3/README.md",
+          "bytes": 4686,
+          "sha256": "736cd97bb12a28d80da32b1ef64be5a167bd01320cdbb6361783640278f66e0a",
+          "git_blob_sha": "433ae8129b50110561b142211996530f3cef53be"
+        },
+        {
+          "path": "releases/v0.7.3/build.py",
+          "bytes": 5654,
+          "sha256": "5a6e70dc99766a6b6c0320fe6efa7fea763e633397635089d68b830064abb387",
+          "git_blob_sha": "42fe22c68393eac30eaa4af98560ebdda6dc012b"
+        },
+        {
+          "path": "releases/v0.7.3/evidence/contact.jpg",
+          "bytes": 206427,
+          "sha256": "5b441f48479d0e5e7d492a0e217c9612e9d27d39ab567d065112a99436c248ce",
+          "git_blob_sha": "8e28b929297304b095e1defe7bb7ff6805b33cbc"
+        },
+        {
+          "path": "releases/v0.7.3/evidence/face-crops.jpg",
+          "bytes": 331681,
+          "sha256": "fae7b865e5fb6fac3fa93edd0f43c684338d5c6d42ab040a494639d4dc372ce1",
+          "git_blob_sha": "e5716470c3b4e77422624506a96ceb4128c47aec"
+        },
+        {
+          "path": "releases/v0.7.3/evidence/joint-feet-crops.jpg",
+          "bytes": 337218,
+          "sha256": "76b78e49ca0abab857f6c3b64b965f20c7b7e85782c74c0ff81408abcc323f03",
+          "git_blob_sha": "645f72081477b407ee59246a4f0ebc8e835c818a"
+        },
+        {
+          "path": "releases/v0.7.3/evidence/player-contact.jpg",
+          "bytes": 346112,
+          "sha256": "77b5fd85e6816b8fcac4f3e14dce07d16f62e0510ddaf7e1b058074a82e2c7f7",
+          "git_blob_sha": "214014ee775b122aaae59ffe3e601ce962feaed1"
+        },
+        {
+          "path": "releases/v0.7.3/evidence/player-preview.mp4",
+          "bytes": 310537,
+          "sha256": "52f46b4f030f24293db25e1b3663d45d037124359f12cfec7826b8fddeb4bc75",
+          "git_blob_sha": "c63f59c68657ccc6292923ce12503424d4ec95ae"
+        },
+        {
+          "path": "releases/v0.7.3/evidence/player-render.json",
+          "bytes": 404,
+          "sha256": "57f9c2b55fb4af957466e1dbdb18397deea2d7a4bd422b2a3fef44c783f1cc98",
+          "git_blob_sha": "ce4fb4e698759ffcc75210ac9480bd00a2d290b4"
+        },
+        {
+          "path": "releases/v0.7.3/evidence/rest-preview.mp4",
+          "bytes": 309491,
+          "sha256": "ffa93c3d9773e9d6a7ad275959f854308392cc0eaf17d0ad4d0e5a52440ed27b",
+          "git_blob_sha": "e69c2681cb2868d0cc69b67ccd4ffb640332edd5"
+        },
+        {
+          "path": "releases/v0.7.3/index.html",
+          "bytes": 3772,
+          "sha256": "0de114111154f49eb0d517f81cc210112201faa1a41e4bce79d03e74577143fb",
+          "git_blob_sha": "6a0698c7c201e5ca12e42d4321d8e2ae1bca9183"
+        },
+        {
+          "path": "releases/v0.7.3/manifest.json",
+          "bytes": 8320,
+          "sha256": "316c9b9e8e8596bd1fd130c675b31acb0e5ec792138c32c07145aaa2c998d0a7",
+          "git_blob_sha": "b86b5a9e483b75241f83a214605d385202a69ecb"
+        },
+        {
+          "path": "releases/v0.7.3/player.js",
+          "bytes": 2432,
+          "sha256": "1ed71c7194505ff8f2c7da97bb8897ede50662f9441851930edc3c5918eba133",
+          "git_blob_sha": "f699d415e480da179a092b89754b090ccb3c2b24"
+        },
+        {
+          "path": "releases/v0.7.3/poses.webp",
+          "bytes": 1831412,
+          "sha256": "75453ada9c14d65c4f8d65e32fc5f32d6d16d2b21a6af5cc50370a51980f18a4",
+          "git_blob_sha": "f082a03b0c4f029354561d5fce74557b0f8f5087"
+        },
+        {
+          "path": "releases/v0.7.3/qa_frames.py",
+          "bytes": 2322,
+          "sha256": "841292d025a5e7ca94e40233b00da2321b935032188b8251a986058d2e593f44",
+          "git_blob_sha": "3354b35296c88befd6245c6321b2540d91d7044b"
+        },
+        {
+          "path": "releases/v0.7.3/render_player.cjs",
+          "bytes": 2572,
+          "sha256": "68cf6a63f79bbc13834b9eadbc5883c9b449e491c8fe2c18dde5d66ba7f08ccd",
+          "git_blob_sha": "c8429d98f2d03714958d8a4fbed218ec765cf185"
+        },
+        {
+          "path": "releases/v0.7.3/sources/seat-to-sleep.png",
+          "bytes": 1810767,
+          "sha256": "ecd8b6778a6692ac179baac295e3ddbc630dd3e415dd8e247cca45ff33399078",
+          "git_blob_sha": "0df2280e7efbc5d16bcf20c802854edde8a5d43e"
+        },
+        {
+          "path": "releases/v0.7.3/sources/sleep-to-seat.png",
+          "bytes": 1719186,
+          "sha256": "eb8367338d0c80c076e51210eb86923240365bcad04d50d798315e58238c1d72",
+          "git_blob_sha": "4c8312433f04d953653f5c32ac1a861ca1ab38b0"
+        },
+        {
+          "path": "releases/v0.7.3/sources/stand-to-seat.png",
+          "bytes": 1847221,
+          "sha256": "a6f6afa0a398aeb2b6e13b12ae2d0822f146420ea82c21b41e07835a45261bec",
+          "git_blob_sha": "08f81b00d32de6ceef69bf4d214ab4a4fb11ced0"
+        },
+        {
+          "path": "releases/v0.7.3/studies/rejected-lowering-gap.png",
+          "bytes": 1751757,
+          "sha256": "d7bc2701e7aab1c14c9c1a5b8945c40cc738d17b724bacd861764633f8e677b3",
+          "git_blob_sha": "87050894df7d4dbe926adb53b2e51896144cdca4"
+        },
+        {
+          "path": "releases/v0.7.3/timeline.js",
+          "bytes": 5347,
+          "sha256": "9675df8714ffe4b9c10b0a6f477d9e5c4a48c74aaa049ed9c702c45961214837",
+          "git_blob_sha": "f1814c28d3863ba83c747c742515b339c1e7e4d9"
+        },
+        {
+          "path": "releases/v0.7.3/validation.json",
+          "bytes": 2384,
+          "sha256": "160736a4c29562c2b01ea1dc34f74b9bcdcd6ae9dffb7799bb25649c39e346c6",
+          "git_blob_sha": "d08f94d55d34cf730e0b46879ad72200334c593a"
+        }
+      ],
+      "documentation": "releases/v0.7.3/README.md",
+      "validation": "releases/v0.7.3/evidence/player-render.json"
     }
   ]
 }

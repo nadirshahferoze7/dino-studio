@@ -1,0 +1,122 @@
+{
+  "kind": "offline source atlas checks; browser controls separately tested",
+  "duration": 10.43,
+  "fps": 24,
+  "videoFrames": 250,
+  "checks": [
+    {
+      "index": 0,
+      "bottom": 532,
+      "componentsAbove64": 1,
+      "clipped": false
+    },
+    {
+      "index": 1,
+      "bottom": 532,
+      "componentsAbove64": 1,
+      "clipped": false
+    },
+    {
+      "index": 2,
+      "bottom": 532,
+      "componentsAbove64": 1,
+      "clipped": false
+    },
+    {
+      "index": 3,
+      "bottom": 532,
+      "componentsAbove64": 1,
+      "clipped": false
+    },
+    {
+      "index": 4,
+      "bottom": 532,
+      "componentsAbove64": 1,
+      "clipped": false
+    },
+    {
+      "index": 5,
+      "bottom": 532,
+      "componentsAbove64": 1,
+      "clipped": false
+    },
+    {
+      "index": 6,
+      "bottom": 532,
+      "componentsAbove64": 1,
+      "clipped": false
+    },
+    {
+      "index": 7,
+      "bottom": 532,
+      "componentsAbove64": 1,
+      "clipped": false
+    },
+    {
+      "index": 8,
+      "bottom": 532,
+      "componentsAbove64": 1,
+      "clipped": false
+    },
+    {
+      "index": 9,
+      "bottom": 532,
+      "componentsAbove64": 1,
+      "clipped": false
+    },
+    {
+      "index": 10,
+      "bottom": 532,
+      "componentsAbove64": 1,
+      "clipped": false
+    },
+    {
+      "index": 11,
+      "bottom": 532,
+      "componentsAbove64": 1,
+      "clipped": false
+    },
+    {
+      "index": 12,
+      "bottom": 532,
+      "componentsAbove64": 1,
+      "clipped": false
+    },
+    {
+      "index": 13,
+      "bottom": 532,
+      "componentsAbove64": 1,
+      "clipped": false
+    },
+    {
+      "index": 14,
+      "bottom": 532,
+      "componentsAbove64": 1,
+      "clipped": false
+    },
+    {
+      "index": 15,
+      "bottom": 532,
+      "componentsAbove64": 1,
+      "clipped": false
+    },
+    {
+      "index": 16,
+      "bottom": 532,
+      "componentsAbove64": 1,
+      "clipped": false
+    },
+    {
+      "index": 17,
+      "bottom": 532,
+      "componentsAbove64": 1,
+      "clipped": false
+    }
+  ],
+  "firstLastSameSource": true,
+  "hashes": {
+    "poses.webp": "75453ada9c14d65c4f8d65e32fc5f32d6d16d2b21a6af5cc50370a51980f18a4",
+    "evidence/rest-preview.mp4": "ffa93c3d9773e9d6a7ad275959f854308392cc0eaf17d0ad4d0e5a52440ed27b",
+    "evidence/contact.jpg": "5b441f48479d0e5e7d492a0e217c9612e9d27d39ab567d065112a99436c248ce"
+  }
+}

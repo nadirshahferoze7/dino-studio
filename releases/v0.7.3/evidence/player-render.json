@@ -1,0 +1,15 @@
+{
+  "environment": "Node native Canvas, exact player.js/timeline.js; not a browser UI test",
+  "frames": 250,
+  "fps": 24,
+  "total": 10.429999999999998,
+  "firstLastPixelIdentical": true,
+  "checks": {
+    "empty": 0,
+    "clipped": 0,
+    "maximumComponentsAbove64": 1,
+    "floorMin": 532,
+    "floorMax": 532
+  },
+  "videoSHA256": "52f46b4f030f24293db25e1b3663d45d037124359f12cfec7826b8fddeb4bc75"
+}
