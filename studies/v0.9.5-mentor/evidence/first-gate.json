@@ -1,0 +1,10 @@
+{
+  "gate": "passed before batch",
+  "voice": "am_fenrir",
+  "durationMs": 3875.0,
+  "peak": 26881.0,
+  "clippedSamples": 0,
+  "cues": 38,
+  "decode": "FFmpeg passed",
+  "auditoryAssessment": "not performed"
+}

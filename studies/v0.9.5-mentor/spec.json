@@ -1,0 +1,75 @@
+{
+  "version": "v0.9.5",
+  "model": "onnx-community/Kokoro-82M-v1.0-ONNX-timestamped",
+  "modelRevision": "dd4401a9add81ac692d20e240d22ec9dda82cc29",
+  "voices": [
+    "am_fenrir",
+    "dino_fenrir_puck_75_25",
+    "dino_fenrir_michael_70_30"
+  ],
+  "lines": [
+    [
+      "Gentle guidance",
+      "Take your time. You don\u2019t have to figure everything out today."
+    ],
+    [
+      "Thoughtful advice",
+      "Being brave doesn\u2019t mean knowing every answer. Sometimes, it means asking for help."
+    ],
+    [
+      "Soothing reassurance",
+      "It\u2019s okay. Take a little breath. We\u2019ll find our way together."
+    ],
+    [
+      "Jolly encouragement",
+      "There you go! See? A little curiosity can take us somewhere wonderful!"
+    ],
+    [
+      "Quiet sadness",
+      "I miss those days too. They meant a lot to me."
+    ]
+  ],
+  "speed": 1,
+  "poseMap": {
+    "sil": 0,
+    "PP": 1,
+    "aa": 2,
+    "E": 3,
+    "I": 3,
+    "O": 4,
+    "U": 5,
+    "FF": 6,
+    "TH": 7,
+    "nn": 7,
+    "DD": 7,
+    "SS": 3,
+    "CH": 3,
+    "kk": 2,
+    "RR": 4
+  },
+  "evaluationWeights": {
+    "Naturalness": 30,
+    "Character suitability": 25,
+    "Emotional expressiveness": 20,
+    "Voice consistency": 15,
+    "Pronunciation and clarity": 10
+  },
+  "voiceLabels": {
+    "am_fenrir": "Fenrir",
+    "dino_fenrir_puck_75_25": "Fenrir + Puck",
+    "dino_fenrir_michael_70_30": "Fenrir + Michael"
+  },
+  "voiceRecipes": {
+    "am_fenrir": {
+      "am_fenrir": 1
+    },
+    "dino_fenrir_puck_75_25": {
+      "am_fenrir": 0.75,
+      "am_puck": 0.25
+    },
+    "dino_fenrir_michael_70_30": {
+      "am_fenrir": 0.7,
+      "am_michael": 0.3
+    }
+  }
+}
