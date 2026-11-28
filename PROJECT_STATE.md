@@ -166,3 +166,9 @@ Pages production d4ab5fc deployed successfully; existing mechanism also deployed
 Recovered original v0.9.1 source PNG (1,631,223bytes; SHA-2561312d10a319af176d5c8145aa7bc6f3b368bb2720ae162466dc95c6182a84922) and original build_dino_talk.py to studies/v0.9.1-speech/recovered, committed6f626fe and verified remote bytes. Historical study remains noncanonical; v0.9.1a refinement builder/evidence still unlocated, not claimed recovered.
 
 Next: creative director listens on studies/v0.9.4-auditions/ and selects Puck/Fenrir/Liam or identifies a concrete delivery/pronunciation issue. Puck remains provisional review-order lead only; no unsupported artistic ranking. Do not regenerate or load a neural model for playback. Reconcile inventory against Git before resuming transfers. Production scripts/locks preserve reproducibility; no final voice master or identity replacement approved.
+
+
+## 2026-11-28 — Fenrir preferred; mentor-range audition authorized
+Owner feedback: Puck and Fenrir are good; Fenrir is better. Desired range now includes gentle guidance, thoughtful adult advice, soothing reassurance, jolly encouragement and quiet sadness, while retaining Dino's warmth. Owner approved proceeding with the proposed five mentor/emotional test lines, Fenrir reference and two close alternatives. No permanent voice lock.
+
+Controlled v0.9.5 plan: original Fenrir, a75%Fenrir/25%Puck style blend, and a70%Fenrir/30%Michael style blend. Ratios are engineering/creative hypotheses to test identity continuity and range, not verified emotional qualities. All five lines identical at speed1; fresh Kokoro synthesis from style embeddings, no audio pitch shifting, no claimed emotion controls. Michael selected as a compatible US-male embedding with comparable upstream training-data grade to Fenrir/Puck; not an auditory assessment. Save scripts, real WAV/MP3/cues and animated previews; playback only on mobile. Previous auditions preserved; no new Actions.
