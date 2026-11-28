@@ -1,7 +1,7 @@
 {
   "version": "DINO-voice-1.0",
-  "status": "selected production recipe, frozen after director chose Variant 2 and proceeded with final acceptance scene",
-  "displayName": "Fenrir + Michael \u2014 Variant 2",
+  "status": "director-approved voice v1.0; kindness acceptance scene approved",
+  "displayName": "Fenrir + Michael — Variant 2",
   "id": "dino_fenrir_michael_70_30",
   "recipe": {
     "am_fenrir": 0.7,
@@ -20,5 +20,8 @@
   "referenceManifest": "studies/v0.9.5-mentor/manifest.json",
   "productionLocks": "studies/v0.9.5-mentor/production/",
   "emotionControl": "not available; dialogue/punctuation and inherent style only",
-  "approvalScope": "voice recipe baseline; final scene performance and visual artwork approval remain separate"
+  "approvalScope": "Selected voice recipe and delivered v0.9.6 kindness acceptance performance; original visual canon and documented technical limits retained.",
+  "approvedDate": "2026-11-28",
+  "acceptedPerformance": "studies/v0.9.6-kindness/",
+  "approvalFeedback": "agreed"
 }

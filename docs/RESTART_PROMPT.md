@@ -58,3 +58,9 @@ Current bounded milestone: selected70/30Fenrir/Michael recipe is DINO-voice-1.0,
 
 
 Voice-milestone closure: DINO-voice-1.0 recipe is frozen in characters/DINO-001/voice.json. The actual kindness acceptance scene is studies/v0.9.6-kindness/. Review saved video/audio; no model loading or more casting is necessary. Content stresses stopping hurtful teasing, listening, repair and equal belonging without labelling a person bad. Director's final creative response is the remaining artistic checkpoint. Do not infer full emotional facial acting or agent auditory assessment from technical QA.
+
+
+## 2026-11-28 — director approval; neural voice milestone complete
+Owner responded “agreed” to the delivered v0.9.6 Make room for everyone performance and its final creative-review invitation. Record director acceptance of that kindness scene and DINO-voice-1.0: 70% am_fenrir / 30% am_michael, speed1, exact pinned style/model/runtime already stored. The bounded conversation goal is complete: actual neural auditions, selected/frozen voice recipe, saved recordings/timing, verified prerecorded mobile review and an accepted final guidance scene.
+
+Approval applies to the selected voice baseline and this delivered scene. Retain documented coarse mouth/static-body limitations, lack of model emotion controls, physical-device testing limits and absence of agent auditory scoring. This does not replace canonical visual references or approve all future emotional acting. No new synthesis, media edits, casting trials or Actions. Preserve original assets and previous versions. Next work belongs to the director's next requested Project DINO milestone; no further work is required for this voice milestone.

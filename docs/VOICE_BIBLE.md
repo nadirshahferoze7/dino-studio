@@ -1,4 +1,4 @@
-# DINO-001 Voice Bible — selected recipe v1.0
+# DINO-001 Voice Bible — approved voice v1.0
 
 ## Current selected direction (2026-11-28)
 Director selected **Fenrir + Michael — Variant 2**, the 70% Fenrir / 30% Michael blend from v0.9.5. Use this exact recipe as the working voice baseline. This supersedes the earlier original-Fenrir preference. No separate final-master lock is inferred from the brief selection.
@@ -24,3 +24,9 @@ New bounded deliverable: studies/v0.9.6-kindness, one warm guidance performance 
 
 ## DINO-voice-1.0 baseline
 Owner proceeded with recipe freeze and a final kindness acceptance scene after selecting Variant2. Canonical production configuration is characters/DINO-001/voice.json. Keep70%Fenrir/30%Michael, speed1, pinned runtime/model/style hash. The recipe baseline is frozen; v0.9.6 scene and future artistic performances still require director review. No guarantee of controlled emotional acting. No more casting is needed for this bounded milestone.
+
+
+## 2026-11-28 — director approval; neural voice milestone complete
+Owner responded “agreed” to the delivered v0.9.6 Make room for everyone performance and its final creative-review invitation. Record director acceptance of that kindness scene and DINO-voice-1.0: 70% am_fenrir / 30% am_michael, speed1, exact pinned style/model/runtime already stored. The bounded conversation goal is complete: actual neural auditions, selected/frozen voice recipe, saved recordings/timing, verified prerecorded mobile review and an accepted final guidance scene.
+
+Approval applies to the selected voice baseline and this delivered scene. Retain documented coarse mouth/static-body limitations, lack of model emotion controls, physical-device testing limits and absence of agent auditory scoring. This does not replace canonical visual references or approve all future emotional acting. No new synthesis, media edits, casting trials or Actions. Preserve original assets and previous versions. Next work belongs to the director's next requested Project DINO milestone; no further work is required for this voice milestone.

@@ -12,7 +12,7 @@ A persistent, code-controlled creative studio for an original dinosaur character
 The owner approves the creative direction. AI agents perform as much of the technical and creative production as available tools allow. The repository is the durable source of project memory; conversations are not the source of truth.
 
 ## Current status
-Approved hero and turnaround remain the visual authority. Waving, v0.5.1 gait and v0.8.0 complete rest are accepted. **Dino voice1.0** uses the director-selected70%Fenrir/30%Michael recipe. Current acceptance scene: [Make room for everyone](https://nadirshahferoze7.github.io/dino-studio/studies/v0.9.6-kindness/), a31-second message about teasing, repair and belonging. Actual prerecorded speech, captioned talking video and reusable timing; no model execution on mobile. Scene creative review remains separate. [Mentor auditions](https://nadirshahferoze7.github.io/dino-studio/studies/v0.9.5-mentor/) and all prior versions retained. See PROJECT_STATE for current QA.
+Approved hero and turnaround remain the visual authority. Waving, v0.5.1 gait and v0.8.0 complete rest are accepted. **Dino voice1.0** uses the director-selected70%Fenrir/30%Michael recipe. Current acceptance scene: [Make room for everyone](https://nadirshahferoze7.github.io/dino-studio/studies/v0.9.6-kindness/), a31-second message about teasing, repair and belonging. Actual prerecorded speech, captioned talking video and reusable timing; no model execution on mobile. Director approved this acceptance scene on 28 November 2026; the voice milestone is complete. [Mentor auditions](https://nadirshahferoze7.github.io/dino-studio/studies/v0.9.5-mentor/) and all prior versions retained. See PROJECT_STATE for current QA.
 
 Repository is public. Do not commit personal information, secrets, credentials, or unrelated conversation history.
 
@@ -62,3 +62,9 @@ Recovered study: [v0.7.2](https://nadirshahferoze7.github.io/dino-studio/release
 Latest experiment: [v0.7.3 authored-pose staging study](https://nadirshahferoze7.github.io/dino-studio/releases/v0.7.3/). Crisp source poses replace texture morphing, but movement remains stepped and cross-sheet consistency unresolved. Not accepted; v0.5.1 remains approved.
 
 Latest focused experiment: [v0.7.4 lowering transition](https://nadirshahferoze7.github.io/dino-studio/releases/v0.7.4/). Eight closely spaced complete drawings; remaining tail and volume drift. Not accepted; v0.5.1 remains approved.
+
+
+## 2026-11-28 — director approval; neural voice milestone complete
+Owner responded “agreed” to the delivered v0.9.6 Make room for everyone performance and its final creative-review invitation. Record director acceptance of that kindness scene and DINO-voice-1.0: 70% am_fenrir / 30% am_michael, speed1, exact pinned style/model/runtime already stored. The bounded conversation goal is complete: actual neural auditions, selected/frozen voice recipe, saved recordings/timing, verified prerecorded mobile review and an accepted final guidance scene.
+
+Approval applies to the selected voice baseline and this delivered scene. Retain documented coarse mouth/static-body limitations, lack of model emotion controls, physical-device testing limits and absence of agent auditory scoring. This does not replace canonical visual references or approve all future emotional acting. No new synthesis, media edits, casting trials or Actions. Preserve original assets and previous versions. Next work belongs to the director's next requested Project DINO milestone; no further work is required for this voice milestone.
