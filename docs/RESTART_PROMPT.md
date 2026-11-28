@@ -51,3 +51,7 @@ Current direction: director prefers Fenrir over Puck and wants warm mentor range
 
 
 For mentor-range review, open the saved v0.9.5 page and compare the same five moments. The original Fenrir is the preferred reference;75/25Fenrir/Puck and70/30Fenrir/Michael blends are candidates, not approved emotional upgrades. No permanent selection is implied by proceeding with auditions. Model execution stays in production, never in review. Preserve exact recorded bytes and style-bank hashes; next depends on director listening feedback.
+
+
+## 2026-11-28 — selected-voice acceptance scene
+Current bounded milestone: selected70/30Fenrir/Michael recipe is DINO-voice-1.0, config characters/DINO-001/voice.json. Read studies/v0.9.6-kindness/README.md, SCRIPT.md and performance.json. The31-second kindness acceptance scene addresses teasing without shame, repairs harm and affirms belonging. Use saved media for review; no recasting or mobile inference. Follow final PROJECT_STATE entries for hosted QA and director feedback.

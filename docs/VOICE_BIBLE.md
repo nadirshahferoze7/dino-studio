@@ -1,4 +1,4 @@
-# DINO-001 Voice Bible — provisional
+# DINO-001 Voice Bible — selected recipe v1.0
 
 ## Current selected direction (2026-11-28)
 Director selected **Fenrir + Michael — Variant 2**, the 70% Fenrir / 30% Michael blend from v0.9.5. Use this exact recipe as the working voice baseline. This supersedes the earlier original-Fenrir preference. No separate final-master lock is inferred from the brief selection.
@@ -20,3 +20,7 @@ Owner identified “Fenrir + Michael — VARIANT 2” after the mentor auditions
 Owner proceeded with the proposed voice-baseline freeze/final short scene and requested a compassionate English message about bullying/teasing: discourage making fun of others, invite reflection without shaming, and communicate belonging and a path to repair. Freeze selected70%Fenrir/30%Michael recipe as DINO-voice-1.0 production baseline, not a guarantee of emotional acting or approval of the not-yet-rendered scene. Preserve exact v0.9.5 style bank SHA2566ab7a8eea45135d560b9bbd53a3f2c3a02caa3603c997137061d3d8149b4122e, model/runtime/speed1. No recasting.
 
 New bounded deliverable: studies/v0.9.6-kindness, one warm guidance performance titled Make room for everyone. Script addresses behaviour and hurt, stop/listen, apologise/repair and inclusion; avoids calling anyone bad or blaming the target. Existing character artwork/voice assets reused; prerecorded video/audio/timing and a simple review page. Existing welcoming speaking expression is retained; no new character redesign or guaranteed emotional-control claims. Scene artistic approval remains for review. No new Actions.
+
+
+## DINO-voice-1.0 baseline
+Owner proceeded with recipe freeze and a final kindness acceptance scene after selecting Variant2. Canonical production configuration is characters/DINO-001/voice.json. Keep70%Fenrir/30%Michael, speed1, pinned runtime/model/style hash. The recipe baseline is frozen; v0.9.6 scene and future artistic performances still require director review. No guarantee of controlled emotional acting. No more casting is needed for this bounded milestone.

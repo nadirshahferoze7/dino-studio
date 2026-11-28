@@ -11,3 +11,7 @@ Controlled shortlist: am_puck,am_fenrir,am_liam, five identical lines each at sp
 Current mentor-range production is v0.9.5: original Fenrir plus75/25Fenrir/Puck and70/30Fenrir/Michael style banks, same five approved mentor lines, speed1. Blend scripts/source locks/actual derivative .bin files are preserved. Generator requests raw PCM and writes a valid RIFF container, retaining all PCM samples. Review remains prerecorded only. No emotional conditioning, pitch effects or auditory-score claims.
 
 Mentor v0.9.5 hosted playback and360/390/430px layout checks passed. Audio quality remains for director listening; no emotional-control guarantee or permanent selection. Production remains model execution; review remains saved-asset playback only.
+
+
+## 2026-11-28 — selected-voice acceptance scene
+v0.9.6 kindness acceptance scene uses the frozen selected recipe, no casting sweep or engine change.3 raw-PCM chapters concatenated with explicit pauses, original samples retained; predicted mouth/word timing offset by exact PCM sample counts. Rendered video carries captions. Review remains saved video/audio only.

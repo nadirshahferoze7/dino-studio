@@ -1,0 +1,131 @@
+{
+  "scope": "v0.9.6 source/media/evidence before hosted QA; excludes itself; exact previous style bank/atlas reused",
+  "files": [
+    {
+      "path": "studies/v0.9.6-kindness/README.md",
+      "bytes": 2697,
+      "sha256": "2ac4f7df8d1f411d4ef9dfb74809c57cfa3163e19657135f07a7a9f96b84168e",
+      "gitBlob": "50b1fd179ed90002af433e470de2afa8f8888b58"
+    },
+    {
+      "path": "studies/v0.9.6-kindness/index.html",
+      "bytes": 4447,
+      "sha256": "f4f33289f0c1f75d65f194eaf5464ae0dada448fb5fdad30192915a08d338c8c",
+      "gitBlob": "6fe99dc4e5888c75b6fbbf45a2ee702eb06187ab"
+    },
+    {
+      "path": "studies/v0.9.6-kindness/spec.json",
+      "bytes": 1451,
+      "sha256": "f054a98eb0f1eb72d45cd08c705a21e9248218501372aace5469fe04cdb22621",
+      "gitBlob": "4228ebc88098551b4a2c629149d724ad3e1aec48"
+    },
+    {
+      "path": "studies/v0.9.6-kindness/SCRIPT.md",
+      "bytes": 650,
+      "sha256": "3e841d8f5aa71ea13ced05b705636212e620e13b44b1b2d09df534fbef8a6915",
+      "gitBlob": "2606ec29247bf362e4c3ba28c16197af6e087b63"
+    },
+    {
+      "path": "studies/v0.9.6-kindness/performance.json",
+      "bytes": 36276,
+      "sha256": "68ad4fbf08919b28985a81e8d1ea098fd6f88737b77692b95fb8ec648396a2f2",
+      "gitBlob": "c60db3e7a5b448081ff73dd777ec59eca91edc5a"
+    },
+    {
+      "path": "studies/v0.9.6-kindness/evidence/mobile-check.html",
+      "bytes": 970,
+      "sha256": "c8039376854899d504026e2aada025a9b3e35d8051bf7ac908610d11874671a7",
+      "gitBlob": "6ffc5b07c96e891b0cbb114af53795a004ad4eff"
+    },
+    {
+      "path": "studies/v0.9.6-kindness/evidence/validation.json",
+      "bytes": 37559,
+      "sha256": "c667252e452c10b34719146b0df34b7bdd08be843fc3a362452779c8eb8bc5fa",
+      "gitBlob": "979aaaa4e0dc17793e73c3be7491d890c10ecb81"
+    },
+    {
+      "path": "studies/v0.9.6-kindness/evidence/contact.jpg",
+      "bytes": 289271,
+      "sha256": "3d03aeab2f701514fb4fc3d484d428e9a23d08d105d1f2cd759938f97910da80",
+      "gitBlob": "51e6bcf73fc4113a8da8f15766287a274b541334"
+    },
+    {
+      "path": "studies/v0.9.6-kindness/media/kindness.wav",
+      "bytes": 1483244,
+      "sha256": "a1968f383fd8546f91d11ce81606b07fef9451c07896cb17ec025cf1c048ed65",
+      "gitBlob": "d95e8ef42ec06ba3d4322a7ec2c96a6f33050175"
+    },
+    {
+      "path": "studies/v0.9.6-kindness/media/poster.jpg",
+      "bytes": 56130,
+      "sha256": "4ade6929d4d8c96402ff44aaa8055835bd2fab04873eac52c7b00293b12f6b59",
+      "gitBlob": "2e9753e2379c91d0c9b18ef7faf3267db165ce81"
+    },
+    {
+      "path": "studies/v0.9.6-kindness/media/kindness.mp4",
+      "bytes": 746063,
+      "sha256": "8ca97835fa4140bf7db69e9f7cdb8d8a17e724c7131309568260d0addc84918c",
+      "gitBlob": "9f8e1a59d1b7651f70be3791a2e44370e5111507"
+    },
+    {
+      "path": "studies/v0.9.6-kindness/media/kindness.mp3",
+      "bytes": 258884,
+      "sha256": "27af7759f353dbfc84dd931c183d135494f77dc9679320cd2c39bc7d093648ae",
+      "gitBlob": "d52d5c2cfd903d67be4e4f5d640ed0f416b3fbb3"
+    },
+    {
+      "path": "studies/v0.9.6-kindness/media/captions.vtt",
+      "bytes": 766,
+      "sha256": "66772263223dce6891733b244b13168c5db6c58033266bf1a98375c37a7da20e",
+      "gitBlob": "73ff14fa9fb7caecb4bb39e9b6a4060f3004bc48"
+    },
+    {
+      "path": "studies/v0.9.6-kindness/timing/dino_fenrir_michael_70_30-1.json",
+      "bytes": 17324,
+      "sha256": "0485d0e120cbb94b5864ef1542e00cf2d538bc8ed0128362504a686c297bac58",
+      "gitBlob": "5420d857d61a9943aba69ccc606781e68f335260"
+    },
+    {
+      "path": "studies/v0.9.6-kindness/timing/dino_fenrir_michael_70_30-3.json",
+      "bytes": 19053,
+      "sha256": "ada997bf868a285e62a40b260d6b6dc26cc847370f13500d21311ba0830acaa6",
+      "gitBlob": "568ab19127657e442ea6d31772eaef0ab65b489b"
+    },
+    {
+      "path": "studies/v0.9.6-kindness/timing/dino_fenrir_michael_70_30-2.json",
+      "bytes": 12837,
+      "sha256": "ee9aeee347a8fcc8ff951af3f858a10a31d21621185d55cb39dc5e70329fa4cb",
+      "gitBlob": "ca9c2d9fc214270d1c7fb696cc09b63dd312efa5"
+    },
+    {
+      "path": "studies/v0.9.6-kindness/production/scene.py",
+      "bytes": 7221,
+      "sha256": "0e716dd27e175126b221d27ea73dbab253059a1b8a6d51a87305c920eaede067",
+      "gitBlob": "14b4a462cb849f326839111d153445ad4702c1ac"
+    },
+    {
+      "path": "studies/v0.9.6-kindness/production/generate.mjs",
+      "bytes": 4089,
+      "sha256": "eb91b75e1f3933373d79c656e0c519424e7616446bd3e3eaea0504cc6587e9a8",
+      "gitBlob": "c51a5af255e0ca9b680657210db785697f395f29"
+    },
+    {
+      "path": "studies/v0.9.6-kindness/audio/dino_fenrir_michael_70_30-2.wav",
+      "bytes": 348044,
+      "sha256": "09f7f4468c313d9883d77c46a89d809446ae87dc79f4774d1b8c9503647b7b14",
+      "gitBlob": "f2523152c7ba0a400b1301c6566b57f4a861bab0"
+    },
+    {
+      "path": "studies/v0.9.6-kindness/audio/dino_fenrir_michael_70_30-1.wav",
+      "bytes": 489644,
+      "sha256": "2a04ac00a82c09c121d8249b49d45d2b3d71501739a27a1d9530f24d662895c2",
+      "gitBlob": "e96b841eae3145e8f4c74a3cfe0e32d4276cfd2f"
+    },
+    {
+      "path": "studies/v0.9.6-kindness/audio/dino_fenrir_michael_70_30-3.wav",
+      "bytes": 540044,
+      "sha256": "15892b07c5bbed0c22ce72cd6c14676c5982468ef94238cf6275d905d98cd48c",
+      "gitBlob": "07c6157b28cc3de18986c5ce1a44dee08295afee"
+    }
+  ]
+}
