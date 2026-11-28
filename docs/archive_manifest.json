@@ -1055,6 +1055,16 @@
           "git_blob_sha": "2a31448216249a41dbcb6272ecd5ef738ee00391"
         }
       ]
+    },
+    {
+      "version": "v0.9.5",
+      "status": "Mentor-range neural audition; hosted playback/viewport QA passed; new blends unreviewed",
+      "inventory": "studies/v0.9.5-mentor/asset-inventory.json",
+      "sha256": "c117b1ffa129143a9a863fd897abbc25973142abd2701b7e3ae06ba5ac0382c8",
+      "git_blob_sha": "1c6048bb5be067dd4da32b28e2cf358bcd49f603",
+      "files": 79,
+      "validation": "studies/v0.9.5-mentor/evidence/audio-validation.json",
+      "hosted_validation": "studies/v0.9.5-mentor/evidence/hosted-review.json"
     }
   ]
 }

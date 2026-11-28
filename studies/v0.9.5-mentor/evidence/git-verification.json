@@ -1,0 +1,478 @@
+{
+  "verifiedCommit": "e9e4268586b357894d68d53041ae6d93027cb10e",
+  "method": "Fetched remote Git bytes compared with complete local bytes, sizes, SHA256 and blob IDs",
+  "files": [
+    {
+      "path": "studies/v0.9.5-mentor/README.md",
+      "bytes": 4131,
+      "sha256": "baed42f315eff8ec3375c268f1f0b76362c4a6725a6b8b8ff8f26293424390f5",
+      "gitBlob": "ebe149ae934122b4d9b3ac62330b645346e14baf"
+    },
+    {
+      "path": "studies/v0.9.5-mentor/asset-inventory.json",
+      "bytes": 19302,
+      "sha256": "3fe9f06254df2e426514d5764be7ca502613f74a08e4ab9583e54999bfdba725",
+      "gitBlob": "3456ae7fd154ce1f8eb5cb6e8643e8260bdd82aa"
+    },
+    {
+      "path": "studies/v0.9.5-mentor/index.html",
+      "bytes": 3559,
+      "sha256": "67584f84aff14be619d2766e8947fd2ba93b9d734c2f9f5833bcd71a82cb0d87",
+      "gitBlob": "48d218367ee5bcf81993e81636a6975ebfa16656"
+    },
+    {
+      "path": "studies/v0.9.5-mentor/spec.json",
+      "bytes": 1660,
+      "sha256": "155b3ce0fb18b9a420eaf2bacb7a53847473b25f791fd8354b61ad2aa0684ece",
+      "gitBlob": "3fd6142bee85ebf2383e4ba88cdd868559aeb493"
+    },
+    {
+      "path": "studies/v0.9.5-mentor/manifest.json",
+      "bytes": 6682,
+      "sha256": "255a4bbd57a5218d0d67e51226921df1543e62cb000c5fb663019e70ce194143",
+      "gitBlob": "fbf92e0a408a0f03187ea3b2a4dad8fd3993a2c9"
+    },
+    {
+      "path": "studies/v0.9.5-mentor/review.mjs",
+      "bytes": 5421,
+      "sha256": "635ce777532e37f427508119766f9b1af7fbbb64e2b9351a2fd8b245df6004f3",
+      "gitBlob": "602c41f987e15b81e6a1a892003b0fdfcbedf021"
+    },
+    {
+      "path": "studies/v0.9.5-mentor/evidence/mobile-check.html",
+      "bytes": 970,
+      "sha256": "c8039376854899d504026e2aada025a9b3e35d8051bf7ac908610d11874671a7",
+      "gitBlob": "6ffc5b07c96e891b0cbb114af53795a004ad4eff"
+    },
+    {
+      "path": "studies/v0.9.5-mentor/evidence/dino_fenrir_michael_70_30-contact.jpg",
+      "bytes": 230374,
+      "sha256": "5cb69fb67da97e481aa582b6c9db4966ffc17aa0b43398059551a3eb7585131a",
+      "gitBlob": "62bcf4ba405e5518fa8c10facb00b453cc0e251d"
+    },
+    {
+      "path": "studies/v0.9.5-mentor/evidence/dino_fenrir_michael_70_30-poster.jpg",
+      "bytes": 35721,
+      "sha256": "4c2e0e5a6d6832058c906d4cc02759333861da42b977c0d5b51d99f543befb6a",
+      "gitBlob": "be3256dbbe85912baed188eabc1bcf5ec18fc2f1"
+    },
+    {
+      "path": "studies/v0.9.5-mentor/evidence/first-gate.json",
+      "bytes": 209,
+      "sha256": "4e517de9128d262aa2bb4aef5c48d84aa336bea03faf1d8e69b908baa2b08bcc",
+      "gitBlob": "d708982da75f0bfc8f85aaec7a6b857233e19b1a"
+    },
+    {
+      "path": "studies/v0.9.5-mentor/evidence/dino_fenrir_puck_75_25-render.json",
+      "bytes": 49977,
+      "sha256": "0d03aa8a5526b711a854af2a59c4c4460d459aacb34321e2447626d257b4d553",
+      "gitBlob": "b9dd45367f24f29fc25a5e62ee758fd4be3e6b30"
+    },
+    {
+      "path": "studies/v0.9.5-mentor/evidence/dino_fenrir_puck_75_25-poster.jpg",
+      "bytes": 35413,
+      "sha256": "ab6367b8f564d8fbd392646b9081ab2decd3d28449576cb928136a33938df879",
+      "gitBlob": "83984b21cf10e4207bf316948b17c7bae8b37b5e"
+    },
+    {
+      "path": "studies/v0.9.5-mentor/evidence/audio-validation.json",
+      "bytes": 8134,
+      "sha256": "5c67d30052f2d3d984ebcaa727f38c57d82efddffddfc5ed350c2c4dd3757b42",
+      "gitBlob": "f809ee0587b5ef856213b397e1d50ff0f5e4e787"
+    },
+    {
+      "path": "studies/v0.9.5-mentor/evidence/dino_fenrir_puck_75_25-contact.jpg",
+      "bytes": 228746,
+      "sha256": "df1f471e4e14feae01ed5fbc3e25e8cbaec9084ddddb9fad83cb158e63f2c853",
+      "gitBlob": "76c65936957201fa9bed1fd79918068293caa26b"
+    },
+    {
+      "path": "studies/v0.9.5-mentor/evidence/dino_fenrir_michael_70_30-render.json",
+      "bytes": 51865,
+      "sha256": "de50dd6f491beb335fd4300edaf91dc3b51d4d1de5d6e7c272a5ffefe2f3b6c9",
+      "gitBlob": "4670c85f8b28bf1f0a23bba60d8baca471e718f9"
+    },
+    {
+      "path": "studies/v0.9.5-mentor/evidence/am_fenrir-contact.jpg",
+      "bytes": 223461,
+      "sha256": "c8597187d4c3ba3fb32612916b2edc196ee6754ba5a1e06d00a227fefdd24920",
+      "gitBlob": "0b5c006f269a29929503af8155ba19dacb56c8bf"
+    },
+    {
+      "path": "studies/v0.9.5-mentor/evidence/am_fenrir-render.json",
+      "bytes": 50212,
+      "sha256": "9b530725042e6c35681fc29ed7af51d413bff9b340ef8677bade4235fd5a04ac",
+      "gitBlob": "b9463a0b4a0698572a6e531d7faddddeee2c7038"
+    },
+    {
+      "path": "studies/v0.9.5-mentor/evidence/am_fenrir-poster.jpg",
+      "bytes": 34671,
+      "sha256": "a9144935cfc2e7165cfb15c928cdb3a9f79cf6859f6827584ec44fc152488b81",
+      "gitBlob": "e3732d621193ce5109bf43bd7b2af721e9f50a13"
+    },
+    {
+      "path": "studies/v0.9.5-mentor/evidence/selection-notes.md",
+      "bytes": 1600,
+      "sha256": "a7f76927d061781af7d12971ccfe4d38c527e598928e4cb88d3c9023349faf47",
+      "gitBlob": "fdaad5876b40b8e27d5d4b37efb2696df42d7431"
+    },
+    {
+      "path": "studies/v0.9.5-mentor/timing/dino_fenrir_puck_75_25-5.json",
+      "bytes": 5611,
+      "sha256": "77fade5c578416d6ba8724f21866f485a3716576fb2861b76820e822e56c804c",
+      "gitBlob": "1622ff99529195a2236aa1afef40def200ad32e7"
+    },
+    {
+      "path": "studies/v0.9.5-mentor/timing/dino_fenrir_puck_75_25-4.json",
+      "bytes": 9191,
+      "sha256": "8138feec081e00d985177967624352bd47832ca6ae6b2ceb1aa29394f48660fe",
+      "gitBlob": "2cb78ef57eba8310995b957d242b735239990f48"
+    },
+    {
+      "path": "studies/v0.9.5-mentor/timing/dino_fenrir_puck_75_25-3.json",
+      "bytes": 7564,
+      "sha256": "6590f8c6fd16e9c8ad48bae72afb0a5926f372e283793a05d7ac19fda91fde67",
+      "gitBlob": "1a0149a36245ac907008048c68bba70873a2459d"
+    },
+    {
+      "path": "studies/v0.9.5-mentor/timing/dino_fenrir_michael_70_30-1.json",
+      "bytes": 7565,
+      "sha256": "74f353b463552c5f5f2f6db102b8f748c90f223bb30ce28558710afe37904641",
+      "gitBlob": "df345580bbed05fb8d86d9ee2cb60edd5dc96ae7"
+    },
+    {
+      "path": "studies/v0.9.5-mentor/timing/dino_fenrir_puck_75_25-2.json",
+      "bytes": 10379,
+      "sha256": "d3a8350370bd7dbb618b0093c923ad999c7943a157778ff1208d7ad733bf3b1b",
+      "gitBlob": "d4cf77af718d8b1e12e9b411c7c52924c35b68c3"
+    },
+    {
+      "path": "studies/v0.9.5-mentor/timing/am_fenrir-1.json",
+      "bytes": 7498,
+      "sha256": "e59784325f92e2fba670ef9ba75b9dbaea7734cd79e1451b1f5f0ccaef466345",
+      "gitBlob": "422dee31de65b543476d422982fbb1d1339f914f"
+    },
+    {
+      "path": "studies/v0.9.5-mentor/timing/dino_fenrir_michael_70_30-3.json",
+      "bytes": 7579,
+      "sha256": "83ee3a4462766bb84f3243237b0ef51661798485584d320cfb14a1200678716c",
+      "gitBlob": "54d5fa54744369ca6c23b328be1ca04f3193f894"
+    },
+    {
+      "path": "studies/v0.9.5-mentor/timing/dino_fenrir_michael_70_30-2.json",
+      "bytes": 10396,
+      "sha256": "7b024f5f66620e29f37a02565d1124a1f5651882be66549180d0deab889f13f8",
+      "gitBlob": "72a647d90b673f21e90e9cbfc2daab3df8267b01"
+    },
+    {
+      "path": "studies/v0.9.5-mentor/timing/dino_fenrir_michael_70_30-5.json",
+      "bytes": 5623,
+      "sha256": "9a8230bc4f54b36275e407fec92ce6cf3dcf32c81edcbede7ddbf42dec1788a3",
+      "gitBlob": "0f537d45654765e8d8c14d1ffc764b739971b345"
+    },
+    {
+      "path": "studies/v0.9.5-mentor/timing/dino_fenrir_michael_70_30-4.json",
+      "bytes": 9203,
+      "sha256": "95ead941df788e3c8b9960182ec5e6268c50c05d6668d0eeee4d2801dda5b609",
+      "gitBlob": "84e2cb6ff91f0588866259c9de029670d38ab2b9"
+    },
+    {
+      "path": "studies/v0.9.5-mentor/timing/am_fenrir-4.json",
+      "bytes": 9136,
+      "sha256": "6721c6f75eb84102432695ae72a4dbffc38620a481878f5803c4333b57991310",
+      "gitBlob": "0620f63270e2529ec4223907501481991df58cf5"
+    },
+    {
+      "path": "studies/v0.9.5-mentor/timing/am_fenrir-2.json",
+      "bytes": 10324,
+      "sha256": "66cc379e3f6e7e19bc8ae4687b2cae3223c1f50ce2c8e8e8771c8172e6ae18ce",
+      "gitBlob": "0f3ac3984c3d148d094c5cb59d60c23a683562de"
+    },
+    {
+      "path": "studies/v0.9.5-mentor/timing/am_fenrir-5.json",
+      "bytes": 5554,
+      "sha256": "0a4b455449cda56a23e625d78f10c68662fded8d91e79942b509355c49cd4589",
+      "gitBlob": "10b101fb7d7f75b5633ee29965a46226179c969d"
+    },
+    {
+      "path": "studies/v0.9.5-mentor/timing/am_fenrir-3.json",
+      "bytes": 7509,
+      "sha256": "bc67957cc80c89376ea4654772f9ecbf2097c4f643205d7d9fbd1ea9fb568893",
+      "gitBlob": "3377273f4130b70d48b61efa79069278cf02c24e"
+    },
+    {
+      "path": "studies/v0.9.5-mentor/timing/dino_fenrir_puck_75_25-1.json",
+      "bytes": 7553,
+      "sha256": "d9bb80e8ea4ee9973f9a0f2b8466a0069ccd585f3ae6d7735c770ec37d54b769",
+      "gitBlob": "78940edbb3f8dd45fbd3da4c6e93860e6c51cb27"
+    },
+    {
+      "path": "studies/v0.9.5-mentor/previews/dino_fenrir_puck_75_25.mp4",
+      "bytes": 532155,
+      "sha256": "e1ebaadd71a191d1dd8467946b62ea3ec5fca64cd154284256711a735ae36829",
+      "gitBlob": "1ce9d3ea42d0377680da1273795f683eeae30e5d"
+    },
+    {
+      "path": "studies/v0.9.5-mentor/previews/dino_fenrir_michael_70_30.mp4",
+      "bytes": 552167,
+      "sha256": "8dc4f8efda75a188725ba73a1457d42270726dbf786add871ee1ee38a3789543",
+      "gitBlob": "af4184a989e91e7e5b38a22904462042ac572dc8"
+    },
+    {
+      "path": "studies/v0.9.5-mentor/previews/am_fenrir.mp4",
+      "bytes": 534336,
+      "sha256": "40d1b099298b82ff5e23f220cc4b416cb1ef48884f30ce2ca82db52a0e431c7f",
+      "gitBlob": "88df6ba894b6fe7f6e92a908d4914b27606249da"
+    },
+    {
+      "path": "studies/v0.9.5-mentor/production/finish.py",
+      "bytes": 6163,
+      "sha256": "d82cb944a4661b670e94da521d9d26b738453f23410dd1512b193d7986f88a51",
+      "gitBlob": "cfd2f025b714c0c819e910ab11effa383282b988"
+    },
+    {
+      "path": "studies/v0.9.5-mentor/production/blend-lock.json",
+      "bytes": 1382,
+      "sha256": "af0a2005e6106177f4117cb0bcc51a1e7062b8b6d10f23498566493b71d6a876",
+      "gitBlob": "7b120e66a0c00e9c5f1a8abaa7d76c80312a34c7"
+    },
+    {
+      "path": "studies/v0.9.5-mentor/production/model-lock.json",
+      "bytes": 1217,
+      "sha256": "9c94afe8ee4f7afd2202b1680367ec3cb2c222a3cfa9ec0564c594a4af447bce",
+      "gitBlob": "71361d266a10198eafd4d4c662c026a1e30ef4fa"
+    },
+    {
+      "path": "studies/v0.9.5-mentor/production/blend.py",
+      "bytes": 1559,
+      "sha256": "4a6c96b1c29231813a1bbe7cd2f34b09b79c8f776b01f97665e28da60cc76baf",
+      "gitBlob": "c1120be4eaaf3ee3a246c6e15ef1f41152421f12"
+    },
+    {
+      "path": "studies/v0.9.5-mentor/production/generate.mjs",
+      "bytes": 4034,
+      "sha256": "355fcd6152764ad37d156ab2f4935c22a8569f12c62a3e5da45bf144edadec38",
+      "gitBlob": "94200eef3ed2d88689788e59826d5c32c4e27700"
+    },
+    {
+      "path": "studies/v0.9.5-mentor/production/package-lock.json",
+      "bytes": 36181,
+      "sha256": "58ff63fd8bdf91d49132baeb6729e3958687b386a6aee330d4cbd369070987b9",
+      "gitBlob": "a1f7f28e0ac2036b24f2d47e8455c75fd2ed3565"
+    },
+    {
+      "path": "studies/v0.9.5-mentor/production/prepare.py",
+      "bytes": 862,
+      "sha256": "f2c8409c702548366fec38fff1732c64fae0b44c4d70409a1673aabb265665c1",
+      "gitBlob": "b48c39a2c62262f798a50f81bfc52fb5bb7994bb"
+    },
+    {
+      "path": "studies/v0.9.5-mentor/production/package.json",
+      "bytes": 309,
+      "sha256": "02154f4186cfd591a7be3f55b256dbf1ad3627c83f2fef3017b34522a7299012",
+      "gitBlob": "07b810b1812db709763aa79844d8cd7826a8b7b2"
+    },
+    {
+      "path": "studies/v0.9.5-mentor/production/.gitignore",
+      "bytes": 20,
+      "sha256": "f70887f56461f00da5042a91e60ffc884ddc28d663513e9325cad4ec7ed016bc",
+      "gitBlob": "8a5db08c226da19aa3f3dd11637a861e0a56e45b"
+    },
+    {
+      "path": "studies/v0.9.5-mentor/audio/dino_fenrir_puck_75_25-4.wav",
+      "bytes": 222044,
+      "sha256": "c0493d2a3c141622eb14a4498a382a6266167a2cecf819b3a5236eb79ed3d658",
+      "gitBlob": "e0e62d981f5143a1a873116539ac8224b808dacf"
+    },
+    {
+      "path": "studies/v0.9.5-mentor/audio/dino_fenrir_michael_70_30-2.wav",
+      "bytes": 288044,
+      "sha256": "780822b27f44db5389e7bf851e85a0f994ade0906646220edea2515b4b6b3c2e",
+      "gitBlob": "aa738d4837dc44123d1f450eceb65b343cf2c6a3"
+    },
+    {
+      "path": "studies/v0.9.5-mentor/audio/am_fenrir-3.mp3",
+      "bytes": 34988,
+      "sha256": "9ac660bfe723253c04f5971b79dcdffae30d9625a9234cfb30ff8712128cf0de",
+      "gitBlob": "0dbbbe7e3a91a3a7abff255663e9343c18c008f6"
+    },
+    {
+      "path": "studies/v0.9.5-mentor/audio/dino_fenrir_michael_70_30-5.mp3",
+      "bytes": 27548,
+      "sha256": "f6d753ee1e91c873aefc31b9024cbea839fc22d867e5d02f890f60ba1d9ef0e5",
+      "gitBlob": "a2f755170342d820770b8f03078a58c433a66bd5"
+    },
+    {
+      "path": "studies/v0.9.5-mentor/audio/dino_fenrir_puck_75_25-1.mp3",
+      "bytes": 33860,
+      "sha256": "c16ffea1d2931f0888ae3e78d1bd7cc892f1b6c3c3ba5f39db40239b341bc635",
+      "gitBlob": "fb2b066c6c55e562a63be9642b5fa281d4673607"
+    },
+    {
+      "path": "studies/v0.9.5-mentor/audio/am_fenrir-1.wav",
+      "bytes": 186044,
+      "sha256": "4b8b9770f78d41cca6ab996144da0ed596e31e83cce8be3a6f90acba79970e01",
+      "gitBlob": "7c86c6ce5bdac5c23d8f11e7ba2a242cdbbadd4f"
+    },
+    {
+      "path": "studies/v0.9.5-mentor/audio/dino_fenrir_michael_70_30-5.wav",
+      "bytes": 166844,
+      "sha256": "9c057bdeda5ca11322aef6adfca200d31343955cad6d45b3b7f220d6965eea31",
+      "gitBlob": "3451957e59f6400cc39258da4c22c0d7cf735fc4"
+    },
+    {
+      "path": "studies/v0.9.5-mentor/audio/dino_fenrir_puck_75_25-5.mp3",
+      "bytes": 27068,
+      "sha256": "9823a82a7f572f4af2591010aa9d5d152aafbe799de5cf7d3960f7f4012729c6",
+      "gitBlob": "282a6804ceb17fa0d34937c699f789bc22530585"
+    },
+    {
+      "path": "studies/v0.9.5-mentor/audio/am_fenrir-1.mp3",
+      "bytes": 34172,
+      "sha256": "2937e7d5c37ebacba8c758a2d8a7e29a85b9b291e0f3a1955be7a610dbeadc47",
+      "gitBlob": "96852ed525b6f8aeccfaf599e1fa296e3f25fd3e"
+    },
+    {
+      "path": "studies/v0.9.5-mentor/audio/dino_fenrir_puck_75_25-3.mp3",
+      "bytes": 35348,
+      "sha256": "c953f0ba16ec83e0b23d7866cf5af82ab3311f79a0323c12bd75da073bab43f0",
+      "gitBlob": "32a3789a18258b9a05197d8febaeb783d4513ca4"
+    },
+    {
+      "path": "studies/v0.9.5-mentor/audio/dino_fenrir_puck_75_25-2.wav",
+      "bytes": 279644,
+      "sha256": "921c38859ecde588a56a508bbd252310b9b585b617470a3e04b94a0d32c26131",
+      "gitBlob": "f4375aa38f52eb81ee7847fc4b7350f493147c0b"
+    },
+    {
+      "path": "studies/v0.9.5-mentor/audio/am_fenrir-5.mp3",
+      "bytes": 26252,
+      "sha256": "dc0f42c3e5e08897150b354d65797eca2606635e33dae5f22b25d88847b0ca4d",
+      "gitBlob": "e5d132b4b78a43ed919644f466b792e0a6be3f8b"
+    },
+    {
+      "path": "studies/v0.9.5-mentor/audio/dino_fenrir_puck_75_25-2.mp3",
+      "bytes": 52868,
+      "sha256": "045b86d2e719219d962fe6c81a28f2d7602c31224c1285d5c23ec366b26ee68d",
+      "gitBlob": "29885234710326f09e703812c5331e454a2cceef"
+    },
+    {
+      "path": "studies/v0.9.5-mentor/audio/am_fenrir-3.wav",
+      "bytes": 198044,
+      "sha256": "72c0aaa7b809361bc661f67e78c62229b87265fe5d9518e857852e9a142797d1",
+      "gitBlob": "e9d6465e3bd18051dc76b560ad34080c025c352e"
+    },
+    {
+      "path": "studies/v0.9.5-mentor/audio/dino_fenrir_michael_70_30-1.wav",
+      "bytes": 194444,
+      "sha256": "14e57a1bb1a8a90216244230e1811c964c81fda0d798dc3e369a04ac93c2002c",
+      "gitBlob": "898bdd44918ddb56ddf85bda0c86cccb0db559a9"
+    },
+    {
+      "path": "studies/v0.9.5-mentor/audio/am_fenrir-2.mp3",
+      "bytes": 52724,
+      "sha256": "218ac619206134520fe5303b54e2a3293dda99df817067c4e21ff18721fb2b9f",
+      "gitBlob": "9293274f0d1abcf8ef77d9943da8808ba79b4797"
+    },
+    {
+      "path": "studies/v0.9.5-mentor/audio/am_fenrir-4.mp3",
+      "bytes": 39188,
+      "sha256": "c9e748c32cc54dfb9a6c12b074216a7e3e83d0ce559cceafd930a2ab00412d91",
+      "gitBlob": "5947fcfd12a9eebaacdf38055a9a2155ee771e10"
+    },
+    {
+      "path": "studies/v0.9.5-mentor/audio/dino_fenrir_michael_70_30-2.mp3",
+      "bytes": 51932,
+      "sha256": "570cfc0a61fca24906b51a3bfd7e5de31f2f3fad99bc0e91ab833b7af1e20a70",
+      "gitBlob": "bf57a3b4563378a63a45b7b209108bd54fa8cde5"
+    },
+    {
+      "path": "studies/v0.9.5-mentor/audio/dino_fenrir_michael_70_30-4.mp3",
+      "bytes": 40772,
+      "sha256": "a94aa04e9b6ba53d20083a20b7a85294823d803aab7895bb981c0b53ec2f75a5",
+      "gitBlob": "bd92c9a45334aa84e300a137ab6f6fbfbb6b58cc"
+    },
+    {
+      "path": "studies/v0.9.5-mentor/audio/am_fenrir-5.wav",
+      "bytes": 160844,
+      "sha256": "fa609f3aa7b33290d47fea4a0c6ff0e582d44508f06ba1c45f3b4087cb23dffa",
+      "gitBlob": "f661aa13425d47e6325d9dfd2b3ac6db5aa52e67"
+    },
+    {
+      "path": "studies/v0.9.5-mentor/audio/dino_fenrir_puck_75_25-1.wav",
+      "bytes": 184844,
+      "sha256": "9de429cb4da009e46ac890e5d3183e8056d8bc4fbc29c90057b0b4f82faf1ce7",
+      "gitBlob": "aa6885f2b20bf12f3d3ea5cd7cc410a633485598"
+    },
+    {
+      "path": "studies/v0.9.5-mentor/audio/dino_fenrir_puck_75_25-3.wav",
+      "bytes": 196844,
+      "sha256": "c78647fa8b1f79916825694d0281b0c4fd59cd4762f81b4978ed007844951f82",
+      "gitBlob": "f85dcef9543fac40328614d41cabf5762823ff69"
+    },
+    {
+      "path": "studies/v0.9.5-mentor/audio/dino_fenrir_michael_70_30-3.mp3",
+      "bytes": 36572,
+      "sha256": "5f1256c4bc4f47e456665cc83740120d08bfed10ac4e6f7899367914d48e40b5",
+      "gitBlob": "8f22a148536b7b6ae6525d0f8ec8d24ba753bae0"
+    },
+    {
+      "path": "studies/v0.9.5-mentor/audio/dino_fenrir_michael_70_30-4.wav",
+      "bytes": 236444,
+      "sha256": "4cde020692c40dd2d0c8ec553c0a43d79ab9c0ffbb837ce448458fbe0253d210",
+      "gitBlob": "2078c38a7577a52d19b5a357f008331ea13d4aba"
+    },
+    {
+      "path": "studies/v0.9.5-mentor/audio/dino_fenrir_puck_75_25-4.mp3",
+      "bytes": 39284,
+      "sha256": "f589c52e97a8a9420ee08032fb7ac0bb1e2ff5297200d18be8346fbe0e3ba0ce",
+      "gitBlob": "2d7d68f6e75b53463c046ae4756e491364b223df"
+    },
+    {
+      "path": "studies/v0.9.5-mentor/audio/am_fenrir-2.wav",
+      "bytes": 280844,
+      "sha256": "eda50e3e0315a60c537a989211ced17d8bdbd844a6cfa89713aeaf6f9f871dfb",
+      "gitBlob": "be8b80d2da04ce903fdfb828a81bfe02ea2a65f4"
+    },
+    {
+      "path": "studies/v0.9.5-mentor/audio/dino_fenrir_michael_70_30-1.mp3",
+      "bytes": 34364,
+      "sha256": "b47b7c91fe12ca5070397af28b23cba126666d9eab0409ea794f1822fcb0025a",
+      "gitBlob": "5a8baa0b2fca4d5b8d8a6a92d7bc2ee251dc6037"
+    },
+    {
+      "path": "studies/v0.9.5-mentor/audio/am_fenrir-4.wav",
+      "bytes": 223244,
+      "sha256": "4270ad6ff58397b6ddc35b50d3cb5953aa7bb5b5b4051bd09123a026c5a3f37a",
+      "gitBlob": "453c95987a6d70eae584e29172731e1e8465c0d9"
+    },
+    {
+      "path": "studies/v0.9.5-mentor/audio/dino_fenrir_puck_75_25-5.wav",
+      "bytes": 159644,
+      "sha256": "4ffcf30e219ca5106ee6963fde7f323affc22fc07016a484f48b5b7b29f4b8e8",
+      "gitBlob": "ebf13573cba1b9b5f35d0a7aa543d3c72d7cd36c"
+    },
+    {
+      "path": "studies/v0.9.5-mentor/audio/dino_fenrir_michael_70_30-3.wav",
+      "bytes": 205244,
+      "sha256": "6c26f02e17763ca45a65dca2972ae943189291b184b307487d6224a2dbc0b246",
+      "gitBlob": "9e244415d2980838fb2b14509f5c55d440930d79"
+    },
+    {
+      "path": "studies/v0.9.5-mentor/production/voices/dino_fenrir_puck_75_25.bin",
+      "bytes": 522240,
+      "sha256": "dbcb4b6c3241a15a5e512822e33e9dbddf406208c68024e41e00ecd96c1dca72",
+      "gitBlob": "883277125eceff3136e457d6f7e872ef0d4ee2e8"
+    },
+    {
+      "path": "studies/v0.9.5-mentor/production/voices/dino_fenrir_michael_70_30.bin",
+      "bytes": 522240,
+      "sha256": "6ab7a8eea45135d560b9bbd53a3f2c3a02caa3603c997137061d3d8149b4122e",
+      "gitBlob": "f424ea4f6f065d2676e77f57311647bc6de1e38e"
+    }
+  ],
+  "all15PCMHashesDistinct": true,
+  "recipesAndDialogueMatchSpec": true,
+  "approvedReferenceHashes": "matched",
+  "previousStudiesAndActions": "unchanged"
+}

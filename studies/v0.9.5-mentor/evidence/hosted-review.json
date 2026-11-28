@@ -1,0 +1,83 @@
+{
+  "date": "2026-11-28",
+  "url": "https://nadirshahferoze7.github.io/dino-studio/studies/v0.9.5-mentor/",
+  "productionCommit": "e9e4268586b357894d68d53041ae6d93027cb10e",
+  "browser": "Cloud Chrome",
+  "audioPlayback": {
+    "all15PlayedToEnded": true,
+    "method": "Five global line selections; Compare all three sequentially ran the three actual saved MP3s, each reached ended with no media errors",
+    "durationsByLine": [
+      [
+        3.875,
+        3.85,
+        4.05
+      ],
+      [
+        5.85,
+        5.825,
+        6
+      ],
+      [
+        4.125,
+        4.1,
+        4.275
+      ],
+      [
+        4.65,
+        4.625,
+        4.925
+      ],
+      [
+        3.35,
+        3.325,
+        3.475
+      ]
+    ],
+    "neutralRecovery": "Observed neutral mouths after playback; live Fenrir mouth changes sampled in screenshot during jolly speech"
+  },
+  "videoPlayback": {
+    "allThreePlayedToEnded": true,
+    "durations": {
+      "am_fenrir": 26.125,
+      "dino_fenrir_puck_75_25": 26,
+      "dino_fenrir_michael_70_30": 27
+    },
+    "inspection": "Sampled actual hosted player frames, full render contact boards and all three neutral ending frames; discrete eight-pose speech, static body, no emotional facial acting."
+  },
+  "desktop": {
+    "width": 1363,
+    "horizontalOverflow": false
+  },
+  "narrowLayout": {
+    "method": "Real review page inside authored hosted iframe, not phone hardware",
+    "checks": [
+      {
+        "iframeWidth": 360,
+        "client": 345,
+        "scroll": 345,
+        "cardWidth": 309
+      },
+      {
+        "iframeWidth": 390,
+        "client": 375,
+        "scroll": 375,
+        "cardWidth": 339
+      },
+      {
+        "iframeWidth": 430,
+        "client": 415,
+        "scroll": 415,
+        "cardWidth": 379
+      }
+    ],
+    "singleColumn": true,
+    "horizontalOverflow": false,
+    "comparisonPlayback": "All three guidance takes reached ended in390px harness",
+    "physicalAndroidIOS": "not tested"
+  },
+  "scorecards": "All three read Not yet rated. No invented artistic ratings.",
+  "listening": "Not performed by agent; playback/PCM/timing checks are distinct from auditory quality. Director feedback preferred Fenrir to Puck.",
+  "automationNote": "Long advice comparison exceeded the locator wait budget; inspection immediately afterwards confirmed all three reached ended. No page failure or retry synthesis.",
+  "console": "Only browser-extension metadata errors observed; no site-script errors observed",
+  "deployment": "Existing Pages workflow completed successfully for e9e4268. No new Actions."
+}

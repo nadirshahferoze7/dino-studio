@@ -77,3 +77,5 @@ Recovered speech-study originals are now in studies/v0.9.1-speech/recovered (rem
 
 ## 2026-11-28 — mentor-range continuation
 v0.9.5 adds15 new original WAV masters,15 MP3s,15 raw/normalized timing JSONs and3 five-line MP4s under studies/v0.9.5-mentor, with render/QA evidence and production scripts. Two exact derivative style-vector banks retained under production/voices; upstream model/source voice bytes pinned by revision/hash. Exact prior speech atlas/CSS reused without modification. Fenrir director-preferred; blends unreviewed.
+
+Hosted v0.9.5 QA verified all15 MP3/3 MP4 plays to end and narrow CSS viewport checks. Original78 version files byte-verified from remote e9e4268; final evidence/inventory/restart additions committed separately. All original references and prior studies unchanged. No permanent voice selection.

@@ -1,11 +1,11 @@
 {
-  "scope": "v0.9.5 production/review assets before hosted QA; excludes self and runtime dependencies/model weights",
+  "scope": "All v0.9.5 production, playback and QA assets, excluding this inventory and Git verification report to avoid recursive hashes; upstream model weights/runtime dependencies excluded",
   "files": [
     {
       "path": "studies/v0.9.5-mentor/README.md",
-      "bytes": 4131,
-      "sha256": "baed42f315eff8ec3375c268f1f0b76362c4a6725a6b8b8ff8f26293424390f5",
-      "gitBlob": "ebe149ae934122b4d9b3ac62330b645346e14baf"
+      "bytes": 4893,
+      "sha256": "17fa34676101964cb34a8b108daff8deb0a126b0988692a71d09c4ee76647d52",
+      "gitBlob": "b9a9d4be4dfc0bc1a655b968c80c0f5a8b504651"
     },
     {
       "path": "studies/v0.9.5-mentor/index.html",
@@ -56,6 +56,12 @@
       "gitBlob": "d708982da75f0bfc8f85aaec7a6b857233e19b1a"
     },
     {
+      "path": "studies/v0.9.5-mentor/evidence/execution-notes.md",
+      "bytes": 1242,
+      "sha256": "275853be5fbe13a4ea5341fb00927e9fef53f07b80e21e57b03c1c57f59aa1b6",
+      "gitBlob": "e253161c571a9cca922fc37fe33fbbb099b237a8"
+    },
+    {
       "path": "studies/v0.9.5-mentor/evidence/dino_fenrir_puck_75_25-render.json",
       "bytes": 49977,
       "sha256": "0d03aa8a5526b711a854af2a59c4c4460d459aacb34321e2447626d257b4d553",
@@ -72,6 +78,12 @@
       "bytes": 8134,
       "sha256": "5c67d30052f2d3d984ebcaa727f38c57d82efddffddfc5ed350c2c4dd3757b42",
       "gitBlob": "f809ee0587b5ef856213b397e1d50ff0f5e4e787"
+    },
+    {
+      "path": "studies/v0.9.5-mentor/evidence/hosted-review.json",
+      "bytes": 2583,
+      "sha256": "91c988c759bd390bd00c1b2df7c6e7db9a8b32f20e2f1895accb45bed09ac8fa",
+      "gitBlob": "844524e93c8c3548f2cf4023ddc49f4c880387de"
     },
     {
       "path": "studies/v0.9.5-mentor/evidence/dino_fenrir_puck_75_25-contact.jpg",

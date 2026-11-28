@@ -38,3 +38,9 @@ python finish.py
 ```
 
 Model repository/revision/files are pinned in model-lock.json. Use DINO_MODEL for an alternate production model directory. prepare.py verifies upstream file sizes/hashes; blend.py verifies source/output hashes and writes derivative banks into the model voice directory. Saved production/voices binaries can be compared to the regenerated banks. Model weights are not served by the review page. The generator requests raw PCM, avoiding HeadTTS's prior RIFF-size bug while preserving all actual PCM samples. Typographic apostrophes are normalized to ASCII only for language processing; both exact display text and engine input are retained. Existing take pairs are hash-checked and retained; incomplete/conflicting takes stop generation rather than overwrite originals. Cross-platform inference byte determinism is not promised. No new GitHub Actions.
+
+
+## Hosted verification record
+See evidence/hosted-review.json for actual Cloud Chrome playback results and narrow viewport checks. No agent auditory assessment or physical Android/iOS device test is implied. Initial production78files (7,577,658bytes) were compared byte-for-byte with fetched remote Git at e9e4268586b357894d68d53041ae6d93027cb10e; original reference hashes match and previous studies/releases/Actions are unchanged. Later QA notes are saved in a final checkpoint.
+
+Hosted result: all15 MP3s and all3 complete MP4s played to ended in Cloud Chrome. Narrow iframe widths360/390/430px passed overflow/single-column checks, with390px comparison playback. No agent auditory judgment or physical phone test. Full record: evidence/hosted-review.json.

@@ -48,3 +48,6 @@ Hosted v0.9.4 QA has now passed:15 MP3s/3 MP4s played to end in Cloud Chrome, na
 
 ## 2026-11-28 — mentor-range continuation
 Current direction: director prefers Fenrir over Puck and wants warm mentor range. Read studies/v0.9.5-mentor/README.md, spec/manifest, voice recipes and evidence. Actual new auditions are generated; do not build an inference interface or run a model on mobile. Next director listens to the five mentor/emotional moments after hosted QA. No permanent voice lock or agent listening assessment.
+
+
+For mentor-range review, open the saved v0.9.5 page and compare the same five moments. The original Fenrir is the preferred reference;75/25Fenrir/Puck and70/30Fenrir/Michael blends are candidates, not approved emotional upgrades. No permanent selection is implied by proceeding with auditions. Model execution stays in production, never in review. Preserve exact recorded bytes and style-bank hashes; next depends on director listening feedback.
