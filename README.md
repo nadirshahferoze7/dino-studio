@@ -12,7 +12,7 @@ A persistent, code-controlled creative studio for an original dinosaur character
 The owner approves the creative direction. AI agents perform as much of the technical and creative production as available tools allow. The repository is the durable source of project memory; conversations are not the source of truth.
 
 ## Current status
-Approved hero and turnaround remain the character authority. Waving, v0.5.1 gait and v0.8.0 complete rest are accepted. Current milestone: [v0.9.4 prerecorded neural voice auditions](https://nadirshahferoze7.github.io/dino-studio/studies/v0.9.4-auditions/) — three Kokoro voices,15 actual recordings, matching JSON timing and three five-line talking MP4s. Review playback requires no model or inference. No permanent voice selected. See PROJECT_STATE.md and the version README for evidence and limitations. All previous versions and archives retained.
+Approved hero and turnaround remain the character authority. Waving, v0.5.1 gait and v0.8.0 complete rest are accepted. Fenrir is the director’s preferred voice candidate, with Puck also liked; no permanent voice lock. Current: [v0.9.5 mentor-range auditions](https://nadirshahferoze7.github.io/dino-studio/studies/v0.9.5-mentor/) — original Fenrir and two close style blends, five guidance/emotional lines each, actual prerecorded speech and talking previews. Mobile plays saved assets only. [First auditions](https://nadirshahferoze7.github.io/dino-studio/studies/v0.9.4-auditions/) retained. See PROJECT_STATE and version README for current QA status and limitations.
 
 Repository is public. Do not commit personal information, secrets, credentials, or unrelated conversation history.
 

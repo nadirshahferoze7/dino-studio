@@ -73,3 +73,7 @@ New source PNGs, rejected sit and background variants, prompts, deterministic bu
 Fifteen original engine WAVs in audio/, matching RIFF-corrected masters in masters/,15 MP3 playback copies and15 full engine/normalized timing JSONs. Three five-line H.264/AAC videos, render timelines, contact boards and production scripts/locks under studies/v0.9.4-auditions. Model revision/hashes pinned upstream; no model in review path. No approved voice or new identity. Asset inventory and remote verification recorded with this version.
 
 Recovered speech-study originals are now in studies/v0.9.1-speech/recovered (remote-verified6f626fe). Original PNG hash matches the pre-existing v0.9.1 manifest; builder unchanged. v0.9.1a refinement builder/evidence remain unlocated. Hosted playback/viewport evidence in v0.9.4 evidence/hosted-review.json; audio quality remains for actual listening/creative approval.
+
+
+## 2026-11-28 — mentor-range continuation
+v0.9.5 adds15 new original WAV masters,15 MP3s,15 raw/normalized timing JSONs and3 five-line MP4s under studies/v0.9.5-mentor, with render/QA evidence and production scripts. Two exact derivative style-vector banks retained under production/voices; upstream model/source voice bytes pinned by revision/hash. Exact prior speech atlas/CSS reused without modification. Fenrir director-preferred; blends unreviewed.

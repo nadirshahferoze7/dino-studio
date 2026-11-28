@@ -5,3 +5,7 @@ HeadTTS1.3.0 / timestamped Kokoro is the executed primary neural engine. No Edge
 Review pages play saved MP3/WAV/MP4 and JSON cues only; no AI runtime or model downloads on the director’s phone. v0.9.3 browser inference experiment remains historical, not the review interface. Raw engine WAV bytes retained; repaired masters correct only a four-byte RIFF size error. Model weights are fetched from pinned upstream revision for production, never needed for existing performance playback.
 
 Controlled shortlist: am_puck,am_fenrir,am_liam, five identical lines each at speed1. Emotion is dialogue intention, not a controllable parameter. Timing is predicted duration, not forced acoustic alignment. Preserve the source study artwork; do not promote it to canonical identity. No listening scores or permanent voice selection until actual creative listening/approval. No new GitHub Actions.
+
+
+## 2026-11-28 — mentor-range continuation
+Current mentor-range production is v0.9.5: original Fenrir plus75/25Fenrir/Puck and70/30Fenrir/Michael style banks, same five approved mentor lines, speed1. Blend scripts/source locks/actual derivative .bin files are preserved. Generator requests raw PCM and writes a valid RIFF container, retaining all PCM samples. Review remains prerecorded only. No emotional conditioning, pitch effects or auditory-score claims.
