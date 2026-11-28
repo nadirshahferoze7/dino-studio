@@ -1,0 +1,192 @@
+{
+  "voice": "am_liam",
+  "intention": "Excited",
+  "text": "Wow! Look what I found!",
+  "line": 1,
+  "key": "am_liam-2",
+  "model": "onnx-community/Kokoro-82M-v1.0-ONNX-timestamped",
+  "modelRevision": "dd4401a9add81ac692d20e240d22ec9dda82cc29",
+  "engine": "HeadTTS 1.3.0",
+  "speed": 1,
+  "sampleRate": 24000,
+  "durationMs": 2125,
+  "wavSha256": "87130321c62d5c1d1c4221e3029151ae9afb39b2a30284311ab94867608eeeeb",
+  "timingSource": "Kokoro predicted token durations via HeadTTS; no acoustic forced alignment",
+  "cues": [
+    {
+      "id": "U",
+      "phoneme": "w",
+      "start": 306,
+      "duration": 60,
+      "pose": 5
+    },
+    {
+      "id": "U",
+      "phoneme": "W",
+      "start": 356,
+      "duration": 192,
+      "pose": 5
+    },
+    {
+      "id": "RR",
+      "phoneme": "l",
+      "start": 611,
+      "duration": 35,
+      "pose": 4
+    },
+    {
+      "id": "U",
+      "phoneme": "ʊ",
+      "start": 636,
+      "duration": 89,
+      "pose": 5
+    },
+    {
+      "id": "kk",
+      "phoneme": "k",
+      "start": 715,
+      "duration": 60,
+      "pose": 2
+    },
+    {
+      "id": "U",
+      "phoneme": "w",
+      "start": 815,
+      "duration": 35,
+      "pose": 5
+    },
+    {
+      "id": "aa",
+      "phoneme": "ʌ",
+      "start": 840,
+      "duration": 68,
+      "pose": 2
+    },
+    {
+      "id": "DD",
+      "phoneme": "t",
+      "start": 898,
+      "duration": 35,
+      "pose": 7
+    },
+    {
+      "id": "I",
+      "phoneme": "I",
+      "start": 960,
+      "duration": 155,
+      "pose": 3
+    },
+    {
+      "id": "FF",
+      "phoneme": "f",
+      "start": 1179,
+      "duration": 70,
+      "pose": 6
+    },
+    {
+      "id": "U",
+      "phoneme": "W",
+      "start": 1239,
+      "duration": 239,
+      "pose": 5
+    },
+    {
+      "id": "nn",
+      "phoneme": "n",
+      "start": 1468,
+      "duration": 70,
+      "pose": 7
+    },
+    {
+      "id": "DD",
+      "phoneme": "d",
+      "start": 1528,
+      "duration": 384,
+      "pose": 7
+    }
+  ],
+  "raw": {
+    "phonemes": [
+      "w",
+      "W",
+      "l",
+      "ʊ",
+      "k",
+      "w",
+      "ʌ",
+      "t",
+      "I",
+      "f",
+      "W",
+      "n",
+      "d"
+    ],
+    "words": [
+      "Wow! ",
+      "Look ",
+      "what ",
+      "I ",
+      "found!"
+    ],
+    "wtimes": [
+      306,
+      611,
+      815,
+      960,
+      1179
+    ],
+    "wdurations": [
+      315,
+      214,
+      155,
+      229,
+      923
+    ],
+    "visemes": [
+      "U",
+      "U",
+      "RR",
+      "U",
+      "kk",
+      "U",
+      "aa",
+      "DD",
+      "I",
+      "FF",
+      "U",
+      "nn",
+      "DD"
+    ],
+    "vtimes": [
+      306,
+      356,
+      611,
+      636,
+      715,
+      815,
+      840,
+      898,
+      960,
+      1179,
+      1239,
+      1468,
+      1528
+    ],
+    "vdurations": [
+      60,
+      192,
+      35,
+      89,
+      60,
+      35,
+      68,
+      35,
+      155,
+      70,
+      239,
+      70,
+      384
+    ],
+    "audioEncoding": "wav"
+  }
+}

@@ -1,0 +1,427 @@
+{
+  "voice": "am_liam",
+  "intention": "Brave",
+  "text": "I'm a little scared, but we can do this together.",
+  "line": 4,
+  "key": "am_liam-5",
+  "model": "onnx-community/Kokoro-82M-v1.0-ONNX-timestamped",
+  "modelRevision": "dd4401a9add81ac692d20e240d22ec9dda82cc29",
+  "engine": "HeadTTS 1.3.0",
+  "speed": 1,
+  "sampleRate": 24000,
+  "durationMs": 3225,
+  "wavSha256": "225c7bc92b18733c97ca68ace7175e15e457084fff06a005ff4daff4d5262d41",
+  "timingSource": "Kokoro predicted token durations via HeadTTS; no acoustic forced alignment",
+  "cues": [
+    {
+      "id": "I",
+      "phoneme": "I",
+      "start": 301,
+      "duration": 158,
+      "pose": 3
+    },
+    {
+      "id": "PP",
+      "phoneme": "m",
+      "start": 449,
+      "duration": 41,
+      "pose": 1
+    },
+    {
+      "id": "E",
+      "phoneme": "ə",
+      "start": 511,
+      "duration": 38,
+      "pose": 3
+    },
+    {
+      "id": "RR",
+      "phoneme": "l",
+      "start": 572,
+      "duration": 35,
+      "pose": 4
+    },
+    {
+      "id": "I",
+      "phoneme": "ɪ",
+      "start": 597,
+      "duration": 67,
+      "pose": 3
+    },
+    {
+      "id": "DD",
+      "phoneme": "t",
+      "start": 654,
+      "duration": 55,
+      "pose": 7
+    },
+    {
+      "id": "E",
+      "phoneme": "ə",
+      "start": 699,
+      "duration": 60,
+      "pose": 3
+    },
+    {
+      "id": "RR",
+      "phoneme": "l",
+      "start": 749,
+      "duration": 59,
+      "pose": 4
+    },
+    {
+      "id": "SS",
+      "phoneme": "s",
+      "start": 862,
+      "duration": 74,
+      "pose": 3
+    },
+    {
+      "id": "kk",
+      "phoneme": "k",
+      "start": 926,
+      "duration": 60,
+      "pose": 2
+    },
+    {
+      "id": "E",
+      "phoneme": "ɛ",
+      "start": 976,
+      "duration": 181,
+      "pose": 3
+    },
+    {
+      "id": "RR",
+      "phoneme": "ɹ",
+      "start": 1147,
+      "duration": 81,
+      "pose": 4
+    },
+    {
+      "id": "DD",
+      "phoneme": "d",
+      "start": 1218,
+      "duration": 50,
+      "pose": 7
+    },
+    {
+      "id": "PP",
+      "phoneme": "b",
+      "start": 1315,
+      "duration": 35,
+      "pose": 1
+    },
+    {
+      "id": "aa",
+      "phoneme": "ʌ",
+      "start": 1340,
+      "duration": 63,
+      "pose": 2
+    },
+    {
+      "id": "DD",
+      "phoneme": "t",
+      "start": 1393,
+      "duration": 40,
+      "pose": 7
+    },
+    {
+      "id": "U",
+      "phoneme": "w",
+      "start": 1473,
+      "duration": 37,
+      "pose": 5
+    },
+    {
+      "id": "I",
+      "phoneme": "i",
+      "start": 1500,
+      "duration": 111,
+      "pose": 3
+    },
+    {
+      "id": "kk",
+      "phoneme": "k",
+      "start": 1651,
+      "duration": 48,
+      "pose": 2
+    },
+    {
+      "id": "aa",
+      "phoneme": "æ",
+      "start": 1689,
+      "duration": 110,
+      "pose": 2
+    },
+    {
+      "id": "nn",
+      "phoneme": "n",
+      "start": 1789,
+      "duration": 53,
+      "pose": 7
+    },
+    {
+      "id": "DD",
+      "phoneme": "d",
+      "start": 1883,
+      "duration": 38,
+      "pose": 7
+    },
+    {
+      "id": "U",
+      "phoneme": "u",
+      "start": 1911,
+      "duration": 111,
+      "pose": 5
+    },
+    {
+      "id": "TH",
+      "phoneme": "ð",
+      "start": 2062,
+      "duration": 35,
+      "pose": 7
+    },
+    {
+      "id": "I",
+      "phoneme": "ɪ",
+      "start": 2087,
+      "duration": 91,
+      "pose": 3
+    },
+    {
+      "id": "SS",
+      "phoneme": "s",
+      "start": 2168,
+      "duration": 60,
+      "pose": 3
+    },
+    {
+      "id": "DD",
+      "phoneme": "t",
+      "start": 2268,
+      "duration": 39,
+      "pose": 7
+    },
+    {
+      "id": "E",
+      "phoneme": "ə",
+      "start": 2297,
+      "duration": 60,
+      "pose": 3
+    },
+    {
+      "id": "kk",
+      "phoneme": "ɡ",
+      "start": 2347,
+      "duration": 60,
+      "pose": 2
+    },
+    {
+      "id": "E",
+      "phoneme": "ɛ",
+      "start": 2397,
+      "duration": 111,
+      "pose": 3
+    },
+    {
+      "id": "TH",
+      "phoneme": "ð",
+      "start": 2498,
+      "duration": 70,
+      "pose": 7
+    },
+    {
+      "id": "E",
+      "phoneme": "ɜ",
+      "start": 2558,
+      "duration": 84,
+      "pose": 3
+    },
+    {
+      "id": "RR",
+      "phoneme": "ɹ",
+      "start": 2632,
+      "duration": 394,
+      "pose": 4
+    }
+  ],
+  "raw": {
+    "phonemes": [
+      "I",
+      "m",
+      "ə",
+      "l",
+      "ɪ",
+      "t",
+      "ə",
+      "l",
+      "s",
+      "k",
+      "ɛ",
+      "ɹ",
+      "d",
+      "b",
+      "ʌ",
+      "t",
+      "w",
+      "i",
+      "k",
+      "æ",
+      "n",
+      "d",
+      "u",
+      "ð",
+      "ɪ",
+      "s",
+      "t",
+      "ə",
+      "ɡ",
+      "ɛ",
+      "ð",
+      "ɜ",
+      "ɹ"
+    ],
+    "words": [
+      "I'm ",
+      "a ",
+      "little ",
+      "scared, ",
+      "but ",
+      "we ",
+      "can ",
+      "do ",
+      "this ",
+      "together."
+    ],
+    "wtimes": [
+      301,
+      511,
+      572,
+      862,
+      1315,
+      1473,
+      1651,
+      1883,
+      2062,
+      2268
+    ],
+    "wdurations": [
+      220,
+      71,
+      300,
+      463,
+      168,
+      188,
+      242,
+      189,
+      216,
+      946
+    ],
+    "visemes": [
+      "I",
+      "PP",
+      "E",
+      "RR",
+      "I",
+      "DD",
+      "E",
+      "RR",
+      "SS",
+      "kk",
+      "E",
+      "RR",
+      "DD",
+      "PP",
+      "aa",
+      "DD",
+      "U",
+      "I",
+      "kk",
+      "aa",
+      "nn",
+      "DD",
+      "U",
+      "TH",
+      "I",
+      "SS",
+      "DD",
+      "E",
+      "kk",
+      "E",
+      "TH",
+      "E",
+      "RR"
+    ],
+    "vtimes": [
+      301,
+      449,
+      511,
+      572,
+      597,
+      654,
+      699,
+      749,
+      862,
+      926,
+      976,
+      1147,
+      1218,
+      1315,
+      1340,
+      1393,
+      1473,
+      1500,
+      1651,
+      1689,
+      1789,
+      1883,
+      1911,
+      2062,
+      2087,
+      2168,
+      2268,
+      2297,
+      2347,
+      2397,
+      2498,
+      2558,
+      2632
+    ],
+    "vdurations": [
+      158,
+      41,
+      38,
+      35,
+      67,
+      55,
+      60,
+      59,
+      74,
+      60,
+      181,
+      81,
+      50,
+      35,
+      63,
+      40,
+      37,
+      111,
+      48,
+      110,
+      53,
+      38,
+      111,
+      35,
+      91,
+      60,
+      39,
+      60,
+      60,
+      111,
+      70,
+      84,
+      394
+    ],
+    "audioEncoding": "wav"
+  }
+}
