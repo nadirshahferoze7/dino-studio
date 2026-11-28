@@ -1,11 +1,11 @@
 {
-  "scope": "v0.9.6 source/media/evidence before hosted QA; excludes itself; exact previous style bank/atlas reused",
+  "scope": "All v0.9.6 source, original/media and QA files except this inventory and Git verification to avoid recursive hashes; previous atlas/style bank reused",
   "files": [
     {
       "path": "studies/v0.9.6-kindness/README.md",
-      "bytes": 2697,
-      "sha256": "2ac4f7df8d1f411d4ef9dfb74809c57cfa3163e19657135f07a7a9f96b84168e",
-      "gitBlob": "50b1fd179ed90002af433e470de2afa8f8888b58"
+      "bytes": 3229,
+      "sha256": "4e63b503ec0b698939135923dbfe9d017afa41ad585fdccd36da63c93f800e60",
+      "gitBlob": "791e6ac28a4baf483d621c9261a81753603d6a8c"
     },
     {
       "path": "studies/v0.9.6-kindness/index.html",
@@ -48,6 +48,18 @@
       "bytes": 289271,
       "sha256": "3d03aeab2f701514fb4fc3d484d428e9a23d08d105d1f2cd759938f97910da80",
       "gitBlob": "51e6bcf73fc4113a8da8f15766287a274b541334"
+    },
+    {
+      "path": "studies/v0.9.6-kindness/evidence/execution-notes.md",
+      "bytes": 1097,
+      "sha256": "e9aa19be38f4be1563f67f9413aabdf91c463f2983617f3c6c3fe7d20931d120",
+      "gitBlob": "88bec6979b35a8847503f97e7ef205ef0fcb2550"
+    },
+    {
+      "path": "studies/v0.9.6-kindness/evidence/hosted-review.json",
+      "bytes": 1771,
+      "sha256": "650f642badeeb57c822d4e8d6e1a9b419a76f08b5e13e2a04ca0d7beeddf5dd4",
+      "gitBlob": "901a632e01a26f6d457af1ae0e6cc6505e49da66"
     },
     {
       "path": "studies/v0.9.6-kindness/media/kindness.wav",

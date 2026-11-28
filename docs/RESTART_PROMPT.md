@@ -55,3 +55,6 @@ For mentor-range review, open the saved v0.9.5 page and compare the same five mo
 
 ## 2026-11-28 — selected-voice acceptance scene
 Current bounded milestone: selected70/30Fenrir/Michael recipe is DINO-voice-1.0, config characters/DINO-001/voice.json. Read studies/v0.9.6-kindness/README.md, SCRIPT.md and performance.json. The31-second kindness acceptance scene addresses teasing without shame, repairs harm and affirms belonging. Use saved media for review; no recasting or mobile inference. Follow final PROJECT_STATE entries for hosted QA and director feedback.
+
+
+Voice-milestone closure: DINO-voice-1.0 recipe is frozen in characters/DINO-001/voice.json. The actual kindness acceptance scene is studies/v0.9.6-kindness/. Review saved video/audio; no model loading or more casting is necessary. Content stresses stopping hurtful teasing, listening, repair and equal belonging without labelling a person bad. Director's final creative response is the remaining artistic checkpoint. Do not infer full emotional facial acting or agent auditory assessment from technical QA.

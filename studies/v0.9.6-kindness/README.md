@@ -18,3 +18,7 @@ python studies/v0.9.6-kindness/production/scene.py
 ```
 
 Commands above run from repository root. Requires Node24, NumPy/Pillow, FFmpeg and DejaVuSans fonts at the paths used by scene.py. The existing generator uses v0.9.5 runtime by relative path. Existing take pairs are checked and retained, not overwritten. Audio is raw engine16-bit mono24kHz PCM wrapped in correct RIFF headers. All timing uses exact PCM sample counts. Playback requires only static saved files; no runtime/model on mobile. Previous auditions/versions retained. No new Actions.
+
+
+## Hosted QA
+Actual published Cloud Chrome MP4 played to ended30.917s on desktop and in390px iframe viewport.360/390/430px layout checks passed without overflow. Audio-only MP3 playback to14.47s and native pause tested; complete file decoding separately passed FFmpeg. No physical Android/iOS test or auditory quality scoring. See evidence/hosted-review.json. Initial22files byte-verified from remote9120236. Casting/production/playback are technically complete; director creative acceptance of this final scene remains separate.

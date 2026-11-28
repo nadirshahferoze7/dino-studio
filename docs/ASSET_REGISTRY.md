@@ -83,3 +83,5 @@ Hosted v0.9.5 QA verified all15 MP3/3 MP4 plays to end and narrow CSS viewport c
 
 ## 2026-11-28 — selected-voice acceptance scene
 v0.9.6-kindness retains3 original selected-voice WAV chapters and timing JSONs, joined unchanged-PCM WAV master, MP3, captioned MP4, VTT, full performance timing, source generation/scene scripts and validation/contact evidence. Existing style bank and mouth atlas referenced by exact path/hash; no duplicates. characters/DINO-001/voice.json freezes the selected production recipe.
+
+Hosted v0.9.6 video played to ended on desktop and390px narrow viewport; captions/mouth/neutral frames visually sampled. Source/media22files byte-verified from Git9120236. Final evidence and voice v1.0 baseline are permanently recorded. Previous artwork/versions preserved. Scene artistic approval remains for director review.

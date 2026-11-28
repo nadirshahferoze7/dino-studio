@@ -1,0 +1,54 @@
+{
+  "date": "2026-11-28",
+  "url": "https://nadirshahferoze7.github.io/dino-studio/studies/v0.9.6-kindness/",
+  "productionCommit": "912023616a1053db50d1fdcf2685c995d329cce7",
+  "browser": "Cloud Chrome",
+  "desktop": {
+    "width": 1363,
+    "horizontalOverflow": false,
+    "videoPlayedToEnded": true,
+    "duration": 30.917,
+    "neutralEnd": "observed",
+    "visualInspection": "Actual hosted mouth/caption frame sampled around12.16s (stop/listen line), ending neutral frame and complete rendered contact board inspected"
+  },
+  "audioOnly": {
+    "actualPlayback": "advanced to14.467792s of30.9s with video paused",
+    "pauseControl": "tested successfully",
+    "fullDecode": "FFmpeg passed",
+    "playedEntireMP3InBrowser": false
+  },
+  "narrowViewport": {
+    "method": "Real page in hosted iframe, no physical Android/iOS device test",
+    "widths": [
+      {
+        "iframe": 360,
+        "client": 345,
+        "scroll": 345,
+        "video": 309
+      },
+      {
+        "iframe": 390,
+        "client": 375,
+        "scroll": 375,
+        "video": 339
+      },
+      {
+        "iframe": 430,
+        "client": 415,
+        "scroll": 415,
+        "video": 379
+      }
+    ],
+    "horizontalOverflow": false,
+    "390pxVideo": {
+      "playedToEnded": true,
+      "duration": 30.917,
+      "time": 30.917,
+      "paused": true,
+      "error": null
+    }
+  },
+  "limits": "No auditory assessment or invented artistic scores. Warm welcoming existing speech study expression/static body; coarse mouth poses and model-predicted timing, not a complete emotional facial performance.",
+  "deployment": "Existing Pages workflow9120236 completed success; no new Actions",
+  "console": "Only browser-extension metadata errors observed; no site-script errors observed"
+}

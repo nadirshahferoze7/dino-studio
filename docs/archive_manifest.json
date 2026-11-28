@@ -1065,6 +1065,17 @@
       "files": 79,
       "validation": "studies/v0.9.5-mentor/evidence/audio-validation.json",
       "hosted_validation": "studies/v0.9.5-mentor/evidence/hosted-review.json"
+    },
+    {
+      "version": "v0.9.6",
+      "status": "selected-voice kindness acceptance scene, hosted playback verified; artistic acceptance pending",
+      "inventory": "studies/v0.9.6-kindness/asset-inventory.json",
+      "sha256": "283935b4498b22c66af6c3f6622907c9b8591b9bcfe431975878f27e593070cd",
+      "git_blob_sha": "4049337611dd45650757704e5093b625ebc973ab",
+      "files": 23,
+      "voiceConfig": "characters/DINO-001/voice.json",
+      "validation": "studies/v0.9.6-kindness/evidence/validation.json",
+      "hosted_validation": "studies/v0.9.6-kindness/evidence/hosted-review.json"
     }
   ]
 }
