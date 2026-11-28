@@ -1,0 +1,25 @@
+{
+  "method": "Weighted float32 interpolation at every token-length embedding; upstream Kokoro pipeline also supports mean blending. Re-synthesize each line; no waveform mixing.",
+  "upstreamReference": "https://github.com/hexgrad/kokoro/blob/main/kokoro/pipeline.py",
+  "variants": [
+    {
+      "voice": "dino_fenrir_michael_30_70",
+      "recipe": {
+        "am_fenrir": 0.3,
+        "am_michael": 0.7
+      },
+      "bytes": 522240,
+      "sha256": "7140b7553f9115b7d8e5d55f8d2ebe571e3c549b568ba0fa9a191f3286f06ec4",
+      "sources": [
+        {
+          "voice": "am_fenrir",
+          "sha256": "c27989f741f7ee34d273a39d8a595cc0837d35f5ced9a29b7cc162614616df43"
+        },
+        {
+          "voice": "am_michael",
+          "sha256": "1d1f21dd8da39c30705cd4c75d039d265e9bc4a2a93ed09bc9e1b1225eb95ba1"
+        }
+      ]
+    }
+  ]
+}

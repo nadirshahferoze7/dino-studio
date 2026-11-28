@@ -1,0 +1,1998 @@
+{
+  "version": "v0.9.6",
+  "title": "Make room for everyone",
+  "voiceVersion": "depth-candidate-unapproved",
+  "voice": "dino_fenrir_michael_30_70",
+  "recipe": {
+    "am_fenrir": 0.3,
+    "am_michael": 0.7
+  },
+  "styleBank": "production/voices/dino_fenrir_michael_30_70.bin",
+  "styleBankSha256": "7140b7553f9115b7d8e5d55f8d2ebe571e3c549b568ba0fa9a191f3286f06ec4",
+  "model": "onnx-community/Kokoro-82M-v1.0-ONNX-timestamped",
+  "modelRevision": "dd4401a9add81ac692d20e240d22ec9dda82cc29",
+  "speed": 1,
+  "audioDuration": 32.2,
+  "videoDuration": 32.208333333333336,
+  "fps": 24,
+  "frames": 773,
+  "sampleRate": 24000,
+  "chapters": [
+    {
+      "label": "Notice the hurt",
+      "start": 0.4,
+      "end": 11.05,
+      "text": "Hey, friends. Our time together is too precious to spend making someone feel small. Making fun of someone can hurt, even when we call it a joke.",
+      "source": "audio/dino_fenrir_michael_30_70-1.wav",
+      "sourceSha256": "66384cb6959bf580efe17d6b76f8192740a106b1ffa3e34e8b318323dee9fbd2",
+      "pcmSampleStart": 9600,
+      "pcmSamples": 255600
+    },
+    {
+      "label": "Choose what comes next",
+      "start": 11.45,
+      "end": 19.0,
+      "text": "If someone feels hurt, let's stop and listen. We all make mistakes. What matters is what we choose next.",
+      "source": "audio/dino_fenrir_michael_30_70-2.wav",
+      "sourceSha256": "dd77b44e86db809b033dc300ca066ae35a328b8b9adafc0c3ab27c0b8a43e9fe",
+      "pcmSampleStart": 274800,
+      "pcmSamples": 181200
+    },
+    {
+      "label": "Make room for everyone",
+      "start": 19.4,
+      "end": 31.2,
+      "text": "We can say sorry, make things right, and help someone feel included. It's never too late to choose kindness. You matter. They matter too. Let's make room for everyone.",
+      "source": "audio/dino_fenrir_michael_30_70-3.wav",
+      "sourceSha256": "63b147fab22efce5f5a898bd09e3d83987123832bdc32d4abaeb29df431ead37",
+      "pcmSampleStart": 465600,
+      "pcmSamples": 283200
+    }
+  ],
+  "cues": [
+    {
+      "id": "E",
+      "phoneme": "A",
+      "start": 0.883,
+      "duration": 0.264,
+      "pose": 3
+    },
+    {
+      "id": "FF",
+      "phoneme": "f",
+      "start": 1.2530000000000001,
+      "duration": 0.06,
+      "pose": 6
+    },
+    {
+      "id": "RR",
+      "phoneme": "\u0279",
+      "start": 1.303,
+      "duration": 0.059,
+      "pose": 4
+    },
+    {
+      "id": "E",
+      "phoneme": "\u025b",
+      "start": 1.3519999999999999,
+      "duration": 0.184,
+      "pose": 3
+    },
+    {
+      "id": "nn",
+      "phoneme": "n",
+      "start": 1.5259999999999998,
+      "duration": 0.094,
+      "pose": 7
+    },
+    {
+      "id": "DD",
+      "phoneme": "d",
+      "start": 1.6099999999999999,
+      "duration": 0.078,
+      "pose": 7
+    },
+    {
+      "id": "SS",
+      "phoneme": "z",
+      "start": 1.678,
+      "duration": 0.386,
+      "pose": 3
+    },
+    {
+      "id": "U",
+      "phoneme": "W",
+      "start": 2.25,
+      "duration": 0.165,
+      "pose": 5
+    },
+    {
+      "id": "E",
+      "phoneme": "\u025c",
+      "start": 2.405,
+      "duration": 0.081,
+      "pose": 3
+    },
+    {
+      "id": "RR",
+      "phoneme": "\u0279",
+      "start": 2.476,
+      "duration": 0.06,
+      "pose": 4
+    },
+    {
+      "id": "DD",
+      "phoneme": "t",
+      "start": 2.585,
+      "duration": 0.062,
+      "pose": 7
+    },
+    {
+      "id": "I",
+      "phoneme": "I",
+      "start": 2.637,
+      "duration": 0.186,
+      "pose": 3
+    },
+    {
+      "id": "PP",
+      "phoneme": "m",
+      "start": 2.8129999999999997,
+      "duration": 0.058,
+      "pose": 1
+    },
+    {
+      "id": "DD",
+      "phoneme": "t",
+      "start": 2.911,
+      "duration": 0.036,
+      "pose": 7
+    },
+    {
+      "id": "E",
+      "phoneme": "\u0259",
+      "start": 2.937,
+      "duration": 0.083,
+      "pose": 3
+    },
+    {
+      "id": "kk",
+      "phoneme": "\u0261",
+      "start": 3.01,
+      "duration": 0.06,
+      "pose": 2
+    },
+    {
+      "id": "E",
+      "phoneme": "\u025b",
+      "start": 3.06,
+      "duration": 0.109,
+      "pose": 3
+    },
+    {
+      "id": "TH",
+      "phoneme": "\u00f0",
+      "start": 3.159,
+      "duration": 0.07,
+      "pose": 7
+    },
+    {
+      "id": "E",
+      "phoneme": "\u025c",
+      "start": 3.219,
+      "duration": 0.06,
+      "pose": 3
+    },
+    {
+      "id": "RR",
+      "phoneme": "\u0279",
+      "start": 3.269,
+      "duration": 0.06,
+      "pose": 4
+    },
+    {
+      "id": "I",
+      "phoneme": "\u026a",
+      "start": 3.367,
+      "duration": 0.095,
+      "pose": 3
+    },
+    {
+      "id": "SS",
+      "phoneme": "z",
+      "start": 3.452,
+      "duration": 0.062,
+      "pose": 3
+    },
+    {
+      "id": "DD",
+      "phoneme": "t",
+      "start": 3.5789999999999997,
+      "duration": 0.052,
+      "pose": 7
+    },
+    {
+      "id": "U",
+      "phoneme": "u",
+      "start": 3.621,
+      "duration": 0.111,
+      "pose": 5
+    },
+    {
+      "id": "PP",
+      "phoneme": "p",
+      "start": 3.796,
+      "duration": 0.06,
+      "pose": 1
+    },
+    {
+      "id": "RR",
+      "phoneme": "\u0279",
+      "start": 3.846,
+      "duration": 0.037,
+      "pose": 4
+    },
+    {
+      "id": "E",
+      "phoneme": "\u025b",
+      "start": 3.8729999999999998,
+      "duration": 0.135,
+      "pose": 3
+    },
+    {
+      "id": "SS",
+      "phoneme": "\u0283",
+      "start": 3.9979999999999998,
+      "duration": 0.085,
+      "pose": 3
+    },
+    {
+      "id": "E",
+      "phoneme": "\u0259",
+      "start": 4.073,
+      "duration": 0.065,
+      "pose": 3
+    },
+    {
+      "id": "SS",
+      "phoneme": "s",
+      "start": 4.128,
+      "duration": 0.078,
+      "pose": 3
+    },
+    {
+      "id": "DD",
+      "phoneme": "t",
+      "start": 4.276,
+      "duration": 0.061,
+      "pose": 7
+    },
+    {
+      "id": "U",
+      "phoneme": "u",
+      "start": 4.327,
+      "duration": 0.227,
+      "pose": 5
+    },
+    {
+      "id": "SS",
+      "phoneme": "s",
+      "start": 4.61,
+      "duration": 0.073,
+      "pose": 3
+    },
+    {
+      "id": "PP",
+      "phoneme": "p",
+      "start": 4.673,
+      "duration": 0.052,
+      "pose": 1
+    },
+    {
+      "id": "E",
+      "phoneme": "\u025b",
+      "start": 4.715000000000001,
+      "duration": 0.091,
+      "pose": 3
+    },
+    {
+      "id": "nn",
+      "phoneme": "n",
+      "start": 4.796,
+      "duration": 0.035,
+      "pose": 7
+    },
+    {
+      "id": "DD",
+      "phoneme": "d",
+      "start": 4.821000000000001,
+      "duration": 0.036,
+      "pose": 7
+    },
+    {
+      "id": "PP",
+      "phoneme": "m",
+      "start": 4.897,
+      "duration": 0.035,
+      "pose": 1
+    },
+    {
+      "id": "E",
+      "phoneme": "A",
+      "start": 4.922000000000001,
+      "duration": 0.127,
+      "pose": 3
+    },
+    {
+      "id": "kk",
+      "phoneme": "k",
+      "start": 5.039000000000001,
+      "duration": 0.078,
+      "pose": 2
+    },
+    {
+      "id": "I",
+      "phoneme": "\u026a",
+      "start": 5.107,
+      "duration": 0.061,
+      "pose": 3
+    },
+    {
+      "id": "nn",
+      "phoneme": "\u014b",
+      "start": 5.158,
+      "duration": 0.06,
+      "pose": 7
+    },
+    {
+      "id": "SS",
+      "phoneme": "s",
+      "start": 5.28,
+      "duration": 0.043,
+      "pose": 3
+    },
+    {
+      "id": "aa",
+      "phoneme": "\u028c",
+      "start": 5.313000000000001,
+      "duration": 0.087,
+      "pose": 2
+    },
+    {
+      "id": "PP",
+      "phoneme": "m",
+      "start": 5.390000000000001,
+      "duration": 0.06,
+      "pose": 1
+    },
+    {
+      "id": "U",
+      "phoneme": "w",
+      "start": 5.44,
+      "duration": 0.035,
+      "pose": 5
+    },
+    {
+      "id": "E",
+      "phoneme": "\u0259",
+      "start": 5.465000000000001,
+      "duration": 0.067,
+      "pose": 3
+    },
+    {
+      "id": "nn",
+      "phoneme": "n",
+      "start": 5.522,
+      "duration": 0.06,
+      "pose": 7
+    },
+    {
+      "id": "FF",
+      "phoneme": "f",
+      "start": 5.651000000000001,
+      "duration": 0.046,
+      "pose": 6
+    },
+    {
+      "id": "I",
+      "phoneme": "i",
+      "start": 5.687,
+      "duration": 0.151,
+      "pose": 3
+    },
+    {
+      "id": "RR",
+      "phoneme": "l",
+      "start": 5.828,
+      "duration": 0.063,
+      "pose": 4
+    },
+    {
+      "id": "SS",
+      "phoneme": "s",
+      "start": 5.972,
+      "duration": 0.085,
+      "pose": 3
+    },
+    {
+      "id": "PP",
+      "phoneme": "m",
+      "start": 6.047000000000001,
+      "duration": 0.061,
+      "pose": 1
+    },
+    {
+      "id": "O",
+      "phoneme": "\u0254",
+      "start": 6.098000000000001,
+      "duration": 0.24,
+      "pose": 4
+    },
+    {
+      "id": "RR",
+      "phoneme": "l",
+      "start": 6.328,
+      "duration": 0.394,
+      "pose": 4
+    },
+    {
+      "id": "PP",
+      "phoneme": "m",
+      "start": 6.8660000000000005,
+      "duration": 0.037,
+      "pose": 1
+    },
+    {
+      "id": "E",
+      "phoneme": "A",
+      "start": 6.893000000000001,
+      "duration": 0.11,
+      "pose": 3
+    },
+    {
+      "id": "kk",
+      "phoneme": "k",
+      "start": 6.993,
+      "duration": 0.061,
+      "pose": 2
+    },
+    {
+      "id": "I",
+      "phoneme": "\u026a",
+      "start": 7.0440000000000005,
+      "duration": 0.06,
+      "pose": 3
+    },
+    {
+      "id": "nn",
+      "phoneme": "\u014b",
+      "start": 7.094,
+      "duration": 0.061,
+      "pose": 7
+    },
+    {
+      "id": "FF",
+      "phoneme": "f",
+      "start": 7.235,
+      "duration": 0.045,
+      "pose": 6
+    },
+    {
+      "id": "aa",
+      "phoneme": "\u028c",
+      "start": 7.2700000000000005,
+      "duration": 0.128,
+      "pose": 2
+    },
+    {
+      "id": "nn",
+      "phoneme": "n",
+      "start": 7.388000000000001,
+      "duration": 0.042,
+      "pose": 7
+    },
+    {
+      "id": "aa",
+      "phoneme": "\u028c",
+      "start": 7.447,
+      "duration": 0.067,
+      "pose": 2
+    },
+    {
+      "id": "FF",
+      "phoneme": "v",
+      "start": 7.5040000000000004,
+      "duration": 0.051,
+      "pose": 6
+    },
+    {
+      "id": "SS",
+      "phoneme": "s",
+      "start": 7.604,
+      "duration": 0.042,
+      "pose": 3
+    },
+    {
+      "id": "aa",
+      "phoneme": "\u028c",
+      "start": 7.636,
+      "duration": 0.087,
+      "pose": 2
+    },
+    {
+      "id": "PP",
+      "phoneme": "m",
+      "start": 7.713,
+      "duration": 0.059,
+      "pose": 1
+    },
+    {
+      "id": "U",
+      "phoneme": "w",
+      "start": 7.7620000000000005,
+      "duration": 0.035,
+      "pose": 5
+    },
+    {
+      "id": "E",
+      "phoneme": "\u0259",
+      "start": 7.787,
+      "duration": 0.07,
+      "pose": 3
+    },
+    {
+      "id": "nn",
+      "phoneme": "n",
+      "start": 7.847,
+      "duration": 0.059,
+      "pose": 7
+    },
+    {
+      "id": "kk",
+      "phoneme": "k",
+      "start": 7.948,
+      "duration": 0.06,
+      "pose": 2
+    },
+    {
+      "id": "aa",
+      "phoneme": "\u00e6",
+      "start": 7.998,
+      "duration": 0.134,
+      "pose": 2
+    },
+    {
+      "id": "nn",
+      "phoneme": "n",
+      "start": 8.122,
+      "duration": 0.06,
+      "pose": 7
+    },
+    {
+      "id": "E",
+      "phoneme": "\u025c",
+      "start": 8.263,
+      "duration": 0.134,
+      "pose": 3
+    },
+    {
+      "id": "RR",
+      "phoneme": "\u0279",
+      "start": 8.387,
+      "duration": 0.106,
+      "pose": 4
+    },
+    {
+      "id": "DD",
+      "phoneme": "t",
+      "start": 8.483,
+      "duration": 0.224,
+      "pose": 7
+    },
+    {
+      "id": "I",
+      "phoneme": "i",
+      "start": 8.848,
+      "duration": 0.157,
+      "pose": 3
+    },
+    {
+      "id": "FF",
+      "phoneme": "v",
+      "start": 8.995000000000001,
+      "duration": 0.074,
+      "pose": 6
+    },
+    {
+      "id": "I",
+      "phoneme": "\u026a",
+      "start": 9.059000000000001,
+      "duration": 0.06,
+      "pose": 3
+    },
+    {
+      "id": "nn",
+      "phoneme": "n",
+      "start": 9.109,
+      "duration": 0.06,
+      "pose": 7
+    },
+    {
+      "id": "U",
+      "phoneme": "w",
+      "start": 9.21,
+      "duration": 0.037,
+      "pose": 5
+    },
+    {
+      "id": "E",
+      "phoneme": "\u025b",
+      "start": 9.237,
+      "duration": 0.109,
+      "pose": 3
+    },
+    {
+      "id": "nn",
+      "phoneme": "n",
+      "start": 9.336,
+      "duration": 0.06,
+      "pose": 7
+    },
+    {
+      "id": "U",
+      "phoneme": "w",
+      "start": 9.436,
+      "duration": 0.037,
+      "pose": 5
+    },
+    {
+      "id": "I",
+      "phoneme": "i",
+      "start": 9.463000000000001,
+      "duration": 0.115,
+      "pose": 3
+    },
+    {
+      "id": "kk",
+      "phoneme": "k",
+      "start": 9.643,
+      "duration": 0.06,
+      "pose": 2
+    },
+    {
+      "id": "O",
+      "phoneme": "\u0254",
+      "start": 9.693,
+      "duration": 0.142,
+      "pose": 4
+    },
+    {
+      "id": "RR",
+      "phoneme": "l",
+      "start": 9.825000000000001,
+      "duration": 0.049,
+      "pose": 4
+    },
+    {
+      "id": "I",
+      "phoneme": "\u026a",
+      "start": 9.893,
+      "duration": 0.082,
+      "pose": 3
+    },
+    {
+      "id": "DD",
+      "phoneme": "t",
+      "start": 9.965,
+      "duration": 0.035,
+      "pose": 7
+    },
+    {
+      "id": "E",
+      "phoneme": "\u0259",
+      "start": 10.029,
+      "duration": 0.06,
+      "pose": 3
+    },
+    {
+      "id": "CH",
+      "phoneme": "\u02a4",
+      "start": 10.165000000000001,
+      "duration": 0.06,
+      "pose": 3
+    },
+    {
+      "id": "O",
+      "phoneme": "O",
+      "start": 10.215,
+      "duration": 0.244,
+      "pose": 4
+    },
+    {
+      "id": "kk",
+      "phoneme": "k",
+      "start": 10.449,
+      "duration": 0.424,
+      "pose": 2
+    },
+    {
+      "id": "I",
+      "phoneme": "\u026a",
+      "start": 11.831999999999999,
+      "duration": 0.104,
+      "pose": 3
+    },
+    {
+      "id": "FF",
+      "phoneme": "f",
+      "start": 11.925999999999998,
+      "duration": 0.06,
+      "pose": 6
+    },
+    {
+      "id": "SS",
+      "phoneme": "s",
+      "start": 12.036999999999999,
+      "duration": 0.045,
+      "pose": 3
+    },
+    {
+      "id": "aa",
+      "phoneme": "\u028c",
+      "start": 12.072,
+      "duration": 0.096,
+      "pose": 2
+    },
+    {
+      "id": "PP",
+      "phoneme": "m",
+      "start": 12.158,
+      "duration": 0.06,
+      "pose": 1
+    },
+    {
+      "id": "U",
+      "phoneme": "w",
+      "start": 12.207999999999998,
+      "duration": 0.035,
+      "pose": 5
+    },
+    {
+      "id": "E",
+      "phoneme": "\u0259",
+      "start": 12.232999999999999,
+      "duration": 0.069,
+      "pose": 3
+    },
+    {
+      "id": "nn",
+      "phoneme": "n",
+      "start": 12.292,
+      "duration": 0.06,
+      "pose": 7
+    },
+    {
+      "id": "FF",
+      "phoneme": "f",
+      "start": 12.417,
+      "duration": 0.046,
+      "pose": 6
+    },
+    {
+      "id": "I",
+      "phoneme": "i",
+      "start": 12.453,
+      "duration": 0.152,
+      "pose": 3
+    },
+    {
+      "id": "RR",
+      "phoneme": "l",
+      "start": 12.594999999999999,
+      "duration": 0.074,
+      "pose": 4
+    },
+    {
+      "id": "SS",
+      "phoneme": "z",
+      "start": 12.658999999999999,
+      "duration": 0.058,
+      "pose": 3
+    },
+    {
+      "id": "E",
+      "phoneme": "\u025c",
+      "start": 12.783,
+      "duration": 0.12,
+      "pose": 3
+    },
+    {
+      "id": "RR",
+      "phoneme": "\u0279",
+      "start": 12.892999999999999,
+      "duration": 0.076,
+      "pose": 4
+    },
+    {
+      "id": "DD",
+      "phoneme": "t",
+      "start": 12.959,
+      "duration": 0.049,
+      "pose": 7
+    },
+    {
+      "id": "RR",
+      "phoneme": "l",
+      "start": 13.068999999999999,
+      "duration": 0.035,
+      "pose": 4
+    },
+    {
+      "id": "E",
+      "phoneme": "\u025b",
+      "start": 13.094,
+      "duration": 0.099,
+      "pose": 3
+    },
+    {
+      "id": "DD",
+      "phoneme": "t",
+      "start": 13.183,
+      "duration": 0.056,
+      "pose": 7
+    },
+    {
+      "id": "SS",
+      "phoneme": "s",
+      "start": 13.229,
+      "duration": 0.036,
+      "pose": 3
+    },
+    {
+      "id": "SS",
+      "phoneme": "s",
+      "start": 13.324,
+      "duration": 0.066,
+      "pose": 3
+    },
+    {
+      "id": "DD",
+      "phoneme": "t",
+      "start": 13.379999999999999,
+      "duration": 0.06,
+      "pose": 7
+    },
+    {
+      "id": "aa",
+      "phoneme": "\u0251",
+      "start": 13.43,
+      "duration": 0.198,
+      "pose": 2
+    },
+    {
+      "id": "PP",
+      "phoneme": "p",
+      "start": 13.617999999999999,
+      "duration": 0.06,
+      "pose": 1
+    },
+    {
+      "id": "E",
+      "phoneme": "\u0259",
+      "start": 13.706999999999999,
+      "duration": 0.045,
+      "pose": 3
+    },
+    {
+      "id": "nn",
+      "phoneme": "n",
+      "start": 13.741999999999999,
+      "duration": 0.035,
+      "pose": 7
+    },
+    {
+      "id": "DD",
+      "phoneme": "d",
+      "start": 13.767,
+      "duration": 0.037,
+      "pose": 7
+    },
+    {
+      "id": "RR",
+      "phoneme": "l",
+      "start": 13.844999999999999,
+      "duration": 0.036,
+      "pose": 4
+    },
+    {
+      "id": "I",
+      "phoneme": "\u026a",
+      "start": 13.870999999999999,
+      "duration": 0.135,
+      "pose": 3
+    },
+    {
+      "id": "SS",
+      "phoneme": "s",
+      "start": 13.995999999999999,
+      "duration": 0.106,
+      "pose": 3
+    },
+    {
+      "id": "E",
+      "phoneme": "\u0259",
+      "start": 14.091999999999999,
+      "duration": 0.089,
+      "pose": 3
+    },
+    {
+      "id": "nn",
+      "phoneme": "n",
+      "start": 14.171,
+      "duration": 0.324,
+      "pose": 7
+    },
+    {
+      "id": "U",
+      "phoneme": "w",
+      "start": 14.651,
+      "duration": 0.042,
+      "pose": 5
+    },
+    {
+      "id": "I",
+      "phoneme": "i",
+      "start": 14.683,
+      "duration": 0.112,
+      "pose": 3
+    },
+    {
+      "id": "O",
+      "phoneme": "\u0254",
+      "start": 14.847999999999999,
+      "duration": 0.14,
+      "pose": 4
+    },
+    {
+      "id": "RR",
+      "phoneme": "l",
+      "start": 14.978,
+      "duration": 0.06,
+      "pose": 4
+    },
+    {
+      "id": "PP",
+      "phoneme": "m",
+      "start": 15.078,
+      "duration": 0.035,
+      "pose": 1
+    },
+    {
+      "id": "E",
+      "phoneme": "A",
+      "start": 15.103,
+      "duration": 0.112,
+      "pose": 3
+    },
+    {
+      "id": "kk",
+      "phoneme": "k",
+      "start": 15.204999999999998,
+      "duration": 0.06,
+      "pose": 2
+    },
+    {
+      "id": "PP",
+      "phoneme": "m",
+      "start": 15.305,
+      "duration": 0.052,
+      "pose": 1
+    },
+    {
+      "id": "I",
+      "phoneme": "\u026a",
+      "start": 15.347,
+      "duration": 0.105,
+      "pose": 3
+    },
+    {
+      "id": "SS",
+      "phoneme": "s",
+      "start": 15.442,
+      "duration": 0.084,
+      "pose": 3
+    },
+    {
+      "id": "DD",
+      "phoneme": "t",
+      "start": 15.515999999999998,
+      "duration": 0.06,
+      "pose": 7
+    },
+    {
+      "id": "E",
+      "phoneme": "A",
+      "start": 15.565999999999999,
+      "duration": 0.205,
+      "pose": 3
+    },
+    {
+      "id": "kk",
+      "phoneme": "k",
+      "start": 15.761,
+      "duration": 0.086,
+      "pose": 2
+    },
+    {
+      "id": "SS",
+      "phoneme": "s",
+      "start": 15.837,
+      "duration": 0.337,
+      "pose": 3
+    },
+    {
+      "id": "U",
+      "phoneme": "w",
+      "start": 16.33,
+      "duration": 0.039,
+      "pose": 5
+    },
+    {
+      "id": "aa",
+      "phoneme": "\u028c",
+      "start": 16.358999999999998,
+      "duration": 0.109,
+      "pose": 2
+    },
+    {
+      "id": "DD",
+      "phoneme": "t",
+      "start": 16.458,
+      "duration": 0.06,
+      "pose": 7
+    },
+    {
+      "id": "PP",
+      "phoneme": "m",
+      "start": 16.564999999999998,
+      "duration": 0.059,
+      "pose": 1
+    },
+    {
+      "id": "aa",
+      "phoneme": "\u00e6",
+      "start": 16.613999999999997,
+      "duration": 0.164,
+      "pose": 2
+    },
+    {
+      "id": "DD",
+      "phoneme": "t",
+      "start": 16.768,
+      "duration": 0.081,
+      "pose": 7
+    },
+    {
+      "id": "E",
+      "phoneme": "\u025c",
+      "start": 16.839,
+      "duration": 0.081,
+      "pose": 3
+    },
+    {
+      "id": "RR",
+      "phoneme": "\u0279",
+      "start": 16.91,
+      "duration": 0.088,
+      "pose": 4
+    },
+    {
+      "id": "SS",
+      "phoneme": "z",
+      "start": 16.988,
+      "duration": 0.059,
+      "pose": 3
+    },
+    {
+      "id": "I",
+      "phoneme": "\u026a",
+      "start": 17.083,
+      "duration": 0.104,
+      "pose": 3
+    },
+    {
+      "id": "SS",
+      "phoneme": "z",
+      "start": 17.177,
+      "duration": 0.061,
+      "pose": 3
+    },
+    {
+      "id": "U",
+      "phoneme": "w",
+      "start": 17.299,
+      "duration": 0.037,
+      "pose": 5
+    },
+    {
+      "id": "aa",
+      "phoneme": "\u028c",
+      "start": 17.326,
+      "duration": 0.107,
+      "pose": 2
+    },
+    {
+      "id": "DD",
+      "phoneme": "t",
+      "start": 17.423,
+      "duration": 0.051,
+      "pose": 7
+    },
+    {
+      "id": "U",
+      "phoneme": "w",
+      "start": 17.514,
+      "duration": 0.035,
+      "pose": 5
+    },
+    {
+      "id": "I",
+      "phoneme": "i",
+      "start": 17.539,
+      "duration": 0.117,
+      "pose": 3
+    },
+    {
+      "id": "CH",
+      "phoneme": "\u02a7",
+      "start": 17.732,
+      "duration": 0.06,
+      "pose": 3
+    },
+    {
+      "id": "U",
+      "phoneme": "u",
+      "start": 17.782,
+      "duration": 0.172,
+      "pose": 5
+    },
+    {
+      "id": "SS",
+      "phoneme": "z",
+      "start": 17.944,
+      "duration": 0.061,
+      "pose": 3
+    },
+    {
+      "id": "nn",
+      "phoneme": "n",
+      "start": 18.052,
+      "duration": 0.057,
+      "pose": 7
+    },
+    {
+      "id": "E",
+      "phoneme": "\u025b",
+      "start": 18.099,
+      "duration": 0.184,
+      "pose": 3
+    },
+    {
+      "id": "kk",
+      "phoneme": "k",
+      "start": 18.273,
+      "duration": 0.09,
+      "pose": 2
+    },
+    {
+      "id": "SS",
+      "phoneme": "s",
+      "start": 18.352999999999998,
+      "duration": 0.084,
+      "pose": 3
+    },
+    {
+      "id": "DD",
+      "phoneme": "t",
+      "start": 18.427,
+      "duration": 0.344,
+      "pose": 7
+    },
+    {
+      "id": "U",
+      "phoneme": "w",
+      "start": 19.823999999999998,
+      "duration": 0.046,
+      "pose": 5
+    },
+    {
+      "id": "I",
+      "phoneme": "i",
+      "start": 19.86,
+      "duration": 0.11,
+      "pose": 3
+    },
+    {
+      "id": "kk",
+      "phoneme": "k",
+      "start": 20.009999999999998,
+      "duration": 0.042,
+      "pose": 2
+    },
+    {
+      "id": "aa",
+      "phoneme": "\u00e6",
+      "start": 20.041999999999998,
+      "duration": 0.109,
+      "pose": 2
+    },
+    {
+      "id": "nn",
+      "phoneme": "n",
+      "start": 20.141,
+      "duration": 0.061,
+      "pose": 7
+    },
+    {
+      "id": "SS",
+      "phoneme": "s",
+      "start": 20.264999999999997,
+      "duration": 0.057,
+      "pose": 3
+    },
+    {
+      "id": "E",
+      "phoneme": "A",
+      "start": 20.311999999999998,
+      "duration": 0.157,
+      "pose": 3
+    },
+    {
+      "id": "SS",
+      "phoneme": "s",
+      "start": 20.584,
+      "duration": 0.075,
+      "pose": 3
+    },
+    {
+      "id": "aa",
+      "phoneme": "\u0251",
+      "start": 20.648999999999997,
+      "duration": 0.212,
+      "pose": 2
+    },
+    {
+      "id": "RR",
+      "phoneme": "\u0279",
+      "start": 20.851,
+      "duration": 0.089,
+      "pose": 4
+    },
+    {
+      "id": "I",
+      "phoneme": "i",
+      "start": 20.93,
+      "duration": 0.074,
+      "pose": 3
+    },
+    {
+      "id": "PP",
+      "phoneme": "m",
+      "start": 21.070999999999998,
+      "duration": 0.036,
+      "pose": 1
+    },
+    {
+      "id": "E",
+      "phoneme": "A",
+      "start": 21.096999999999998,
+      "duration": 0.111,
+      "pose": 3
+    },
+    {
+      "id": "kk",
+      "phoneme": "k",
+      "start": 21.198,
+      "duration": 0.06,
+      "pose": 2
+    },
+    {
+      "id": "TH",
+      "phoneme": "\u03b8",
+      "start": 21.299,
+      "duration": 0.035,
+      "pose": 7
+    },
+    {
+      "id": "I",
+      "phoneme": "\u026a",
+      "start": 21.323999999999998,
+      "duration": 0.123,
+      "pose": 3
+    },
+    {
+      "id": "nn",
+      "phoneme": "\u014b",
+      "start": 21.436999999999998,
+      "duration": 0.085,
+      "pose": 7
+    },
+    {
+      "id": "SS",
+      "phoneme": "z",
+      "start": 21.512,
+      "duration": 0.063,
+      "pose": 3
+    },
+    {
+      "id": "RR",
+      "phoneme": "\u0279",
+      "start": 21.641,
+      "duration": 0.06,
+      "pose": 4
+    },
+    {
+      "id": "I",
+      "phoneme": "I",
+      "start": 21.691,
+      "duration": 0.186,
+      "pose": 3
+    },
+    {
+      "id": "DD",
+      "phoneme": "t",
+      "start": 21.866999999999997,
+      "duration": 0.045,
+      "pose": 7
+    },
+    {
+      "id": "E",
+      "phoneme": "\u0259",
+      "start": 21.968,
+      "duration": 0.035,
+      "pose": 3
+    },
+    {
+      "id": "nn",
+      "phoneme": "n",
+      "start": 21.993,
+      "duration": 0.035,
+      "pose": 7
+    },
+    {
+      "id": "DD",
+      "phoneme": "d",
+      "start": 22.017999999999997,
+      "duration": 0.035,
+      "pose": 7
+    },
+    {
+      "id": "E",
+      "phoneme": "\u025b",
+      "start": 22.118,
+      "duration": 0.105,
+      "pose": 3
+    },
+    {
+      "id": "RR",
+      "phoneme": "l",
+      "start": 22.212999999999997,
+      "duration": 0.061,
+      "pose": 4
+    },
+    {
+      "id": "PP",
+      "phoneme": "p",
+      "start": 22.264,
+      "duration": 0.06,
+      "pose": 1
+    },
+    {
+      "id": "SS",
+      "phoneme": "s",
+      "start": 22.387999999999998,
+      "duration": 0.045,
+      "pose": 3
+    },
+    {
+      "id": "aa",
+      "phoneme": "\u028c",
+      "start": 22.423,
+      "duration": 0.106,
+      "pose": 2
+    },
+    {
+      "id": "PP",
+      "phoneme": "m",
+      "start": 22.519,
+      "duration": 0.064,
+      "pose": 1
+    },
+    {
+      "id": "U",
+      "phoneme": "w",
+      "start": 22.573,
+      "duration": 0.036,
+      "pose": 5
+    },
+    {
+      "id": "E",
+      "phoneme": "\u0259",
+      "start": 22.598999999999997,
+      "duration": 0.08,
+      "pose": 3
+    },
+    {
+      "id": "nn",
+      "phoneme": "n",
+      "start": 22.668999999999997,
+      "duration": 0.06,
+      "pose": 7
+    },
+    {
+      "id": "FF",
+      "phoneme": "f",
+      "start": 22.802,
+      "duration": 0.048,
+      "pose": 6
+    },
+    {
+      "id": "I",
+      "phoneme": "i",
+      "start": 22.84,
+      "duration": 0.166,
+      "pose": 3
+    },
+    {
+      "id": "RR",
+      "phoneme": "l",
+      "start": 22.996,
+      "duration": 0.06,
+      "pose": 4
+    },
+    {
+      "id": "I",
+      "phoneme": "\u026a",
+      "start": 23.089,
+      "duration": 0.085,
+      "pose": 3
+    },
+    {
+      "id": "nn",
+      "phoneme": "n",
+      "start": 23.163999999999998,
+      "duration": 0.104,
+      "pose": 7
+    },
+    {
+      "id": "kk",
+      "phoneme": "k",
+      "start": 23.258,
+      "duration": 0.084,
+      "pose": 2
+    },
+    {
+      "id": "RR",
+      "phoneme": "l",
+      "start": 23.331999999999997,
+      "duration": 0.038,
+      "pose": 4
+    },
+    {
+      "id": "U",
+      "phoneme": "u",
+      "start": 23.36,
+      "duration": 0.118,
+      "pose": 5
+    },
+    {
+      "id": "DD",
+      "phoneme": "d",
+      "start": 23.467999999999996,
+      "duration": 0.085,
+      "pose": 7
+    },
+    {
+      "id": "E",
+      "phoneme": "\u0259",
+      "start": 23.543,
+      "duration": 0.086,
+      "pose": 3
+    },
+    {
+      "id": "DD",
+      "phoneme": "d",
+      "start": 23.619,
+      "duration": 0.292,
+      "pose": 7
+    },
+    {
+      "id": "I",
+      "phoneme": "\u026a",
+      "start": 24.052999999999997,
+      "duration": 0.11,
+      "pose": 3
+    },
+    {
+      "id": "DD",
+      "phoneme": "t",
+      "start": 24.153,
+      "duration": 0.061,
+      "pose": 7
+    },
+    {
+      "id": "SS",
+      "phoneme": "s",
+      "start": 24.204,
+      "duration": 0.069,
+      "pose": 3
+    },
+    {
+      "id": "nn",
+      "phoneme": "n",
+      "start": 24.334999999999997,
+      "duration": 0.035,
+      "pose": 7
+    },
+    {
+      "id": "E",
+      "phoneme": "\u025b",
+      "start": 24.36,
+      "duration": 0.109,
+      "pose": 3
+    },
+    {
+      "id": "FF",
+      "phoneme": "v",
+      "start": 24.459,
+      "duration": 0.054,
+      "pose": 6
+    },
+    {
+      "id": "E",
+      "phoneme": "\u025c",
+      "start": 24.503,
+      "duration": 0.051,
+      "pose": 3
+    },
+    {
+      "id": "RR",
+      "phoneme": "\u0279",
+      "start": 24.543999999999997,
+      "duration": 0.06,
+      "pose": 4
+    },
+    {
+      "id": "DD",
+      "phoneme": "t",
+      "start": 24.683999999999997,
+      "duration": 0.06,
+      "pose": 7
+    },
+    {
+      "id": "U",
+      "phoneme": "u",
+      "start": 24.733999999999998,
+      "duration": 0.148,
+      "pose": 5
+    },
+    {
+      "id": "RR",
+      "phoneme": "l",
+      "start": 24.926,
+      "duration": 0.046,
+      "pose": 4
+    },
+    {
+      "id": "E",
+      "phoneme": "A",
+      "start": 24.962,
+      "duration": 0.139,
+      "pose": 3
+    },
+    {
+      "id": "DD",
+      "phoneme": "t",
+      "start": 25.090999999999998,
+      "duration": 0.057,
+      "pose": 7
+    },
+    {
+      "id": "DD",
+      "phoneme": "t",
+      "start": 25.211,
+      "duration": 0.057,
+      "pose": 7
+    },
+    {
+      "id": "U",
+      "phoneme": "u",
+      "start": 25.258,
+      "duration": 0.143,
+      "pose": 5
+    },
+    {
+      "id": "CH",
+      "phoneme": "\u02a7",
+      "start": 25.471999999999998,
+      "duration": 0.059,
+      "pose": 3
+    },
+    {
+      "id": "U",
+      "phoneme": "u",
+      "start": 25.521,
+      "duration": 0.145,
+      "pose": 5
+    },
+    {
+      "id": "SS",
+      "phoneme": "z",
+      "start": 25.656,
+      "duration": 0.06,
+      "pose": 3
+    },
+    {
+      "id": "kk",
+      "phoneme": "k",
+      "start": 25.779999999999998,
+      "duration": 0.063,
+      "pose": 2
+    },
+    {
+      "id": "I",
+      "phoneme": "I",
+      "start": 25.833,
+      "duration": 0.189,
+      "pose": 3
+    },
+    {
+      "id": "nn",
+      "phoneme": "n",
+      "start": 26.012,
+      "duration": 0.057,
+      "pose": 7
+    },
+    {
+      "id": "DD",
+      "phoneme": "d",
+      "start": 26.058999999999997,
+      "duration": 0.061,
+      "pose": 7
+    },
+    {
+      "id": "nn",
+      "phoneme": "n",
+      "start": 26.11,
+      "duration": 0.082,
+      "pose": 7
+    },
+    {
+      "id": "E",
+      "phoneme": "\u0259",
+      "start": 26.182,
+      "duration": 0.103,
+      "pose": 3
+    },
+    {
+      "id": "SS",
+      "phoneme": "s",
+      "start": 26.275,
+      "duration": 0.387,
+      "pose": 3
+    },
+    {
+      "id": "I",
+      "phoneme": "j",
+      "start": 26.837999999999997,
+      "duration": 0.045,
+      "pose": 3
+    },
+    {
+      "id": "U",
+      "phoneme": "u",
+      "start": 26.872999999999998,
+      "duration": 0.112,
+      "pose": 5
+    },
+    {
+      "id": "PP",
+      "phoneme": "m",
+      "start": 27.04,
+      "duration": 0.06,
+      "pose": 1
+    },
+    {
+      "id": "aa",
+      "phoneme": "\u00e6",
+      "start": 27.09,
+      "duration": 0.184,
+      "pose": 2
+    },
+    {
+      "id": "DD",
+      "phoneme": "t",
+      "start": 27.264,
+      "duration": 0.087,
+      "pose": 7
+    },
+    {
+      "id": "E",
+      "phoneme": "\u025c",
+      "start": 27.340999999999998,
+      "duration": 0.089,
+      "pose": 3
+    },
+    {
+      "id": "RR",
+      "phoneme": "\u0279",
+      "start": 27.419999999999998,
+      "duration": 0.18,
+      "pose": 4
+    },
+    {
+      "id": "TH",
+      "phoneme": "\u00f0",
+      "start": 27.724999999999998,
+      "duration": 0.042,
+      "pose": 7
+    },
+    {
+      "id": "E",
+      "phoneme": "A",
+      "start": 27.756999999999998,
+      "duration": 0.123,
+      "pose": 3
+    },
+    {
+      "id": "PP",
+      "phoneme": "m",
+      "start": 27.923,
+      "duration": 0.051,
+      "pose": 1
+    },
+    {
+      "id": "aa",
+      "phoneme": "\u00e6",
+      "start": 27.964,
+      "duration": 0.141,
+      "pose": 2
+    },
+    {
+      "id": "DD",
+      "phoneme": "t",
+      "start": 28.095,
+      "duration": 0.064,
+      "pose": 7
+    },
+    {
+      "id": "E",
+      "phoneme": "\u025c",
+      "start": 28.149,
+      "duration": 0.06,
+      "pose": 3
+    },
+    {
+      "id": "RR",
+      "phoneme": "\u0279",
+      "start": 28.198999999999998,
+      "duration": 0.061,
+      "pose": 4
+    },
+    {
+      "id": "DD",
+      "phoneme": "t",
+      "start": 28.348,
+      "duration": 0.061,
+      "pose": 7
+    },
+    {
+      "id": "U",
+      "phoneme": "u",
+      "start": 28.399,
+      "duration": 0.41,
+      "pose": 5
+    },
+    {
+      "id": "RR",
+      "phoneme": "l",
+      "start": 28.967999999999996,
+      "duration": 0.035,
+      "pose": 4
+    },
+    {
+      "id": "E",
+      "phoneme": "\u025b",
+      "start": 28.993,
+      "duration": 0.097,
+      "pose": 3
+    },
+    {
+      "id": "DD",
+      "phoneme": "t",
+      "start": 29.08,
+      "duration": 0.06,
+      "pose": 7
+    },
+    {
+      "id": "SS",
+      "phoneme": "s",
+      "start": 29.13,
+      "duration": 0.059,
+      "pose": 3
+    },
+    {
+      "id": "PP",
+      "phoneme": "m",
+      "start": 29.229,
+      "duration": 0.035,
+      "pose": 1
+    },
+    {
+      "id": "E",
+      "phoneme": "A",
+      "start": 29.253999999999998,
+      "duration": 0.112,
+      "pose": 3
+    },
+    {
+      "id": "kk",
+      "phoneme": "k",
+      "start": 29.355999999999998,
+      "duration": 0.061,
+      "pose": 2
+    },
+    {
+      "id": "RR",
+      "phoneme": "\u0279",
+      "start": 29.485,
+      "duration": 0.057,
+      "pose": 4
+    },
+    {
+      "id": "U",
+      "phoneme": "u",
+      "start": 29.531999999999996,
+      "duration": 0.178,
+      "pose": 5
+    },
+    {
+      "id": "PP",
+      "phoneme": "m",
+      "start": 29.7,
+      "duration": 0.061,
+      "pose": 1
+    },
+    {
+      "id": "FF",
+      "phoneme": "f",
+      "start": 29.826999999999998,
+      "duration": 0.044,
+      "pose": 6
+    },
+    {
+      "id": "O",
+      "phoneme": "\u0254",
+      "start": 29.860999999999997,
+      "duration": 0.128,
+      "pose": 4
+    },
+    {
+      "id": "RR",
+      "phoneme": "\u0279",
+      "start": 29.979,
+      "duration": 0.06,
+      "pose": 4
+    },
+    {
+      "id": "E",
+      "phoneme": "\u025b",
+      "start": 30.083,
+      "duration": 0.11,
+      "pose": 3
+    },
+    {
+      "id": "FF",
+      "phoneme": "v",
+      "start": 30.183,
+      "duration": 0.061,
+      "pose": 6
+    },
+    {
+      "id": "RR",
+      "phoneme": "\u0279",
+      "start": 30.233999999999998,
+      "duration": 0.062,
+      "pose": 4
+    },
+    {
+      "id": "I",
+      "phoneme": "i",
+      "start": 30.285999999999998,
+      "duration": 0.092,
+      "pose": 3
+    },
+    {
+      "id": "U",
+      "phoneme": "w",
+      "start": 30.368,
+      "duration": 0.06,
+      "pose": 5
+    },
+    {
+      "id": "E",
+      "phoneme": "\u0259",
+      "start": 30.418,
+      "duration": 0.15,
+      "pose": 3
+    },
+    {
+      "id": "nn",
+      "phoneme": "n",
+      "start": 30.558,
+      "duration": 0.445,
+      "pose": 7
+    }
+  ],
+  "captions": [
+    {
+      "start": 0.7500000000000001,
+      "end": 2.17,
+      "text": "Hey, friends."
+    },
+    {
+      "start": 2.17,
+      "end": 6.7860000000000005,
+      "text": "Our time together is too precious to spend making someone feel small."
+    },
+    {
+      "start": 6.7860000000000005,
+      "end": 11.05,
+      "text": "Making fun of someone can hurt, even when we call it a joke."
+    },
+    {
+      "start": 11.751999999999999,
+      "end": 14.571,
+      "text": "If someone feels hurt, let's stop and listen."
+    },
+    {
+      "start": 14.571,
+      "end": 16.25,
+      "text": "We all make mistakes."
+    },
+    {
+      "start": 16.25,
+      "end": 19.0,
+      "text": "What matters is what we choose next."
+    },
+    {
+      "start": 19.744,
+      "end": 23.973,
+      "text": "We can say sorry, make things right, and help someone feel included."
+    },
+    {
+      "start": 23.973,
+      "end": 26.758,
+      "text": "It's never too late to choose kindness."
+    },
+    {
+      "start": 26.758,
+      "end": 27.645,
+      "text": "You matter."
+    },
+    {
+      "start": 27.645,
+      "end": 28.887999999999998,
+      "text": "They matter too."
+    },
+    {
+      "start": 28.887999999999998,
+      "end": 31.2,
+      "text": "Let's make room for everyone."
+    }
+  ],
+  "atlas": "../v0.9.2-voice/DINO_v0.9.1a_stable_poses.png",
+  "atlasSha256": "7d32c3d1eacfd0c14c3ff17628a405a4e2362a9f5d152bcae9925f090915c0e3",
+  "status": "unapproved depth comparison candidate; approved voice1.0 unchanged",
+  "limitations": "Model-predicted timing; coarse eight-pose speech with unchanged welcoming study expression/static body; no emotion conditioning or agent auditory assessment."
+}

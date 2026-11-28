@@ -214,3 +214,9 @@ Approval applies to the selected voice baseline and this delivered scene. Retain
 
 ## 2026-11-28 — controlled depth candidate authorized
 Owner found approved voice too youthful and requested deeper/soothing qualities, then asked for broad resonant, calm, warm narrator-like qualities. Owner proceeded with the proposed30%Fenrir/70%Michael comparison against approved70/30, using the exact same kindness dialogue. This is an original stock-voice blend experiment, not a clone or impersonation of any named person; no celebrity recordings/reference audio are used. No guaranteed depth/soothing effect or auditory verdict. Keep speed1, dialogue, pauses, artwork and production engine fixed; no pitch lowering or waveform effects. Approved DINO-voice-1.0 and accepted v0.9.6 remain unchanged. New candidate v0.9.7 requires director preference before any replacement. No new Actions.
+
+
+## 2026-11-28 — depth candidate generated
+Actual30%Fenrir/70%Michael style-bank interpolation SHA2567140b7553f9115b7d8e5d55f8d2ebe571e3c549b568ba0fa9a191f3286f06ec4 produced3 fresh neural PCM chapters of the exact approved kindness script at speed1. Joined32.2s WAV/MP3 and773-frame32.2083s captioned MP4, raw/predicted timing and VTT saved. Zero clipping, original PCM retained, full media decode and cue bounds pass, source neutral recovery exact. Actual contact board inspected. More depth/warmth is the creative target, not an asserted auditory finding. No pitch effects or named-person voice cloning.
+
+New prerecorded-only A/B page references unchanged approved70/30 media and new30/70 candidate, with opening-paragraph comparison control and full performances. Prior poster/atlas reused. Candidate remains unapproved; canonical voice1.0 config and accepted v0.9.6 untouched. Source/data checkpoint precedes hosted QA. No new Actions.

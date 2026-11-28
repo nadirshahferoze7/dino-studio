@@ -54,5 +54,6 @@
     }
   },
   "title": "Make room for everyone",
-  "voiceVersion": "depth-candidate-unapproved"
+  "voiceVersion": "depth-candidate-unapproved",
+  "styleBankSha256": "7140b7553f9115b7d8e5d55f8d2ebe571e3c549b568ba0fa9a191f3286f06ec4"
 }
