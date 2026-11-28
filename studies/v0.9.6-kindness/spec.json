@@ -1,0 +1,58 @@
+{
+  "version": "v0.9.6",
+  "model": "onnx-community/Kokoro-82M-v1.0-ONNX-timestamped",
+  "modelRevision": "dd4401a9add81ac692d20e240d22ec9dda82cc29",
+  "voices": [
+    "dino_fenrir_michael_70_30"
+  ],
+  "lines": [
+    [
+      "Notice the hurt",
+      "Hey, friends. Our time together is too precious to spend making someone feel small. Making fun of someone can hurt, even when we call it a joke."
+    ],
+    [
+      "Choose what comes next",
+      "If someone feels hurt, let's stop and listen. We all make mistakes. What matters is what we choose next."
+    ],
+    [
+      "Make room for everyone",
+      "We can say sorry, make things right, and help someone feel included. It's never too late to choose kindness. You matter. They matter too. Let's make room for everyone."
+    ]
+  ],
+  "speed": 1,
+  "poseMap": {
+    "sil": 0,
+    "PP": 1,
+    "aa": 2,
+    "E": 3,
+    "I": 3,
+    "O": 4,
+    "U": 5,
+    "FF": 6,
+    "TH": 7,
+    "nn": 7,
+    "DD": 7,
+    "SS": 3,
+    "CH": 3,
+    "kk": 2,
+    "RR": 4
+  },
+  "evaluationWeights": {
+    "Naturalness": 30,
+    "Character suitability": 25,
+    "Emotional expressiveness": 20,
+    "Voice consistency": 15,
+    "Pronunciation and clarity": 10
+  },
+  "voiceLabels": {
+    "dino_fenrir_michael_70_30": "Dino"
+  },
+  "voiceRecipes": {
+    "dino_fenrir_michael_70_30": {
+      "am_fenrir": 0.7,
+      "am_michael": 0.3
+    }
+  },
+  "title": "Make room for everyone",
+  "voiceVersion": "DINO-voice-1.0"
+}
