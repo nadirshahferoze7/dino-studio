@@ -1,0 +1,56 @@
+{
+  "date": "2026-11-28",
+  "url": "https://nadirshahferoze7.github.io/dino-studio/studies/v0.9.4-auditions/",
+  "productionCommit": "d4ab5fc68db49bfd502b30e091d3b08271201941",
+  "browser": "Cloud Chrome",
+  "audioPlayback": {
+    "all15PlayedToEnded": true,
+    "method": "Five line selections; each Compare all three sequence ran Puck/Fenrir/Liam to completion. Actual media duration/currentTime/ended read from rendered DOM.",
+    "overlap": "Only current voice playing; others paused",
+    "neutralRecovery": "Observed neutral mouths after audio end; live Liam mouth movement visually sampled"
+  },
+  "videoPlayback": {
+    "all3PlayedToEnded": true,
+    "durations": {
+      "am_puck": 16.75,
+      "am_fenrir": 16.75,
+      "am_liam": 17.625
+    },
+    "visualInspection": "Actual hosted video frames observed for all three, plus sampled full-sequence contact boards. Static body, coarse eight-pose articulation and existing speech-study face remain limitations."
+  },
+  "desktop": {
+    "cssWidth": 1363,
+    "horizontalOverflow": false
+  },
+  "mobile": {
+    "method": "Real hosted page embedded in Cloud Chrome iframe at360/390/430 CSS px, not hardware emulation",
+    "viewports": [
+      {
+        "iframeWidth": 360,
+        "contentClientWidth": 345,
+        "contentScrollWidth": 345,
+        "cardWidth": 309
+      },
+      {
+        "iframeWidth": 390,
+        "contentClientWidth": 375,
+        "contentScrollWidth": 375,
+        "cardWidth": 339
+      },
+      {
+        "iframeWidth": 430,
+        "contentClientWidth": 415,
+        "contentScrollWidth": 415,
+        "cardWidth": 379
+      }
+    ],
+    "horizontalOverflow": false,
+    "singleColumnCards": true,
+    "comparisonPlayback": "Friendly Puck/Fenrir/Liam all reached ended in390px layout; individual Puck replay also ran",
+    "physicalAndroidIOS": "Not tested"
+  },
+  "listening": "Audio playback verified technically, no auditory perception or artistic quality scores claimed",
+  "console": "Observed extension metadata errors only; no site-script errors observed",
+  "deployment": "Existing Pages deployments d4ab5fc,6f626fe,c9a4cc2 completed success. Initial404s while deploying resolved; no new Actions.",
+  "scorecard": "All three outputs read Not yet rated; no fabricated ratings"
+}

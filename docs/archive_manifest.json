@@ -1015,6 +1015,46 @@
       ],
       "documentation": "releases/v0.7.3/README.md",
       "validation": "releases/v0.7.3/evidence/player-render.json"
+    },
+    {
+      "version": "v0.9.4",
+      "status": "actual neural audition, hosted playback verified; voice not approved",
+      "inventory": "studies/v0.9.4-auditions/asset-inventory.json",
+      "sha256": "7204a5abfc90cc642de63f6f0ad72866cd87cbfe80e91330f3e2fa1541ef824a",
+      "git_blob_sha": "e1d1fb01c6e88e5e6b625b41438153ceac91ef63",
+      "files": 90,
+      "validation": "studies/v0.9.4-auditions/evidence/audio-validation.json",
+      "hosted_validation": "studies/v0.9.4-auditions/evidence/hosted-review.json"
+    },
+    {
+      "version": "v0.9.1-original-recovery",
+      "status": "exact historical speech study; noncanonical",
+      "files": [
+        {
+          "path": "studies/v0.9.1-speech/recovered/build_dino_talk.py",
+          "bytes": 4142,
+          "sha256": "bd6ed10d0aae1075073e45aa63168323ff31e4774cd35919bd47af93a98b0979",
+          "git_blob_sha": "53b548e883cd39671fc1ff54894f95345b0a4ae7"
+        },
+        {
+          "path": "studies/v0.9.1-speech/recovered/README.md",
+          "bytes": 740,
+          "sha256": "2f82217b11532635cddda1a84cacfc1f8062da59b07f57f30cf1a4b082628812",
+          "git_blob_sha": "916c5a40e43e9fa79c6d74bff0ca71e0f90ef3d3"
+        },
+        {
+          "path": "studies/v0.9.1-speech/recovered/recovery.json",
+          "bytes": 566,
+          "sha256": "edaa1c0ac351109fe97c762781fabcbfc8fed0d272caac6b96ca4f3dc0a524dd",
+          "git_blob_sha": "7027e0faf92cec75f023ad1b8bd663b763ffd1fa"
+        },
+        {
+          "path": "studies/v0.9.1-speech/recovered/DINO_v0.9.1_speech_study_source.png",
+          "bytes": 1631223,
+          "sha256": "1312d10a319af176d5c8145aa7bc6f3b368bb2720ae162466dc95c6182a84922",
+          "git_blob_sha": "2a31448216249a41dbcb6272ecd5ef738ee00391"
+        }
+      ]
     }
   ]
 }

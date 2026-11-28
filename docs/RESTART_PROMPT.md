@@ -42,3 +42,5 @@ Production effc120d06d213159e53c6adf4e84b058b348bed deployed in successful Pages
 
 ## Current voice restart (2026-11-28)
 Read studies/v0.9.4-auditions/README.md, spec, manifest, production/model-lock.json and evidence/*.json. Real prerecorded neural outputs are present; do not rebuild an inference UI or ask the director's mobile to generate speech. Reconcile remote Git paths/hashes first and transfer only missing assets. Preserve previous versions. No permanent voice approval or listening assessment yet; collect director feedback after hosted QA.
+
+Hosted v0.9.4 QA has now passed:15 MP3s/3 MP4s played to end in Cloud Chrome, narrow viewport360/390/430px checks passed (not physical phones). Original speech study source/builder recovered under v0.9.1-speech/recovered; v0.9.1a refinement source/evidence still unlocated. Next is director listening/choice; do not assume permanent voice approval or agent auditory assessment.

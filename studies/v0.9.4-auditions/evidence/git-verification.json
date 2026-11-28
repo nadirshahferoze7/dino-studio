@@ -1,0 +1,537 @@
+{
+  "verifiedCommit": "d4ab5fc68db49bfd502b30e091d3b08271201941",
+  "method": "Fetched remote Git objects; compared complete bytes to local files, SHA-256, Git blob IDs and sizes",
+  "files": [
+    {
+      "path": "studies/v0.9.4-auditions/README.md",
+      "bytes": 3827,
+      "sha256": "fe260c0d0e4033036d524169b7ac9aa1671cc1a08e0fa414e4be124fc5c768b9",
+      "gitBlob": "83ff2f1e0f6602da51504b727aea040f3bce985d"
+    },
+    {
+      "path": "studies/v0.9.4-auditions/asset-inventory.json",
+      "bytes": 21296,
+      "sha256": "c20ac1069f4b6eed94a3c660ff28b71ffa1ea8ac441a78c2935073cc61a76111",
+      "gitBlob": "31754f5a836a7680822e81cd470b3a9e286e20cb"
+    },
+    {
+      "path": "studies/v0.9.4-auditions/index.html",
+      "bytes": 3293,
+      "sha256": "b5ae25b2a46270d9d55e424896fe5ff4be0e6dcc2597851795d81e2a7d2d93ac",
+      "gitBlob": "57392afb9ce305f78bcd009b8db0e726dc5efada"
+    },
+    {
+      "path": "studies/v0.9.4-auditions/spec.json",
+      "bytes": 1021,
+      "sha256": "90acd4a0d09c756e95eac51aa82a6d721e11f8e45ae968e135d0c1683d3232a2",
+      "gitBlob": "01975b50226333ae9a4e73398708d69a786842f5"
+    },
+    {
+      "path": "studies/v0.9.4-auditions/manifest.json",
+      "bytes": 5193,
+      "sha256": "fddf74c9f8016de69b8de472ddaed48926fd811b44fd816e598ecd3e14efc92d",
+      "gitBlob": "bdb3c97ab4072e9d5b41df18cbd4e84fb678efa9"
+    },
+    {
+      "path": "studies/v0.9.4-auditions/review.mjs",
+      "bytes": 5290,
+      "sha256": "11ead927270e788f1f9ee32229c7a88ffb095348e112b630b8b2b3d7bcae81a8",
+      "gitBlob": "af6d5e68a297b450a175871a509cc1ed63a768ae"
+    },
+    {
+      "path": "studies/v0.9.4-auditions/review.css",
+      "bytes": 3890,
+      "sha256": "21092d78f0a8dc2b99e848c6efca0a70d2a73a0d44da6b37db8d41fc3f0a1051",
+      "gitBlob": "a775237d1f429c86170809e44793832fbc1c5eb5"
+    },
+    {
+      "path": "studies/v0.9.4-auditions/evidence/am_puck-render.json",
+      "bytes": 32267,
+      "sha256": "8bf8439a75a9e694b8727d369384a51af452d62116750b45936e4161b3d5caec",
+      "gitBlob": "d07f41c25da16141afb96985f8e362254c14a9ab"
+    },
+    {
+      "path": "studies/v0.9.4-auditions/evidence/am_liam-render.json",
+      "bytes": 33941,
+      "sha256": "6e90271480561539d9082deebb7641580e10c22f74a4f7b05c95dcc1e7d7c6c2",
+      "gitBlob": "a41cc23b6cf9c9f21adbd5cb25235d81aad20f9f"
+    },
+    {
+      "path": "studies/v0.9.4-auditions/evidence/am_puck-contact.jpg",
+      "bytes": 211287,
+      "sha256": "bd221be48c7494c3bcbc14b1de8fd558d770a10c960739c94adbcc37d72e5d0f",
+      "gitBlob": "16eb619b585fe4fc28b06750d32b7077e8169383"
+    },
+    {
+      "path": "studies/v0.9.4-auditions/evidence/am_puck-poster.jpg",
+      "bytes": 35230,
+      "sha256": "503e8552dab8257f032f986f8a3f7585cd0cc99fc75739351669d131e3323b14",
+      "gitBlob": "adaac790e9089b3bdfa743512b7b22a05374ce94"
+    },
+    {
+      "path": "studies/v0.9.4-auditions/evidence/audio-validation.json",
+      "bytes": 7961,
+      "sha256": "75cdfbe6589b411f38a3fd8d6dbbc1f5ae481f539f4ea7a5f0155d5ba6e78e7f",
+      "gitBlob": "0920d5b593211133559fb8f436d135927eb60de4"
+    },
+    {
+      "path": "studies/v0.9.4-auditions/evidence/am_liam-poster.jpg",
+      "bytes": 35196,
+      "sha256": "c52a47f6ba02a0d6c5ed4dee6f8bb92eb228614ad9c9953af417d860cdfc9310",
+      "gitBlob": "b54209053ab4d5d6fe355c9ff7c77f7f3108cfc1"
+    },
+    {
+      "path": "studies/v0.9.4-auditions/evidence/am_fenrir-contact.jpg",
+      "bytes": 211742,
+      "sha256": "980144c899fb8884bdb6323b60b15de7498681fab7a7b726e76ee678970f6ff3",
+      "gitBlob": "889fda1f7e7a7ea9b66bdc85de7d1ea75da0debb"
+    },
+    {
+      "path": "studies/v0.9.4-auditions/evidence/first-synthesis.log",
+      "bytes": 1035,
+      "sha256": "f1007fde40a77b9ecfc7f0a76e8ead740eb040f876698b131a7760335425939d",
+      "gitBlob": "6d2183b52a3d8b35ff96a0ecf66b3c993b0ac436"
+    },
+    {
+      "path": "studies/v0.9.4-auditions/evidence/am_fenrir-render.json",
+      "bytes": 32265,
+      "sha256": "ad7e428b6ec851de5d8b023ceb23df2da150e5fe8059add3e109f08ddb6d326c",
+      "gitBlob": "aee2edd38f7ae97f80ab94066aba8cecaaea024b"
+    },
+    {
+      "path": "studies/v0.9.4-auditions/evidence/am_fenrir-poster.jpg",
+      "bytes": 35304,
+      "sha256": "32baca59225b6dfbc9eaaf6a434f142ca78581e37f94dbb9a686ccf4e69d1575",
+      "gitBlob": "f995fe0777b2517de15eeba69cc5f1a8426ea43f"
+    },
+    {
+      "path": "studies/v0.9.4-auditions/evidence/am_liam-contact.jpg",
+      "bytes": 211433,
+      "sha256": "041b5cd5ec23dcb1bb50306a28003bf782b9c7a9acba8ee0cd59d626dac5edeb",
+      "gitBlob": "af24dd698f280ad33fee931f530f46ee73259533"
+    },
+    {
+      "path": "studies/v0.9.4-auditions/timing/am_liam-2.json",
+      "bytes": 2944,
+      "sha256": "ecf26af1df3562f195bd26bec708f07a6fde331724a2fe660f50a337c993d550",
+      "gitBlob": "f76b7dbd7e8e887e8ccacd89fae4f1ce1b0175fd"
+    },
+    {
+      "path": "studies/v0.9.4-auditions/timing/am_fenrir-1.json",
+      "bytes": 5110,
+      "sha256": "82137436f4b56d542df459fe2f4356848187da34a73c32ae5bfe7a797a7a7b82",
+      "gitBlob": "3ed336b622edd6c2b740311666d384a9e60ef062"
+    },
+    {
+      "path": "studies/v0.9.4-auditions/timing/am_puck-1.json",
+      "bytes": 5198,
+      "sha256": "6fbb9819cbb9df71615dbe217d3cfbe0656e2fc2e8e7250513f051cb04ab7c00",
+      "gitBlob": "2eeda6fbc421c7a1041c550c53ae9e7fd583a698"
+    },
+    {
+      "path": "studies/v0.9.4-auditions/timing/am_puck-4.json",
+      "bytes": 3158,
+      "sha256": "31e159522dce7af0abebb3f61e6ae7201cd06a6cf52f46c038d5d7ae4c8c237b",
+      "gitBlob": "834e7f2f3e3a54c63553acbeaa2402a2c64e5597"
+    },
+    {
+      "path": "studies/v0.9.4-auditions/timing/am_liam-5.json",
+      "bytes": 6314,
+      "sha256": "d71613678d2a70760475bca698b161cb8db810ca8c5688ce30adf69566c5e0b3",
+      "gitBlob": "5707c41cf9e0b9d35bea0ecf373e6dfa6f614a5c"
+    },
+    {
+      "path": "studies/v0.9.4-auditions/timing/am_liam-1.json",
+      "bytes": 5108,
+      "sha256": "c22a19789cf9aa813a133fbb392d9e7e71069ef46ddb0caa4068dbec7f022742",
+      "gitBlob": "2c9ac2c56910ab85acc8399339336f36c0563c6e"
+    },
+    {
+      "path": "studies/v0.9.4-auditions/timing/am_puck-3.json",
+      "bytes": 4781,
+      "sha256": "f1e787b1b62e07f8b2f49e45c48c1d0de749e090cbe634a7e93edf121a2b4dfb",
+      "gitBlob": "41d8fa902f8512bad6b2bd3c14ab7785aadcc9b8"
+    },
+    {
+      "path": "studies/v0.9.4-auditions/timing/am_puck-2.json",
+      "bytes": 2939,
+      "sha256": "7cdc2cc4cd9041e526f68108c64a1d6f81c900814ec3dea054170ce7b875690a",
+      "gitBlob": "f6357e493ca843a42436d47bd6254f576be2318d"
+    },
+    {
+      "path": "studies/v0.9.4-auditions/timing/am_fenrir-4.json",
+      "bytes": 3165,
+      "sha256": "6db8f447df1c7c3173a6f255436f641ddcbddc0d3d4627bee0f62fec196469b6",
+      "gitBlob": "3ac109b0a47a41c86945d0b31b01744f7b7ed097"
+    },
+    {
+      "path": "studies/v0.9.4-auditions/timing/am_fenrir-2.json",
+      "bytes": 2945,
+      "sha256": "438b93bfa06009288f5a9c7673a01fc8786cb346961c314a8fbde003f5df687e",
+      "gitBlob": "a18fbe59c060053e594fd900abbb7721dca3c5ed"
+    },
+    {
+      "path": "studies/v0.9.4-auditions/timing/am_liam-4.json",
+      "bytes": 3161,
+      "sha256": "5074f8fc9e9647712c041030ed9965b9393f0c9efc8028364409007fce61841c",
+      "gitBlob": "fafd707472c286093f396308ceb7d370264b8288"
+    },
+    {
+      "path": "studies/v0.9.4-auditions/timing/am_fenrir-5.json",
+      "bytes": 6318,
+      "sha256": "7d32241e9b00aa191e4e2ecb674f3f1c6fc705cdadaeb6910ae30306aaef24e6",
+      "gitBlob": "3d280460cf0be5e9c1162b943ad2d7d53baf329e"
+    },
+    {
+      "path": "studies/v0.9.4-auditions/timing/am_fenrir-3.json",
+      "bytes": 4790,
+      "sha256": "1d9b749b07fe6c84a14d9f365a6b83335a189001266f90914b873e9fe5da5bdb",
+      "gitBlob": "d70a4bdfb48c638f060873aaf84dd4aecdd7dd1a"
+    },
+    {
+      "path": "studies/v0.9.4-auditions/timing/am_liam-3.json",
+      "bytes": 4790,
+      "sha256": "7440b45bfde4e8cd9a1694ba6ae517724b257a7a2dcf2d090bc0a588495fc7d7",
+      "gitBlob": "e466dbcbf57ac14688be8d5ca8573ae9962c213c"
+    },
+    {
+      "path": "studies/v0.9.4-auditions/timing/am_puck-5.json",
+      "bytes": 6313,
+      "sha256": "c1950a525845f75ebc52d35f933da3e1da07a4061a2af5ab071cdf45b1e584a3",
+      "gitBlob": "8e9e53a63d5dbe68a8382ca32e7a7c3c1cb48a0a"
+    },
+    {
+      "path": "studies/v0.9.4-auditions/masters/am_puck-1.wav",
+      "bytes": 136844,
+      "sha256": "950c2fb9dabc3a24573bd601c7d34bfa1da2192f3b822da8b13e6a9f62fd3e09",
+      "gitBlob": "f12b9f72445e7b2385201b4d0270e25bcf1592f5"
+    },
+    {
+      "path": "studies/v0.9.4-auditions/masters/am_liam-4.wav",
+      "bytes": 114044,
+      "sha256": "9f3f45f685b36781120346b7de40a4499e712088b54e3f436af1473ea9b8cc8b",
+      "gitBlob": "386dd56602d6453db467712bd6f3cd45c7539f13"
+    },
+    {
+      "path": "studies/v0.9.4-auditions/masters/am_liam-2.wav",
+      "bytes": 102044,
+      "sha256": "646e062aadf6091089c8bc13285c31dd59d5b204b43864a5818c7b5a587e149a",
+      "gitBlob": "5a7dcfcd9c8b66cc6b72963a25a9f21e5b836807"
+    },
+    {
+      "path": "studies/v0.9.4-auditions/masters/am_fenrir-1.wav",
+      "bytes": 133244,
+      "sha256": "abc47fff1f975b0881c6a94fff135826e3c4ade0b23cd90084e316b06867b6b2",
+      "gitBlob": "ed91fb6b7ccfd8b31f2ba23cda617776c14d70be"
+    },
+    {
+      "path": "studies/v0.9.4-auditions/masters/am_puck-3.wav",
+      "bytes": 127244,
+      "sha256": "35f9db03d1554076c6b34b5fafd0490d831b0d623ef3f9e88f6dcd9a50f585c7",
+      "gitBlob": "c62fe87631ff54e1c03b94ea92ce04cc9883c607"
+    },
+    {
+      "path": "studies/v0.9.4-auditions/masters/am_fenrir-3.wav",
+      "bytes": 124844,
+      "sha256": "9cc382ca226638598167c9f5db52d99f88f4882d879c5d0f0df2ebcf12818ddf",
+      "gitBlob": "4ba7173c6916194683f44d2e1ed2fe466a675453"
+    },
+    {
+      "path": "studies/v0.9.4-auditions/masters/am_liam-3.wav",
+      "bytes": 130844,
+      "sha256": "bedc111285773813e68d7431741762ef683d00a31bf85856df111fd979a7fa1d",
+      "gitBlob": "a708d28176d1a92ed71f59fdaf8b29e47ad9c034"
+    },
+    {
+      "path": "studies/v0.9.4-auditions/masters/am_liam-5.wav",
+      "bytes": 154844,
+      "sha256": "62e116260e7854bea7847406837b5780c9ed43c7ce3fa41509df48eb84cdedb6",
+      "gitBlob": "42fab01667394d312d1fec2201c9c07ce7705aa2"
+    },
+    {
+      "path": "studies/v0.9.4-auditions/masters/am_liam-1.wav",
+      "bytes": 140444,
+      "sha256": "fa22187be48e0ad346acb38e849ee7f3d31fa0f186e386f2f1f6171fa14a820c",
+      "gitBlob": "e3fa43d1676f29e277ec1351ab4985f2c0eff501"
+    },
+    {
+      "path": "studies/v0.9.4-auditions/masters/am_fenrir-5.wav",
+      "bytes": 148844,
+      "sha256": "c586b07adfd6de07d63477d323ae0582a638882566d5bcb7d706746c6e3549f4",
+      "gitBlob": "85e41eab12632e298232423d68db14ec8f8c60c8"
+    },
+    {
+      "path": "studies/v0.9.4-auditions/masters/am_puck-5.wav",
+      "bytes": 150044,
+      "sha256": "cce59133ec2e6fb835a76a8995c82b13160ce9b2e15e9a9acad3b0a0fe4172d8",
+      "gitBlob": "3529d78216b8efe3e3a622736f300a8aa0c527f1"
+    },
+    {
+      "path": "studies/v0.9.4-auditions/masters/am_puck-4.wav",
+      "bytes": 104444,
+      "sha256": "bf261bc53ff26a99f3e52bb66bf4136240e9facb075a150e4c1a3aa9bc1e6b81",
+      "gitBlob": "dd59e1ed9f591bfc1272ac752e5b2f5dce6950bd"
+    },
+    {
+      "path": "studies/v0.9.4-auditions/masters/am_fenrir-2.wav",
+      "bytes": 87644,
+      "sha256": "478aab8ab24c68d224bfbb45157381ec035549572a335937fe2934c169cbdcbb",
+      "gitBlob": "97adc0000260084e5f75d1653f471119da8c9f17"
+    },
+    {
+      "path": "studies/v0.9.4-auditions/masters/am_fenrir-4.wav",
+      "bytes": 105644,
+      "sha256": "bb58c67bbcca58ef5ae1415d78010dd8cd37335a666cfd925fd77dff432c6d8d",
+      "gitBlob": "8e99e22f9c39fcefdb827969b6a73238324be533"
+    },
+    {
+      "path": "studies/v0.9.4-auditions/masters/am_puck-2.wav",
+      "bytes": 81644,
+      "sha256": "0e30ffcf9b45092276a965e3a9462eef3d493e767dd6f0686a4af2815b8c6828",
+      "gitBlob": "9cf5ef91b5eb22ec23aad71ef2ff30303d880e7d"
+    },
+    {
+      "path": "studies/v0.9.4-auditions/previews/am_puck.mp4",
+      "bytes": 295910,
+      "sha256": "d48070ab9791235759a69beadd84735b1a542489e816256196ee39659901b90f",
+      "gitBlob": "9bdb7723104c3f9ea6e43b4281d3d60f50818547"
+    },
+    {
+      "path": "studies/v0.9.4-auditions/previews/am_liam.mp4",
+      "bytes": 327088,
+      "sha256": "7343e9f2373c4f307b88a486204f530ea0d75b45bf54fc185deb787fba1b46e2",
+      "gitBlob": "b13e2f8de38a25c3dcbb4b37760e8267315602c9"
+    },
+    {
+      "path": "studies/v0.9.4-auditions/previews/am_fenrir.mp4",
+      "bytes": 293735,
+      "sha256": "ad75e1de56784bb5eb2c1320a74dd3cf6eef95b4fbcb5b59b5ea97b5d6683b4f",
+      "gitBlob": "c2c59053da9e80c5d9bc0b6f3769162590713f64"
+    },
+    {
+      "path": "studies/v0.9.4-auditions/production/finish.py",
+      "bytes": 6206,
+      "sha256": "cf5298f1b745a22bcaec36a29ddea49a9fe32d2f6be795ff1b1639906ef3499a",
+      "gitBlob": "05f2ddec05fc84593503633baa857644aa91b939"
+    },
+    {
+      "path": "studies/v0.9.4-auditions/production/model-lock.json",
+      "bytes": 1214,
+      "sha256": "dcc9fac0d8e4ecea9f30847475570b00eed79ad52e566863fed4366927db9477",
+      "gitBlob": "6597f0f5143cd29d4b54493bba6bb10b4f20a43f"
+    },
+    {
+      "path": "studies/v0.9.4-auditions/production/generate.mjs",
+      "bytes": 3033,
+      "sha256": "da5dec461863c15f73ab79c57973a081b3b31face80d43bc25b5756f78850e7d",
+      "gitBlob": "394fcf3cf5370ea7eae3fbe67cd45ba4264f73e4"
+    },
+    {
+      "path": "studies/v0.9.4-auditions/production/package-lock.json",
+      "bytes": 36181,
+      "sha256": "58ff63fd8bdf91d49132baeb6729e3958687b386a6aee330d4cbd369070987b9",
+      "gitBlob": "a1f7f28e0ac2036b24f2d47e8455c75fd2ed3565"
+    },
+    {
+      "path": "studies/v0.9.4-auditions/production/prepare.py",
+      "bytes": 862,
+      "sha256": "f2c8409c702548366fec38fff1732c64fae0b44c4d70409a1673aabb265665c1",
+      "gitBlob": "b48c39a2c62262f798a50f81bfc52fb5bb7994bb"
+    },
+    {
+      "path": "studies/v0.9.4-auditions/production/package.json",
+      "bytes": 309,
+      "sha256": "02154f4186cfd591a7be3f55b256dbf1ad3627c83f2fef3017b34522a7299012",
+      "gitBlob": "07b810b1812db709763aa79844d8cd7826a8b7b2"
+    },
+    {
+      "path": "studies/v0.9.4-auditions/production/.gitignore",
+      "bytes": 21,
+      "sha256": "3ffbe2831e28b66762bd6bc4552d36cc79ec36aa0c594e49c7e43b7ae38e9cb6",
+      "gitBlob": "1982fdba88af4aa60a0b28711ca665358b309606"
+    },
+    {
+      "path": "studies/v0.9.4-auditions/audio/am_puck-5.mp3",
+      "bytes": 26444,
+      "sha256": "09c917603abcbe5c33f9d9546914336c4de30d7253428e92e9a82684a57b1da0",
+      "gitBlob": "5251a38613c0268613cd5c284b5feb97fa5f7703"
+    },
+    {
+      "path": "studies/v0.9.4-auditions/audio/am_puck-1.wav",
+      "bytes": 136844,
+      "sha256": "9c33f8e90da1b87cb1e68c79a5a08007b4029e49d8e409d2a42e3cfce3eba6e8",
+      "gitBlob": "31597c72a7bc30fd684cc054af5dd136f050f732"
+    },
+    {
+      "path": "studies/v0.9.4-auditions/audio/am_fenrir-3.mp3",
+      "bytes": 21212,
+      "sha256": "bfc02ca1d1371590b52549ab7e8088c5c01c480af9a1956328a6aeea22527eca",
+      "gitBlob": "f8e4299e4b45a6b3fc67de1d53b447c378724db9"
+    },
+    {
+      "path": "studies/v0.9.4-auditions/audio/am_liam-4.wav",
+      "bytes": 114044,
+      "sha256": "08726a8bfd26ffdf4a69036c2f2c7e94b88a70b902fb7bd2929be7149c6bf3af",
+      "gitBlob": "6c50cee002c624c69da7405c40fde008bd006a8b"
+    },
+    {
+      "path": "studies/v0.9.4-auditions/audio/am_liam-2.wav",
+      "bytes": 102044,
+      "sha256": "87130321c62d5c1d1c4221e3029151ae9afb39b2a30284311ab94867608eeeeb",
+      "gitBlob": "59d87dacdf51affc5e58ada8bba3050667fc444f"
+    },
+    {
+      "path": "studies/v0.9.4-auditions/audio/am_liam-3.mp3",
+      "bytes": 23564,
+      "sha256": "d994d2fe2ed7ac0feaf1c4fec5e7a599697ebdcc1fc506538d4c3301f0b85b53",
+      "gitBlob": "a507bb747ea9266194201f11b1cd1029b4b04c1f"
+    },
+    {
+      "path": "studies/v0.9.4-auditions/audio/am_liam-5.mp3",
+      "bytes": 28580,
+      "sha256": "0dd076d675d16ad452f448873f9113bba1c293a9727e3dbd989fc135f4c0676c",
+      "gitBlob": "9514e6cce71ca5bd7f393a2ce3c363895848fa12"
+    },
+    {
+      "path": "studies/v0.9.4-auditions/audio/am_puck-2.mp3",
+      "bytes": 12044,
+      "sha256": "3d7dceda88b864b7162764524f598e120443d6655893aa2f0db5f55d745ce747",
+      "gitBlob": "4d27d87853d646077360fc63ff2d3add32a9058e"
+    },
+    {
+      "path": "studies/v0.9.4-auditions/audio/am_fenrir-1.wav",
+      "bytes": 133244,
+      "sha256": "bc65af0a981706adf91d53744011c51cd2636eb7433bf8aa11ee798985ecec21",
+      "gitBlob": "5897b435ff4dd8019ab3fba213b43423e61c9eba"
+    },
+    {
+      "path": "studies/v0.9.4-auditions/audio/am_puck-3.wav",
+      "bytes": 127244,
+      "sha256": "2c8578116df4369324566c95b6d6b21a9a3cc2577fa8411e0a78a7b439b0b364",
+      "gitBlob": "ee52780a799caa6cb67e0edb3c63ea317c55e090"
+    },
+    {
+      "path": "studies/v0.9.4-auditions/audio/am_liam-1.mp3",
+      "bytes": 25148,
+      "sha256": "2ffe5e1260bb6dfa6a078e0bcbc591598c5fbd61941ff05f54055eee556d4650",
+      "gitBlob": "82f69b464496a35afea0f84cf9094149bc93f071"
+    },
+    {
+      "path": "studies/v0.9.4-auditions/audio/am_fenrir-1.mp3",
+      "bytes": 23060,
+      "sha256": "c5e562f48c37735fc434a637758d7f40c55e270d26878f43f12c41fffe61f52b",
+      "gitBlob": "069fa8de6967c770a747f07826b49c4d592c85da"
+    },
+    {
+      "path": "studies/v0.9.4-auditions/audio/am_fenrir-5.mp3",
+      "bytes": 25460,
+      "sha256": "473b8e3d7da7737e3fa9f5a5b4358b4e62b8663b1f01d18b6b3729d96c4a30b5",
+      "gitBlob": "84fcd4333406c4de425ac594b5ba308db9207003"
+    },
+    {
+      "path": "studies/v0.9.4-auditions/audio/am_fenrir-3.wav",
+      "bytes": 124844,
+      "sha256": "042fb0deeee73f2f584e23b80f2b7ad9f1d0397328ddc243d569874716895ddd",
+      "gitBlob": "c1e1696391a99fda7e7738fb823479996a76dac8"
+    },
+    {
+      "path": "studies/v0.9.4-auditions/audio/am_liam-3.wav",
+      "bytes": 130844,
+      "sha256": "8793f2a6e83ba651cef3caf93174338696cbafb1123426eae99714bee0e98001",
+      "gitBlob": "6983072d704c0758179fa19078966045baeb5655"
+    },
+    {
+      "path": "studies/v0.9.4-auditions/audio/am_liam-5.wav",
+      "bytes": 154844,
+      "sha256": "225c7bc92b18733c97ca68ace7175e15e457084fff06a005ff4daff4d5262d41",
+      "gitBlob": "78163361f57d8b2e8a239e35fab27ac05d9102f6"
+    },
+    {
+      "path": "studies/v0.9.4-auditions/audio/am_fenrir-2.mp3",
+      "bytes": 12092,
+      "sha256": "f590fb66801b6712231c3f16324112cb70879ac7893333cbb2ff024904de8eea",
+      "gitBlob": "77c94f9ed3bf777325f157908154af8b386fb520"
+    },
+    {
+      "path": "studies/v0.9.4-auditions/audio/am_fenrir-4.mp3",
+      "bytes": 16628,
+      "sha256": "d4497d833394d5ff4d5d7702b2b292bc95fa692d1af57481930d55f35bb775c7",
+      "gitBlob": "d25e2f449891bf812debe955ce473f90b792787a"
+    },
+    {
+      "path": "studies/v0.9.4-auditions/audio/am_puck-3.mp3",
+      "bytes": 22172,
+      "sha256": "a76ac5893e5c5ea4378ddeb0600074131440edba85653d00a25437d0fa4f9dd2",
+      "gitBlob": "b2e8ee9d6c1730972a1a84e8a07b21b544e188c1"
+    },
+    {
+      "path": "studies/v0.9.4-auditions/audio/am_liam-1.wav",
+      "bytes": 140444,
+      "sha256": "ca6e591bf8f9cd37d9e122432974d5e5ca27f3b66c522fcd5015ae6b45a16456",
+      "gitBlob": "b28bda40e81b87e72c7646ed63f77fe362c563de"
+    },
+    {
+      "path": "studies/v0.9.4-auditions/audio/am_fenrir-5.wav",
+      "bytes": 148844,
+      "sha256": "555a8c8a304dccbbbfea79cd10e592c16cce89a2621872048b3f4f28f73c24d2",
+      "gitBlob": "83cea80b013f29235a2800d64c698fd5db1e9a53"
+    },
+    {
+      "path": "studies/v0.9.4-auditions/audio/am_puck-4.mp3",
+      "bytes": 19100,
+      "sha256": "1e7cc47bcbb689c506c0ca9ab786107d3ca28b76670eee103c510d95dceffe67",
+      "gitBlob": "ce1bdb4d85bb321dcad41706674408713d9f47b0"
+    },
+    {
+      "path": "studies/v0.9.4-auditions/audio/am_puck-5.wav",
+      "bytes": 150044,
+      "sha256": "38a45c68012edbad7b555d658a1e7036df64bbec5c8b49ee5c60facfdfa9e0d6",
+      "gitBlob": "f767d9ee811c46f0f80574ecc2fc0cc4e1228356"
+    },
+    {
+      "path": "studies/v0.9.4-auditions/audio/am_liam-4.mp3",
+      "bytes": 21764,
+      "sha256": "ed8f0a1e638ce1dfdc879bb09ccde3f5bc6d491ccdddc9a649d7aa9136b1fb96",
+      "gitBlob": "1ed5ba0099104eb491f829ef9b8205ed75e59821"
+    },
+    {
+      "path": "studies/v0.9.4-auditions/audio/am_puck-4.wav",
+      "bytes": 104444,
+      "sha256": "25b8168adb520a49f170c8ed0cad8ed01209d63ef8a57cc5ade97c8aaebc8a4a",
+      "gitBlob": "869fee50e947aed47ede27870bbca782648a4e11"
+    },
+    {
+      "path": "studies/v0.9.4-auditions/audio/am_fenrir-2.wav",
+      "bytes": 87644,
+      "sha256": "91fb370cb676a539ea533ccd804d65c89448a52e83498faa2d7cc04d174fcfd6",
+      "gitBlob": "7d6386cabb4c8aab76adbb65dd517808a4971f51"
+    },
+    {
+      "path": "studies/v0.9.4-auditions/audio/am_puck-1.mp3",
+      "bytes": 25628,
+      "sha256": "c19f176993816320994feadeb9fe00150725a01ffe9fe1422545278f9b5b6ed7",
+      "gitBlob": "9f38b6f2144625ca8c9d83969f0d1d9cea62a7b5"
+    },
+    {
+      "path": "studies/v0.9.4-auditions/audio/am_fenrir-4.wav",
+      "bytes": 105644,
+      "sha256": "d9559ddcc8b719d2c3f8ed4edeb19b53ed35eaa198d0992346c2db4cb01625e5",
+      "gitBlob": "70bc9a52b8bb714f68d0697d13436a46a8606a65"
+    },
+    {
+      "path": "studies/v0.9.4-auditions/audio/am_puck-2.wav",
+      "bytes": 81644,
+      "sha256": "b468183115da4e8a371742f81ff662e3e6b688fd14f13843a9f6e79648acde4b",
+      "gitBlob": "b457b7b920dbdde8bcea861c7b8546e585976696"
+    },
+    {
+      "path": "studies/v0.9.4-auditions/audio/am_liam-2.mp3",
+      "bytes": 18116,
+      "sha256": "0ff87fbb8025cf729598e05db0451043aa62f6be5aea091e4756bf25a3e26819",
+      "gitBlob": "f6b899c98dd1818043bdc9909b550f84c4f40680"
+    }
+  ],
+  "approvedReferenceHashes": "matched",
+  "priorReleaseAndStudyFiles": "unchanged",
+  "githubActionsFiles": "unchanged"
+}

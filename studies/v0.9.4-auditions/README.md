@@ -28,3 +28,7 @@ node generate.mjs --first
 Validate first WAV with wave/FFmpeg and its JSON timing before continuing. Then run `node generate.mjs` (existing outputs are retained), followed by `python finish.py`. On Linux x64 the npm package includes the CPU native runtime; `--ignore-scripts` avoided an unnecessary optional binary-feed timeout in this production session. Other platforms may need normal `npm ci`. Set DINO_MODEL to a model directory if stored elsewhere. Output byte determinism across hardware/runtime versions is not promised; saved originals are authoritative.
 
 `generate.mjs` invokes the upstream worker directly, avoiding a production server and any inference on mobile. `finish.py` validates samples and timing, repairs RIFF headers, encodes MP3s and renders the full five-line previews. Original WAVs and timing are never overwritten by the generation script. No new GitHub Actions. Older studies retained.
+
+
+## Hosted verification
+Actual Cloud Chrome played all15 recordings and all3 complete MP4s to end on the published page. Narrow iframe viewports360/390/430px showed single-column cards with no horizontal overflow;390px comparison playback passed. No physical Android/iOS hardware test. See evidence/hosted-review.json. Original approved image hashes match; previous versions unchanged. First88 production/review files were byte-verified from fetched remote Git at d4ab5fc. Later QA additions are included in the final checkpoint.

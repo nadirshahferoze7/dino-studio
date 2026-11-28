@@ -1,11 +1,11 @@
 {
-  "scope": "All v0.9.4 production/review assets before hosted QA; inventory excludes itself. Model weights pinned upstream.",
+  "scope": "All v0.9.4 production/review/QA assets, excluding this inventory and Git verification report to avoid recursive hashes. Model weights pinned upstream.",
   "files": [
     {
       "path": "studies/v0.9.4-auditions/README.md",
-      "bytes": 3827,
-      "sha256": "fe260c0d0e4033036d524169b7ac9aa1671cc1a08e0fa414e4be124fc5c768b9",
-      "gitBlob": "83ff2f1e0f6602da51504b727aea040f3bce985d"
+      "bytes": 4358,
+      "sha256": "7917cc647aeb359352cbb67e538985a9ef6950b496521ae04036b769ccb6730d",
+      "gitBlob": "41e590660d7d2ee87445e8b8dac8b7696b61304a"
     },
     {
       "path": "studies/v0.9.4-auditions/index.html",
@@ -38,6 +38,12 @@
       "gitBlob": "a775237d1f429c86170809e44793832fbc1c5eb5"
     },
     {
+      "path": "studies/v0.9.4-auditions/evidence/mobile-check.html",
+      "bytes": 970,
+      "sha256": "c8039376854899d504026e2aada025a9b3e35d8051bf7ac908610d11874671a7",
+      "gitBlob": "6ffc5b07c96e891b0cbb114af53795a004ad4eff"
+    },
+    {
       "path": "studies/v0.9.4-auditions/evidence/am_puck-render.json",
       "bytes": 32267,
       "sha256": "8bf8439a75a9e694b8727d369384a51af452d62116750b45936e4161b3d5caec",
@@ -56,6 +62,12 @@
       "gitBlob": "16eb619b585fe4fc28b06750d32b7077e8169383"
     },
     {
+      "path": "studies/v0.9.4-auditions/evidence/execution-notes.md",
+      "bytes": 1318,
+      "sha256": "76c54203393c0712cd6d5a806d584a00eeafc728ac8ddd197e6f6001a94a446a",
+      "gitBlob": "0455bda3d061be0f6855f7f769105fbadc55f456"
+    },
+    {
       "path": "studies/v0.9.4-auditions/evidence/am_puck-poster.jpg",
       "bytes": 35230,
       "sha256": "503e8552dab8257f032f986f8a3f7585cd0cc99fc75739351669d131e3323b14",
@@ -72,6 +84,12 @@
       "bytes": 35196,
       "sha256": "c52a47f6ba02a0d6c5ed4dee6f8bb92eb228614ad9c9953af417d860cdfc9310",
       "gitBlob": "b54209053ab4d5d6fe355c9ff7c77f7f3108cfc1"
+    },
+    {
+      "path": "studies/v0.9.4-auditions/evidence/hosted-review.json",
+      "bytes": 2270,
+      "sha256": "7b348f335c03e1750361420b4949ff3e0966ebda7547db1caad3f45548a42a8e",
+      "gitBlob": "1adc53acf73b949fdcb4e60fbaaf7248ec47ed38"
     },
     {
       "path": "studies/v0.9.4-auditions/evidence/am_fenrir-contact.jpg",
