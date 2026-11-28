@@ -1,0 +1,341 @@
+{
+  "voice": "am_puck",
+  "line": 0,
+  "key": "am_puck-1",
+  "intention": "Friendly",
+  "text": "Hello! I'm Dino. Ready for an adventure?",
+  "model": "onnx-community/Kokoro-82M-v1.0-ONNX-timestamped",
+  "modelRevision": "dd4401a9add81ac692d20e240d22ec9dda82cc29",
+  "engine": "HeadTTS 1.3.0",
+  "speed": 1,
+  "sampleRate": 24000,
+  "durationMs": 2850.0,
+  "wavSha256": "9c33f8e90da1b87cb1e68c79a5a08007b4029e49d8e409d2a42e3cfce3eba6e8",
+  "timingSource": "Kokoro predicted token durations via HeadTTS; no acoustic forced alignment",
+  "cues": [
+    {
+      "id": "E",
+      "phoneme": "\u0259",
+      "start": 281,
+      "duration": 60,
+      "pose": 3
+    },
+    {
+      "id": "RR",
+      "phoneme": "l",
+      "start": 331,
+      "duration": 60,
+      "pose": 4
+    },
+    {
+      "id": "O",
+      "phoneme": "O",
+      "start": 381,
+      "duration": 101,
+      "pose": 4
+    },
+    {
+      "id": "I",
+      "phoneme": "I",
+      "start": 546,
+      "duration": 111,
+      "pose": 3
+    },
+    {
+      "id": "PP",
+      "phoneme": "m",
+      "start": 647,
+      "duration": 43,
+      "pose": 1
+    },
+    {
+      "id": "DD",
+      "phoneme": "d",
+      "start": 720,
+      "duration": 36,
+      "pose": 7
+    },
+    {
+      "id": "I",
+      "phoneme": "i",
+      "start": 746,
+      "duration": 109,
+      "pose": 3
+    },
+    {
+      "id": "nn",
+      "phoneme": "n",
+      "start": 845,
+      "duration": 85,
+      "pose": 7
+    },
+    {
+      "id": "O",
+      "phoneme": "O",
+      "start": 920,
+      "duration": 98,
+      "pose": 4
+    },
+    {
+      "id": "RR",
+      "phoneme": "\u0279",
+      "start": 1097,
+      "duration": 38,
+      "pose": 4
+    },
+    {
+      "id": "E",
+      "phoneme": "\u025b",
+      "start": 1125,
+      "duration": 68,
+      "pose": 3
+    },
+    {
+      "id": "DD",
+      "phoneme": "d",
+      "start": 1183,
+      "duration": 60,
+      "pose": 7
+    },
+    {
+      "id": "I",
+      "phoneme": "i",
+      "start": 1233,
+      "duration": 60,
+      "pose": 3
+    },
+    {
+      "id": "FF",
+      "phoneme": "f",
+      "start": 1335,
+      "duration": 43,
+      "pose": 6
+    },
+    {
+      "id": "O",
+      "phoneme": "\u0254",
+      "start": 1368,
+      "duration": 102,
+      "pose": 4
+    },
+    {
+      "id": "RR",
+      "phoneme": "\u0279",
+      "start": 1460,
+      "duration": 36,
+      "pose": 4
+    },
+    {
+      "id": "aa",
+      "phoneme": "\u00e6",
+      "start": 1511,
+      "duration": 62,
+      "pose": 2
+    },
+    {
+      "id": "nn",
+      "phoneme": "n",
+      "start": 1563,
+      "duration": 35,
+      "pose": 7
+    },
+    {
+      "id": "aa",
+      "phoneme": "\u00e6",
+      "start": 1622,
+      "duration": 53,
+      "pose": 2
+    },
+    {
+      "id": "DD",
+      "phoneme": "d",
+      "start": 1665,
+      "duration": 69,
+      "pose": 7
+    },
+    {
+      "id": "FF",
+      "phoneme": "v",
+      "start": 1724,
+      "duration": 60,
+      "pose": 6
+    },
+    {
+      "id": "E",
+      "phoneme": "\u025b",
+      "start": 1774,
+      "duration": 111,
+      "pose": 3
+    },
+    {
+      "id": "nn",
+      "phoneme": "n",
+      "start": 1875,
+      "duration": 106,
+      "pose": 7
+    },
+    {
+      "id": "CH",
+      "phoneme": "\u02a7",
+      "start": 1971,
+      "duration": 102,
+      "pose": 3
+    },
+    {
+      "id": "E",
+      "phoneme": "\u025c",
+      "start": 2063,
+      "duration": 108,
+      "pose": 3
+    },
+    {
+      "id": "RR",
+      "phoneme": "\u0279",
+      "start": 2161,
+      "duration": 465,
+      "pose": 4
+    }
+  ],
+  "raw": {
+    "phonemes": [
+      "\u0259",
+      "l",
+      "O",
+      "I",
+      "m",
+      "d",
+      "i",
+      "n",
+      "O",
+      "\u0279",
+      "\u025b",
+      "d",
+      "i",
+      "f",
+      "\u0254",
+      "\u0279",
+      "\u00e6",
+      "n",
+      "\u00e6",
+      "d",
+      "v",
+      "\u025b",
+      "n",
+      "\u02a7",
+      "\u025c",
+      "\u0279"
+    ],
+    "words": [
+      "Hello! ",
+      "I'm ",
+      "Dino. ",
+      "Ready ",
+      "for ",
+      "an ",
+      "adventure?"
+    ],
+    "wtimes": [
+      238,
+      546,
+      720,
+      1097,
+      1335,
+      1511,
+      1622
+    ],
+    "wdurations": [
+      318,
+      184,
+      387,
+      248,
+      186,
+      121,
+      1189
+    ],
+    "visemes": [
+      "E",
+      "RR",
+      "O",
+      "I",
+      "PP",
+      "DD",
+      "I",
+      "nn",
+      "O",
+      "RR",
+      "E",
+      "DD",
+      "I",
+      "FF",
+      "O",
+      "RR",
+      "aa",
+      "nn",
+      "aa",
+      "DD",
+      "FF",
+      "E",
+      "nn",
+      "CH",
+      "E",
+      "RR"
+    ],
+    "vtimes": [
+      281,
+      331,
+      381,
+      546,
+      647,
+      720,
+      746,
+      845,
+      920,
+      1097,
+      1125,
+      1183,
+      1233,
+      1335,
+      1368,
+      1460,
+      1511,
+      1563,
+      1622,
+      1665,
+      1724,
+      1774,
+      1875,
+      1971,
+      2063,
+      2161
+    ],
+    "vdurations": [
+      60,
+      60,
+      101,
+      111,
+      43,
+      36,
+      109,
+      85,
+      98,
+      38,
+      68,
+      60,
+      60,
+      43,
+      102,
+      36,
+      62,
+      35,
+      53,
+      69,
+      60,
+      111,
+      106,
+      102,
+      108,
+      465
+    ],
+    "audioEncoding": "wav"
+  }
+}
