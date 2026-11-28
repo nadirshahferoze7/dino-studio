@@ -1,0 +1,360 @@
+{
+  "voice": "am_fenrir",
+  "intention": "Quiet sadness",
+  "text": "I miss those days too. They meant a lot to me.",
+  "line": 4,
+  "key": "am_fenrir-5",
+  "label": "Fenrir",
+  "recipe": {
+    "am_fenrir": 1
+  },
+  "engineInput": "I miss those days too. They meant a lot to me.",
+  "model": "onnx-community/Kokoro-82M-v1.0-ONNX-timestamped",
+  "modelRevision": "dd4401a9add81ac692d20e240d22ec9dda82cc29",
+  "engine": "HeadTTS 1.3.0",
+  "speed": 1,
+  "sampleRate": 24000,
+  "durationMs": 3350,
+  "wavSha256": "fa609f3aa7b33290d47fea4a0c6ff0e582d44508f06ba1c45f3b4087cb23dffa",
+  "pcmSha256": "0a24e009357fea9ef57206de5f52d01ac7640a85eee9957a03a02d836059d688",
+  "container": "Standard RIFF header around unchanged engine PCM; avoids upstream WAV header bug",
+  "timingSource": "Kokoro predicted token durations via HeadTTS; no acoustic forced alignment",
+  "cues": [
+    {
+      "id": "I",
+      "phoneme": "I",
+      "start": 250,
+      "duration": 134,
+      "pose": 3
+    },
+    {
+      "id": "PP",
+      "phoneme": "m",
+      "start": 424,
+      "duration": 35,
+      "pose": 1
+    },
+    {
+      "id": "I",
+      "phoneme": "ɪ",
+      "start": 449,
+      "duration": 87,
+      "pose": 3
+    },
+    {
+      "id": "SS",
+      "phoneme": "s",
+      "start": 526,
+      "duration": 61,
+      "pose": 3
+    },
+    {
+      "id": "TH",
+      "phoneme": "ð",
+      "start": 627,
+      "duration": 60,
+      "pose": 7
+    },
+    {
+      "id": "O",
+      "phoneme": "O",
+      "start": 677,
+      "duration": 179,
+      "pose": 4
+    },
+    {
+      "id": "SS",
+      "phoneme": "z",
+      "start": 846,
+      "duration": 59,
+      "pose": 3
+    },
+    {
+      "id": "DD",
+      "phoneme": "d",
+      "start": 945,
+      "duration": 51,
+      "pose": 7
+    },
+    {
+      "id": "E",
+      "phoneme": "A",
+      "start": 986,
+      "duration": 175,
+      "pose": 3
+    },
+    {
+      "id": "SS",
+      "phoneme": "z",
+      "start": 1151,
+      "duration": 61,
+      "pose": 3
+    },
+    {
+      "id": "DD",
+      "phoneme": "t",
+      "start": 1276,
+      "duration": 60,
+      "pose": 7
+    },
+    {
+      "id": "U",
+      "phoneme": "u",
+      "start": 1326,
+      "duration": 281,
+      "pose": 5
+    },
+    {
+      "id": "TH",
+      "phoneme": "ð",
+      "start": 1728,
+      "duration": 46,
+      "pose": 7
+    },
+    {
+      "id": "E",
+      "phoneme": "A",
+      "start": 1764,
+      "duration": 109,
+      "pose": 3
+    },
+    {
+      "id": "PP",
+      "phoneme": "m",
+      "start": 1906,
+      "duration": 36,
+      "pose": 1
+    },
+    {
+      "id": "E",
+      "phoneme": "ɛ",
+      "start": 1932,
+      "duration": 61,
+      "pose": 3
+    },
+    {
+      "id": "nn",
+      "phoneme": "n",
+      "start": 1983,
+      "duration": 35,
+      "pose": 7
+    },
+    {
+      "id": "DD",
+      "phoneme": "t",
+      "start": 2008,
+      "duration": 35,
+      "pose": 7
+    },
+    {
+      "id": "E",
+      "phoneme": "ə",
+      "start": 2059,
+      "duration": 37,
+      "pose": 3
+    },
+    {
+      "id": "RR",
+      "phoneme": "l",
+      "start": 2131,
+      "duration": 52,
+      "pose": 4
+    },
+    {
+      "id": "aa",
+      "phoneme": "ɑ",
+      "start": 2173,
+      "duration": 135,
+      "pose": 2
+    },
+    {
+      "id": "DD",
+      "phoneme": "t",
+      "start": 2298,
+      "duration": 40,
+      "pose": 7
+    },
+    {
+      "id": "DD",
+      "phoneme": "t",
+      "start": 2383,
+      "duration": 59,
+      "pose": 7
+    },
+    {
+      "id": "U",
+      "phoneme": "u",
+      "start": 2432,
+      "duration": 110,
+      "pose": 5
+    },
+    {
+      "id": "PP",
+      "phoneme": "m",
+      "start": 2582,
+      "duration": 59,
+      "pose": 1
+    },
+    {
+      "id": "I",
+      "phoneme": "i",
+      "start": 2631,
+      "duration": 523,
+      "pose": 3
+    }
+  ],
+  "raw": {
+    "phonemes": [
+      "I",
+      "m",
+      "ɪ",
+      "s",
+      "ð",
+      "O",
+      "z",
+      "d",
+      "A",
+      "z",
+      "t",
+      "u",
+      "ð",
+      "A",
+      "m",
+      "ɛ",
+      "n",
+      "t",
+      "ə",
+      "l",
+      "ɑ",
+      "t",
+      "t",
+      "u",
+      "m",
+      "i"
+    ],
+    "words": [
+      "I ",
+      "miss ",
+      "those ",
+      "days ",
+      "too. ",
+      "They ",
+      "meant ",
+      "a ",
+      "lot ",
+      "to ",
+      "me."
+    ],
+    "wtimes": [
+      250,
+      424,
+      627,
+      945,
+      1276,
+      1728,
+      1906,
+      2059,
+      2131,
+      2383,
+      2582
+    ],
+    "wdurations": [
+      184,
+      213,
+      328,
+      341,
+      462,
+      188,
+      163,
+      82,
+      262,
+      209,
+      749
+    ],
+    "visemes": [
+      "I",
+      "PP",
+      "I",
+      "SS",
+      "TH",
+      "O",
+      "SS",
+      "DD",
+      "E",
+      "SS",
+      "DD",
+      "U",
+      "TH",
+      "E",
+      "PP",
+      "E",
+      "nn",
+      "DD",
+      "E",
+      "RR",
+      "aa",
+      "DD",
+      "DD",
+      "U",
+      "PP",
+      "I"
+    ],
+    "vtimes": [
+      250,
+      424,
+      449,
+      526,
+      627,
+      677,
+      846,
+      945,
+      986,
+      1151,
+      1276,
+      1326,
+      1728,
+      1764,
+      1906,
+      1932,
+      1983,
+      2008,
+      2059,
+      2131,
+      2173,
+      2298,
+      2383,
+      2432,
+      2582,
+      2631
+    ],
+    "vdurations": [
+      134,
+      35,
+      87,
+      61,
+      60,
+      179,
+      59,
+      51,
+      175,
+      61,
+      60,
+      281,
+      46,
+      109,
+      36,
+      61,
+      35,
+      35,
+      37,
+      52,
+      135,
+      40,
+      59,
+      110,
+      59,
+      523
+    ],
+    "audioEncoding": "pcm"
+  }
+}
