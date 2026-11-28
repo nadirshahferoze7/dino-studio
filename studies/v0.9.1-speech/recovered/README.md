@@ -1,0 +1,3 @@
+# Recovered original speech study
+
+Exact original1,631,223-byte source restored2026-11-28. SHA-2561312d10a319af176d5c8145aa7bc6f3b368bb2720ae162466dc95c6182a84922 matches the v0.9.1 manifest. Original build_dino_talk.py retained unchanged; it expects the original image basename a_clean_white_background_with_a_neat_4_2_grid_of_e.png. For historical reproduction, copy the recovered PNG to that name in a separate scratch directory and inspect the builder paths/dependencies before running. No new artwork generated. Existing stable atlas remains separately stored in v0.9.2. Historical positive feedback is not approval as canonical artwork. Prior v0.9.1a refinement builder/evidence are still unlocated and must not be claimed recovered.

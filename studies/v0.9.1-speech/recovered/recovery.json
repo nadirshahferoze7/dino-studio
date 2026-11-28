@@ -1,0 +1,17 @@
+{
+  "recovered": "2026-11-28",
+  "source": "Original prior speech study backup",
+  "authority": "historical noncanonical study, not approved visual identity",
+  "files": [
+    {
+      "path": "studies/v0.9.1-speech/recovered/build_dino_talk.py",
+      "bytes": 4142,
+      "sha256": "bd6ed10d0aae1075073e45aa63168323ff31e4774cd35919bd47af93a98b0979"
+    },
+    {
+      "path": "studies/v0.9.1-speech/recovered/DINO_v0.9.1_speech_study_source.png",
+      "bytes": 1631223,
+      "sha256": "1312d10a319af176d5c8145aa7bc6f3b368bb2720ae162466dc95c6182a84922"
+    }
+  ]
+}
