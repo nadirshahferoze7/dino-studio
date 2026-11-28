@@ -1,0 +1,493 @@
+{
+  "voice": "dino_fenrir_puck_75_25",
+  "intention": "Soothing reassurance",
+  "text": "It’s okay. Take a little breath. We’ll find our way together.",
+  "line": 2,
+  "key": "dino_fenrir_puck_75_25-3",
+  "label": "Fenrir + Puck",
+  "recipe": {
+    "am_fenrir": 0.75,
+    "am_puck": 0.25
+  },
+  "engineInput": "It's okay. Take a little breath. We'll find our way together.",
+  "model": "onnx-community/Kokoro-82M-v1.0-ONNX-timestamped",
+  "modelRevision": "dd4401a9add81ac692d20e240d22ec9dda82cc29",
+  "engine": "HeadTTS 1.3.0",
+  "speed": 1,
+  "sampleRate": 24000,
+  "durationMs": 4100,
+  "wavSha256": "c78647fa8b1f79916825694d0281b0c4fd59cd4762f81b4978ed007844951f82",
+  "pcmSha256": "533b6ba698986e5252b568ed1429dc15442881ac3f3b0a9148f9b3b8c693e1f0",
+  "container": "Standard RIFF header around unchanged engine PCM; avoids upstream WAV header bug",
+  "timingSource": "Kokoro predicted token durations via HeadTTS; no acoustic forced alignment",
+  "cues": [
+    {
+      "id": "I",
+      "phoneme": "ɪ",
+      "start": 236,
+      "duration": 109,
+      "pose": 3
+    },
+    {
+      "id": "DD",
+      "phoneme": "t",
+      "start": 335,
+      "duration": 60,
+      "pose": 7
+    },
+    {
+      "id": "SS",
+      "phoneme": "s",
+      "start": 385,
+      "duration": 46,
+      "pose": 3
+    },
+    {
+      "id": "O",
+      "phoneme": "O",
+      "start": 452,
+      "duration": 152,
+      "pose": 4
+    },
+    {
+      "id": "kk",
+      "phoneme": "k",
+      "start": 594,
+      "duration": 90,
+      "pose": 2
+    },
+    {
+      "id": "E",
+      "phoneme": "A",
+      "start": 674,
+      "duration": 216,
+      "pose": 3
+    },
+    {
+      "id": "DD",
+      "phoneme": "t",
+      "start": 960,
+      "duration": 45,
+      "pose": 7
+    },
+    {
+      "id": "E",
+      "phoneme": "A",
+      "start": 995,
+      "duration": 110,
+      "pose": 3
+    },
+    {
+      "id": "kk",
+      "phoneme": "k",
+      "start": 1095,
+      "duration": 37,
+      "pose": 2
+    },
+    {
+      "id": "E",
+      "phoneme": "ə",
+      "start": 1147,
+      "duration": 35,
+      "pose": 3
+    },
+    {
+      "id": "RR",
+      "phoneme": "l",
+      "start": 1199,
+      "duration": 35,
+      "pose": 4
+    },
+    {
+      "id": "I",
+      "phoneme": "ɪ",
+      "start": 1224,
+      "duration": 61,
+      "pose": 3
+    },
+    {
+      "id": "DD",
+      "phoneme": "t",
+      "start": 1275,
+      "duration": 35,
+      "pose": 7
+    },
+    {
+      "id": "E",
+      "phoneme": "ə",
+      "start": 1300,
+      "duration": 43,
+      "pose": 3
+    },
+    {
+      "id": "RR",
+      "phoneme": "l",
+      "start": 1333,
+      "duration": 50,
+      "pose": 4
+    },
+    {
+      "id": "PP",
+      "phoneme": "b",
+      "start": 1425,
+      "duration": 60,
+      "pose": 1
+    },
+    {
+      "id": "RR",
+      "phoneme": "ɹ",
+      "start": 1475,
+      "duration": 60,
+      "pose": 4
+    },
+    {
+      "id": "E",
+      "phoneme": "ɛ",
+      "start": 1525,
+      "duration": 187,
+      "pose": 3
+    },
+    {
+      "id": "TH",
+      "phoneme": "θ",
+      "start": 1702,
+      "duration": 175,
+      "pose": 7
+    },
+    {
+      "id": "U",
+      "phoneme": "w",
+      "start": 2019,
+      "duration": 52,
+      "pose": 5
+    },
+    {
+      "id": "I",
+      "phoneme": "i",
+      "start": 2061,
+      "duration": 136,
+      "pose": 3
+    },
+    {
+      "id": "RR",
+      "phoneme": "l",
+      "start": 2187,
+      "duration": 61,
+      "pose": 4
+    },
+    {
+      "id": "FF",
+      "phoneme": "f",
+      "start": 2295,
+      "duration": 60,
+      "pose": 6
+    },
+    {
+      "id": "I",
+      "phoneme": "I",
+      "start": 2345,
+      "duration": 148,
+      "pose": 3
+    },
+    {
+      "id": "nn",
+      "phoneme": "n",
+      "start": 2483,
+      "duration": 35,
+      "pose": 7
+    },
+    {
+      "id": "DD",
+      "phoneme": "d",
+      "start": 2508,
+      "duration": 44,
+      "pose": 7
+    },
+    {
+      "id": "U",
+      "phoneme": "W",
+      "start": 2597,
+      "duration": 164,
+      "pose": 5
+    },
+    {
+      "id": "E",
+      "phoneme": "ɜ",
+      "start": 2751,
+      "duration": 60,
+      "pose": 3
+    },
+    {
+      "id": "RR",
+      "phoneme": "ɹ",
+      "start": 2801,
+      "duration": 59,
+      "pose": 4
+    },
+    {
+      "id": "U",
+      "phoneme": "w",
+      "start": 2900,
+      "duration": 50,
+      "pose": 5
+    },
+    {
+      "id": "E",
+      "phoneme": "A",
+      "start": 2940,
+      "duration": 136,
+      "pose": 3
+    },
+    {
+      "id": "DD",
+      "phoneme": "t",
+      "start": 3116,
+      "duration": 35,
+      "pose": 7
+    },
+    {
+      "id": "E",
+      "phoneme": "ə",
+      "start": 3141,
+      "duration": 60,
+      "pose": 3
+    },
+    {
+      "id": "kk",
+      "phoneme": "ɡ",
+      "start": 3191,
+      "duration": 60,
+      "pose": 2
+    },
+    {
+      "id": "E",
+      "phoneme": "ɛ",
+      "start": 3241,
+      "duration": 108,
+      "pose": 3
+    },
+    {
+      "id": "TH",
+      "phoneme": "ð",
+      "start": 3339,
+      "duration": 75,
+      "pose": 7
+    },
+    {
+      "id": "E",
+      "phoneme": "ɜ",
+      "start": 3404,
+      "duration": 88,
+      "pose": 3
+    },
+    {
+      "id": "RR",
+      "phoneme": "ɹ",
+      "start": 3482,
+      "duration": 411,
+      "pose": 4
+    }
+  ],
+  "raw": {
+    "phonemes": [
+      "ɪ",
+      "t",
+      "s",
+      "O",
+      "k",
+      "A",
+      "t",
+      "A",
+      "k",
+      "ə",
+      "l",
+      "ɪ",
+      "t",
+      "ə",
+      "l",
+      "b",
+      "ɹ",
+      "ɛ",
+      "θ",
+      "w",
+      "i",
+      "l",
+      "f",
+      "I",
+      "n",
+      "d",
+      "W",
+      "ɜ",
+      "ɹ",
+      "w",
+      "A",
+      "t",
+      "ə",
+      "ɡ",
+      "ɛ",
+      "ð",
+      "ɜ",
+      "ɹ"
+    ],
+    "words": [
+      "It's ",
+      "okay. ",
+      "Take ",
+      "a ",
+      "little ",
+      "breath. ",
+      "We'll ",
+      "find ",
+      "our ",
+      "way ",
+      "together."
+    ],
+    "wtimes": [
+      236,
+      452,
+      960,
+      1147,
+      1199,
+      1425,
+      2019,
+      2295,
+      2597,
+      2900,
+      3116
+    ],
+    "wdurations": [
+      226,
+      518,
+      197,
+      62,
+      236,
+      604,
+      286,
+      312,
+      313,
+      226,
+      963
+    ],
+    "visemes": [
+      "I",
+      "DD",
+      "SS",
+      "O",
+      "kk",
+      "E",
+      "DD",
+      "E",
+      "kk",
+      "E",
+      "RR",
+      "I",
+      "DD",
+      "E",
+      "RR",
+      "PP",
+      "RR",
+      "E",
+      "TH",
+      "U",
+      "I",
+      "RR",
+      "FF",
+      "I",
+      "nn",
+      "DD",
+      "U",
+      "E",
+      "RR",
+      "U",
+      "E",
+      "DD",
+      "E",
+      "kk",
+      "E",
+      "TH",
+      "E",
+      "RR"
+    ],
+    "vtimes": [
+      236,
+      335,
+      385,
+      452,
+      594,
+      674,
+      960,
+      995,
+      1095,
+      1147,
+      1199,
+      1224,
+      1275,
+      1300,
+      1333,
+      1425,
+      1475,
+      1525,
+      1702,
+      2019,
+      2061,
+      2187,
+      2295,
+      2345,
+      2483,
+      2508,
+      2597,
+      2751,
+      2801,
+      2900,
+      2940,
+      3116,
+      3141,
+      3191,
+      3241,
+      3339,
+      3404,
+      3482
+    ],
+    "vdurations": [
+      109,
+      60,
+      46,
+      152,
+      90,
+      216,
+      45,
+      110,
+      37,
+      35,
+      35,
+      61,
+      35,
+      43,
+      50,
+      60,
+      60,
+      187,
+      175,
+      52,
+      136,
+      61,
+      60,
+      148,
+      35,
+      44,
+      164,
+      60,
+      59,
+      50,
+      136,
+      35,
+      60,
+      60,
+      108,
+      75,
+      88,
+      411
+    ],
+    "audioEncoding": "pcm"
+  }
+}
