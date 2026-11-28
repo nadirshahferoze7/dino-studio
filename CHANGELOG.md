@@ -140,3 +140,7 @@ Owner agreed to voice casting. Produced three offline eSpeak 1.48.15 auditions o
 
 ## v0.9.3 neural studio integration checkpoint
 Added studies/v0.9.3-neural browser audition candidate using documented HeadTTS 1.3 CDN API, Kokoro timestamped model, WebGPU/WASM, three fixed voices and five lines, WAV/cue export and existing stable sprite playback. No real synthesis or visual runtime validation yet. Next verify actual hosted engine and one audio output before batch. Voice Bible and pipeline saved; prior releases unchanged.
+
+
+## 2026-11-28 — prerecorded neural production authorized
+Owner explicitly authorizes Work production: execute HeadTTS/Kokoro here, verify one real WAV plus model timing, then the fixed 3 × 5 auditions (am_puck, am_fenrir, am_liam, speed1). Mobile is review/playback only, never inference. Save WAV/MP3/JSON and three talking previews; new versioned prerecorded review route, no new Actions. No permanent voice selected; no fabricated listening scores. Restored main7cee607 and read instructions, identity, six studio skills, storage/release policies and v0.9.1–3 sources/evidence. HeadTTS Node CPU is the production path under investigation; initial dependencies downloading. Previous browser inference page is retained historically. Next verify one synthesis before full batch.
