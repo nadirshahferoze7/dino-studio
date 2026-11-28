@@ -67,3 +67,7 @@ Original RGBA sources/lowering-eight.png and deterministic derivatives under rel
 
 ## v0.8.0 complete rest cycle
 New source PNGs, rejected sit and background variants, prompts, deterministic build/player, lossless atlas and rendered/QA evidence in releases/v0.8.0. Accepted v0.7.4 rest atlas reused by exact path/hash. Manifest records native source hashes/registration; originals and previous releases unchanged. Full cycle pending review.
+
+
+## v0.9.4 prerecorded neural auditions — 2026-11-28
+Fifteen original engine WAVs in audio/, matching RIFF-corrected masters in masters/,15 MP3 playback copies and15 full engine/normalized timing JSONs. Three five-line H.264/AAC videos, render timelines, contact boards and production scripts/locks under studies/v0.9.4-auditions. Model revision/hashes pinned upstream; no model in review path. No approved voice or new identity. Asset inventory and remote verification recorded with this version.

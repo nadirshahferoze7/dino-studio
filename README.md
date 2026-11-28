@@ -12,7 +12,7 @@ A persistent, code-controlled creative studio for an original dinosaur character
 The owner approves the creative direction. AI agents perform as much of the technical and creative production as available tools allow. The repository is the durable source of project memory; conversations are not the source of truth.
 
 ## Current status
-Approved hero and turnaround remain the character authority. v0.5.1 gait and v0.7.4 lowering component are accepted. [v0.8.0](https://nadirshahferoze7.github.io/dino-studio/releases/v0.8.0/) delivers the complete13.28-second rest cycle for review: stand, sit, lower, sleep, wake and supported standing recovery. Full-cycle acceptance pending; no speech/films yet. All previous releases and fourteen historical ZIP archives remain in Git. See PROJECT_STATE.md for current evidence and next action.
+Approved hero and turnaround remain the character authority. Waving, v0.5.1 gait and v0.8.0 complete rest are accepted. Current milestone: [v0.9.4 prerecorded neural voice auditions](https://nadirshahferoze7.github.io/dino-studio/studies/v0.9.4-auditions/) — three Kokoro voices,15 actual recordings, matching JSON timing and three five-line talking MP4s. Review playback requires no model or inference. No permanent voice selected. See PROJECT_STATE.md and the version README for evidence and limitations. All previous versions and archives retained.
 
 Repository is public. Do not commit personal information, secrets, credentials, or unrelated conversation history.
 

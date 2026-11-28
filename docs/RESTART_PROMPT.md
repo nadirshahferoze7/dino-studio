@@ -38,3 +38,7 @@ Owner: “alright this is fine, now lets complete this milestone.” Treat v0.7.
 
 ## 2026-11-27 — v0.8.0 complete-cycle hosted QA verified
 Production effc120d06d213159e53c6adf4e84b058b348bed deployed in successful Pages run45964102144. Actual Cloud Chrome full-cycle playback advanced from standing through sleep/waking support and stopped at13.28s in identical standing source. Sit/Lower/Sleep/Wake/Stand chapters exercised; replay/pause, source mode, next/previous, seek, speed, breathing and source-mode loop wrap checked. Hosted MP4 played standing/sleep frames. Sampled review, not exhaustive Chromium render. All30 production files byte-verified from fetched remote Git; tree matches, older releases unchanged. Complete rest-cycle candidate now delivered at releases/v0.8.0; v0.7.4 lowering accepted, full-cycle owner review remains next. Keep documented sprite-step/contact/outfit limits; no speech until full-cycle acceptance. See evidence/hosted-review.json.
+
+
+## Current voice restart (2026-11-28)
+Read studies/v0.9.4-auditions/README.md, spec, manifest, production/model-lock.json and evidence/*.json. Real prerecorded neural outputs are present; do not rebuild an inference UI or ask the director's mobile to generate speech. Reconcile remote Git paths/hashes first and transfer only missing assets. Preserve previous versions. No permanent voice approval or listening assessment yet; collect director feedback after hosted QA.
