@@ -1,0 +1,319 @@
+{
+  "voice": "am_puck",
+  "intention": "Curious",
+  "text": "Hmm... I wonder what's behind that door.",
+  "line": 2,
+  "key": "am_puck-3",
+  "model": "onnx-community/Kokoro-82M-v1.0-ONNX-timestamped",
+  "modelRevision": "dd4401a9add81ac692d20e240d22ec9dda82cc29",
+  "engine": "HeadTTS 1.3.0",
+  "speed": 1,
+  "sampleRate": 24000,
+  "durationMs": 2650,
+  "wavSha256": "2c8578116df4369324566c95b6d6b21a9a3cc2577fa8411e0a78a7b439b0b364",
+  "timingSource": "Kokoro predicted token durations via HeadTTS; no acoustic forced alignment",
+  "cues": [
+    {
+      "id": "E",
+      "phoneme": "ə",
+      "start": 297,
+      "duration": 81,
+      "pose": 3
+    },
+    {
+      "id": "PP",
+      "phoneme": "m",
+      "start": 368,
+      "duration": 52,
+      "pose": 1
+    },
+    {
+      "id": "I",
+      "phoneme": "I",
+      "start": 530,
+      "duration": 117,
+      "pose": 3
+    },
+    {
+      "id": "U",
+      "phoneme": "w",
+      "start": 686,
+      "duration": 36,
+      "pose": 5
+    },
+    {
+      "id": "aa",
+      "phoneme": "ʌ",
+      "start": 712,
+      "duration": 63,
+      "pose": 2
+    },
+    {
+      "id": "nn",
+      "phoneme": "n",
+      "start": 765,
+      "duration": 50,
+      "pose": 7
+    },
+    {
+      "id": "DD",
+      "phoneme": "d",
+      "start": 805,
+      "duration": 41,
+      "pose": 7
+    },
+    {
+      "id": "E",
+      "phoneme": "ɜ",
+      "start": 836,
+      "duration": 40,
+      "pose": 3
+    },
+    {
+      "id": "RR",
+      "phoneme": "ɹ",
+      "start": 866,
+      "duration": 41,
+      "pose": 4
+    },
+    {
+      "id": "U",
+      "phoneme": "w",
+      "start": 943,
+      "duration": 39,
+      "pose": 5
+    },
+    {
+      "id": "aa",
+      "phoneme": "ʌ",
+      "start": 972,
+      "duration": 97,
+      "pose": 2
+    },
+    {
+      "id": "DD",
+      "phoneme": "t",
+      "start": 1059,
+      "duration": 51,
+      "pose": 7
+    },
+    {
+      "id": "SS",
+      "phoneme": "s",
+      "start": 1100,
+      "duration": 49,
+      "pose": 3
+    },
+    {
+      "id": "PP",
+      "phoneme": "b",
+      "start": 1178,
+      "duration": 51,
+      "pose": 1
+    },
+    {
+      "id": "I",
+      "phoneme": "ɪ",
+      "start": 1219,
+      "duration": 60,
+      "pose": 3
+    },
+    {
+      "id": "I",
+      "phoneme": "I",
+      "start": 1313,
+      "duration": 102,
+      "pose": 3
+    },
+    {
+      "id": "nn",
+      "phoneme": "n",
+      "start": 1405,
+      "duration": 35,
+      "pose": 7
+    },
+    {
+      "id": "DD",
+      "phoneme": "d",
+      "start": 1430,
+      "duration": 35,
+      "pose": 7
+    },
+    {
+      "id": "TH",
+      "phoneme": "ð",
+      "start": 1482,
+      "duration": 42,
+      "pose": 7
+    },
+    {
+      "id": "aa",
+      "phoneme": "æ",
+      "start": 1514,
+      "duration": 115,
+      "pose": 2
+    },
+    {
+      "id": "DD",
+      "phoneme": "t",
+      "start": 1619,
+      "duration": 36,
+      "pose": 7
+    },
+    {
+      "id": "DD",
+      "phoneme": "d",
+      "start": 1693,
+      "duration": 51,
+      "pose": 7
+    },
+    {
+      "id": "O",
+      "phoneme": "ɔ",
+      "start": 1734,
+      "duration": 178,
+      "pose": 4
+    },
+    {
+      "id": "RR",
+      "phoneme": "ɹ",
+      "start": 1902,
+      "duration": 473,
+      "pose": 4
+    }
+  ],
+  "raw": {
+    "phonemes": [
+      "ə",
+      "m",
+      "I",
+      "w",
+      "ʌ",
+      "n",
+      "d",
+      "ɜ",
+      "ɹ",
+      "w",
+      "ʌ",
+      "t",
+      "s",
+      "b",
+      "ɪ",
+      "I",
+      "n",
+      "d",
+      "ð",
+      "æ",
+      "t",
+      "d",
+      "ɔ",
+      "ɹ"
+    ],
+    "words": [
+      "Hmm... ",
+      "I ",
+      "wonder ",
+      "what's ",
+      "behind ",
+      "that ",
+      "door."
+    ],
+    "wtimes": [
+      245,
+      530,
+      686,
+      943,
+      1178,
+      1482,
+      1693
+    ],
+    "wdurations": [
+      295,
+      166,
+      267,
+      245,
+      314,
+      221,
+      892
+    ],
+    "visemes": [
+      "E",
+      "PP",
+      "I",
+      "U",
+      "aa",
+      "nn",
+      "DD",
+      "E",
+      "RR",
+      "U",
+      "aa",
+      "DD",
+      "SS",
+      "PP",
+      "I",
+      "I",
+      "nn",
+      "DD",
+      "TH",
+      "aa",
+      "DD",
+      "DD",
+      "O",
+      "RR"
+    ],
+    "vtimes": [
+      297,
+      368,
+      530,
+      686,
+      712,
+      765,
+      805,
+      836,
+      866,
+      943,
+      972,
+      1059,
+      1100,
+      1178,
+      1219,
+      1313,
+      1405,
+      1430,
+      1482,
+      1514,
+      1619,
+      1693,
+      1734,
+      1902
+    ],
+    "vdurations": [
+      81,
+      52,
+      117,
+      36,
+      63,
+      50,
+      41,
+      40,
+      41,
+      39,
+      97,
+      51,
+      49,
+      51,
+      60,
+      102,
+      35,
+      35,
+      42,
+      115,
+      36,
+      51,
+      178,
+      473
+    ],
+    "audioEncoding": "wav"
+  }
+}
