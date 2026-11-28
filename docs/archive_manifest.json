@@ -1076,6 +1076,15 @@
       "voiceConfig": "characters/DINO-001/voice.json",
       "validation": "studies/v0.9.6-kindness/evidence/validation.json",
       "hosted_validation": "studies/v0.9.6-kindness/evidence/hosted-review.json"
+    },
+    {
+      "version": "v0.9.7",
+      "status": "Michael-led candidate; technical and hosted playback QA passed; creative listening approval pending",
+      "inventory": "studies/v0.9.7-depth/asset-inventory.json",
+      "sha256": "b43c66ff5f94b9a06c74701300e71806a5908cba06412a51fde59aaf105b9b0c",
+      "git_blob_sha": "82b439e699332318ef2c0ea17813552f5b0bd417",
+      "files": 26,
+      "hosted_validation": "studies/v0.9.7-depth/evidence/hosted-review.json"
     }
   ]
 }

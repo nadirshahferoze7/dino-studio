@@ -1,0 +1,48 @@
+{
+  "productionCommit": "793c92f0420aa2a6aa37984230ad2191dbc3bb65",
+  "date": "2026-11-28",
+  "url": "https://nadirshahferoze7.github.io/dino-studio/studies/v0.9.7-depth/",
+  "desktop": {
+    "width": 1363,
+    "openingComparison": "A started, handed over to B, both paused on completion",
+    "aStopSeconds": 10.838804,
+    "bStopSeconds": 11.337934,
+    "candidateVideo": {
+      "duration": 32.208333,
+      "ended": true,
+      "mediaError": null
+    },
+    "visualInspection": "Actual captioned performance and final neutral mouth inspected; approved character artwork preserved"
+  },
+  "narrowLayout": [
+    {
+      "iframeWidth": 360,
+      "clientWidth": 345,
+      "scrollWidth": 345
+    },
+    {
+      "iframeWidth": 390,
+      "clientWidth": 375,
+      "scrollWidth": 375
+    },
+    {
+      "iframeWidth": 430,
+      "clientWidth": 415,
+      "scrollWidth": 415
+    }
+  ],
+  "narrowPlayback": {
+    "iframeWidth": 390,
+    "comparisonCompleted": true,
+    "aStopSeconds": 10.896429,
+    "bStopSeconds": 11.352851,
+    "bothPaused": true,
+    "mediaErrors": null
+  },
+  "limitations": [
+    "No auditory assessment or artistic score claimed",
+    "Responsive desktop iframe checks, not physical Android/iOS hardware",
+    "Browser extension metadata errors observed; no media error observed"
+  ],
+  "inferenceDuringReview": false
+}

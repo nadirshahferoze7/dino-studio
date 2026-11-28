@@ -1,0 +1,159 @@
+{
+  "verifiedCommit": "793c92f0420aa2a6aa37984230ad2191dbc3bb65",
+  "method": "Complete remote Git bytes compared with local files, size/SHA256/blob IDs",
+  "files": [
+    {
+      "path": "studies/v0.9.7-depth/README.md",
+      "bytes": 3170,
+      "sha256": "be8a1c88cb2ca090a5dfd42570ed5911c6963a9ae4eba92043874ac1e1e36644",
+      "gitBlob": "dd000fde9153c99a3bb936c8f738cb5d06b2b737"
+    },
+    {
+      "path": "studies/v0.9.7-depth/asset-inventory.json",
+      "bytes": 5933,
+      "sha256": "1bbfbc306e71b32761b2274a7812de67ef2da89bfbda2cb53b3a856628682cae",
+      "gitBlob": "362476b9a7a8091603fa19e849335ef52559f04a"
+    },
+    {
+      "path": "studies/v0.9.7-depth/compare.mjs",
+      "bytes": 1841,
+      "sha256": "9c72fe4a01079b22cf5a1ee525bed071314fc0f558ea2fa2c725a542ffd9f85c",
+      "gitBlob": "eb53efca9a59174c951f572aefa52cbe4c1e201c"
+    },
+    {
+      "path": "studies/v0.9.7-depth/index.html",
+      "bytes": 5330,
+      "sha256": "db6ae0c667e663ebdb94a7521756bdb34154fac8f715340eb5441b83c6653a25",
+      "gitBlob": "010da3dd617a09eac5a22edfdfe8fda68e96f602"
+    },
+    {
+      "path": "studies/v0.9.7-depth/spec.json",
+      "bytes": 1575,
+      "sha256": "9f2e5ea02bb8054f9a8e82583673e222f19f33aa73f15db6aa60d62562a35efb",
+      "gitBlob": "e36acb3e4a1d84aecf0dbba854e7f028df572ca8"
+    },
+    {
+      "path": "studies/v0.9.7-depth/SCRIPT.md",
+      "bytes": 650,
+      "sha256": "3e841d8f5aa71ea13ced05b705636212e620e13b44b1b2d09df534fbef8a6915",
+      "gitBlob": "2606ec29247bf362e4c3ba28c16197af6e087b63"
+    },
+    {
+      "path": "studies/v0.9.7-depth/performance.json",
+      "bytes": 36571,
+      "sha256": "09a07dc454bad672eb3f0e4fc5a1b3f770db012f4f75f26a1a4dddfadbfc3b63",
+      "gitBlob": "3bdac061f9910cd8c86e318de2020b0508261ac7"
+    },
+    {
+      "path": "studies/v0.9.7-depth/evidence/mobile-check.html",
+      "bytes": 970,
+      "sha256": "c8039376854899d504026e2aada025a9b3e35d8051bf7ac908610d11874671a7",
+      "gitBlob": "6ffc5b07c96e891b0cbb114af53795a004ad4eff"
+    },
+    {
+      "path": "studies/v0.9.7-depth/evidence/validation.json",
+      "bytes": 39078,
+      "sha256": "ab25e61019254a0f28f3f4f95cba361f962c3d8cb55871d3ec6181f15fa3b244",
+      "gitBlob": "dc53355e6d2b599ff83ddf63bd36a9b4c4049e34"
+    },
+    {
+      "path": "studies/v0.9.7-depth/evidence/contact.jpg",
+      "bytes": 286816,
+      "sha256": "29a1b5e8e7394b5e81ef173ddfa0c71394a5ed133c39f806279c69611bb5243b",
+      "gitBlob": "ed3debb13621f677718646caf4c3e9799bf9aec5"
+    },
+    {
+      "path": "studies/v0.9.7-depth/media/kindness.wav",
+      "bytes": 1545644,
+      "sha256": "4c450e958f1ea32dd6895407e312b305c410fabd556961225bad07bacae2f436",
+      "gitBlob": "95d193e9048f7238a1d8c2fe60a0abdde94da88d"
+    },
+    {
+      "path": "studies/v0.9.7-depth/media/kindness.mp4",
+      "bytes": 799360,
+      "sha256": "5c8e086bad8b9b4eda683b1632fe7cdf4c0636e06f6a1ab693ab5125cb5edab5",
+      "gitBlob": "e8b2f81feafafaf7aa226189da808f965fb27a31"
+    },
+    {
+      "path": "studies/v0.9.7-depth/media/kindness.mp3",
+      "bytes": 266276,
+      "sha256": "c87c760e66dfd2fb7ebd38e5e1248ca7fd799412abcf2c09b4d50d7b259003be",
+      "gitBlob": "782065ea02e1b02987dcf091a066207f2f0c2929"
+    },
+    {
+      "path": "studies/v0.9.7-depth/media/captions.vtt",
+      "bytes": 766,
+      "sha256": "d102f4bf8463c3124a271355079b068bf41c5170a2aaf1d695288323d00645fd",
+      "gitBlob": "9dc1ade3ed0618f08485b8647bf00acd41021316"
+    },
+    {
+      "path": "studies/v0.9.7-depth/timing/dino_fenrir_michael_30_70-1.json",
+      "bytes": 17346,
+      "sha256": "4ea23544f945d00988ace68db56978c021de993de84c9d2642c28d94d9b63107",
+      "gitBlob": "8e291bdb122c873d94e214edb35b41e829438634"
+    },
+    {
+      "path": "studies/v0.9.7-depth/timing/dino_fenrir_michael_30_70-3.json",
+      "bytes": 19085,
+      "sha256": "5a199b425371e9ff2759f8963c8c2f85abdbcf4a6f6738dbe3e6bff1b1336842",
+      "gitBlob": "5291b42ad85613add766eb2b2d926c0f8b2b67d2"
+    },
+    {
+      "path": "studies/v0.9.7-depth/timing/dino_fenrir_michael_30_70-2.json",
+      "bytes": 12857,
+      "sha256": "ff0fd79119dfa9ec272263933787e9d813c4f611490caa0b9418f466d97486af",
+      "gitBlob": "eb9b3ce8381ee3eb70d10cba8130bdb9431c43a2"
+    },
+    {
+      "path": "studies/v0.9.7-depth/production/scene.py",
+      "bytes": 7132,
+      "sha256": "902f65b51fe94690b15a560feba9391e62663821022cda1f435383422b965f31",
+      "gitBlob": "a6ebbd066ab212dd347eb68240503e101ee6ce01"
+    },
+    {
+      "path": "studies/v0.9.7-depth/production/blend-lock.json",
+      "bytes": 839,
+      "sha256": "8f0424ecd6118351d63c3c002b804098efc2ef34fdbebc560222e1d857206044",
+      "gitBlob": "7804d3891ec5de14dcbbf8f6fa2d333f12365a3a"
+    },
+    {
+      "path": "studies/v0.9.7-depth/production/blend.py",
+      "bytes": 1559,
+      "sha256": "4a6c96b1c29231813a1bbe7cd2f34b09b79c8f776b01f97665e28da60cc76baf",
+      "gitBlob": "c1120be4eaaf3ee3a246c6e15ef1f41152421f12"
+    },
+    {
+      "path": "studies/v0.9.7-depth/production/generate.mjs",
+      "bytes": 4089,
+      "sha256": "eb91b75e1f3933373d79c656e0c519424e7616446bd3e3eaea0504cc6587e9a8",
+      "gitBlob": "c51a5af255e0ca9b680657210db785697f395f29"
+    },
+    {
+      "path": "studies/v0.9.7-depth/audio/dino_fenrir_michael_30_70-2.wav",
+      "bytes": 362444,
+      "sha256": "dd77b44e86db809b033dc300ca066ae35a328b8b9adafc0c3ab27c0b8a43e9fe",
+      "gitBlob": "3106ab5fe6318d953bbb9269e520d2b52c6763ea"
+    },
+    {
+      "path": "studies/v0.9.7-depth/audio/dino_fenrir_michael_30_70-1.wav",
+      "bytes": 511244,
+      "sha256": "66384cb6959bf580efe17d6b76f8192740a106b1ffa3e34e8b318323dee9fbd2",
+      "gitBlob": "9d7d3a567c06b3840a6d1a2f64b16a3634d9c2fe"
+    },
+    {
+      "path": "studies/v0.9.7-depth/audio/dino_fenrir_michael_30_70-3.wav",
+      "bytes": 566444,
+      "sha256": "63b147fab22efce5f5a898bd09e3d83987123832bdc32d4abaeb29df431ead37",
+      "gitBlob": "656d4e448c3e0eb182bc4be9fc837bdf0f26b376"
+    },
+    {
+      "path": "studies/v0.9.7-depth/production/voices/dino_fenrir_michael_30_70.bin",
+      "bytes": 522240,
+      "sha256": "7140b7553f9115b7d8e5d55f8d2ebe571e3c549b568ba0fa9a191f3286f06ec4",
+      "gitBlob": "e70d647045b1edca86235151106f22f569b8c65c"
+    }
+  ],
+  "approvedVoiceConfig": "identical to5b92a60",
+  "approvedReferences": "hashes matched",
+  "previousMediaAndActions": "unchanged"
+}
